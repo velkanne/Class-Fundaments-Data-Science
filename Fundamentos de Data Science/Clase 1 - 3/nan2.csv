@@ -1,0 +1,2001 @@
+edad,ciudad,peso,ingresos,genero,nivel_educacional,fumador,actividad_fisica,estado_civil,horas_suenho,enfermedades_cronicas,consumo_alcohol,uso_transporte
+47.5,Antofagasta,76.9,,Masculino,Técnica,Sí,Alta,Separado/a,5.4,,Nunca,Público
+37.9,Puerto Montt,48.6,,Masculino,Universitaria,No,Media,Soltero/a,7.3,Sí,Nunca,Bicicleta/Pie
+49.7,Antofagasta,65.7,287000.0,Masculino,Media,,Alta,Casado/a,6.9,No,Ocasional,Bicicleta/Pie
+62.8,Concepción,73.6,985000.0,Femenino,Técnica,Sí,Alta,Viudo/a,8.3,No,Ocasional,Privado
+36.5,Concepción,72.2,927000.0,Masculino,Universitaria,Sí,Media,Soltero/a,7.7,,Nunca,Privado
+36.5,Valdivia,102.3,786000.0,Femenino,,No,Baja,Viudo/a,5.9,No,Nunca,Público
+63.7,Concepción,74.2,451000.0,Masculino,Básica,Sí,Baja,Soltero/a,7.4,Sí,Frecuente,Bicicleta/Pie
+51.5,Antofagasta,58.0,,Femenino,Universitaria,,Media,Separado/a,7.1,No,Frecuente,Bicicleta/Pie
+33.0,Temuco,68.9,734000.0,Masculino,Media,No,Media,Soltero/a,4.5,No,Nunca,Público
+48.1,La Serena,48.7,401000.0,Femenino,Media,Sí,,Casado/a,6.4,Sí,,Privado
+33.0,La Serena,69.0,,Masculino,Universitaria,No,Baja,Casado/a,7.1,Sí,Frecuente,Bicicleta/Pie
+,Valdivia,60.0,963000.0,Masculino,Técnica,No,Baja,Viudo/a,6.8,No,Ocasional,Público
+,Valparaíso,81.0,1157000.0,Masculino,Media,No,Media,Separado/a,7.5,No,Ocasional,Privado
+11.3,La Serena,63.4,695000.0,Masculino,Media,No,Alta,Separado/a,7.1,No,Ocasional,Público
+14.1,La Serena,,989000.0,Femenino,Básica,No,,Viudo/a,7.5,No,Frecuente,Público
+,Concepción,62.4,321000.0,Femenino,Técnica,No,Baja,Casado/a,7.3,Sí,Nunca,Bicicleta/Pie
+24.8,Concepción,90.9,965000.0,Masculino,Universitaria,Sí,,Casado/a,7.0,No,Ocasional,Privado
+44.7,Antofagasta,66.1,599000.0,Femenino,Técnica,No,Media,Viudo/a,7.2,No,Frecuente,Bicicleta/Pie
+26.4,Valdivia,92.0,877000.0,Masculino,Básica,Sí,Baja,Separado/a,6.5,No,Nunca,Bicicleta/Pie
+18.8,Valparaíso,,,,Básica,,Media,Viudo/a,,No,Ocasional,Privado
+62.0,Valdivia,75.8,1130000.0,Femenino,Técnica,No,Alta,Viudo/a,7.1,No,Frecuente,Privado
+36.6,Santiago,74.4,581000.0,Femenino,Básica,Sí,Baja,Soltero/a,,No,Ocasional,Privado
+41.0,Puerto Montt,74.7,957000.0,Femenino,Básica,Sí,,Viudo/a,6.4,Sí,Frecuente,Bicicleta/Pie
+18.6,Valparaíso,,730000.0,Masculino,Básica,Sí,Alta,Casado/a,5.9,No,Ocasional,Privado
+31.8,Valparaíso,66.7,760000.0,Masculino,Técnica,No,Alta,Viudo/a,5.8,No,Frecuente,Privado
+41.7,Temuco,80.1,754000.0,Femenino,Básica,Sí,Media,Separado/a,6.5,No,Nunca,Privado
+22.7,Valdivia,69.4,589000.0,Masculino,Universitaria,Sí,Alta,Separado/a,5.0,Sí,Ocasional,Público
+45.6,Antofagasta,53.1,796000.0,Femenino,Universitaria,No,Baja,Casado/a,6.5,No,Ocasional,Privado
+31.0,Temuco,,784000.0,Femenino,Media,,Alta,Separado/a,7.3,No,Frecuente,Bicicleta/Pie
+35.6,Valparaíso,90.4,860000.0,Femenino,Universitaria,Sí,Media,Viudo/a,8.6,No,,Público
+31.0,Valparaíso,85.0,821000.0,Femenino,Media,Sí,Baja,Casado/a,10.3,No,Nunca,Bicicleta/Pie
+67.8,Valparaíso,69.3,999000.0,,Técnica,No,Alta,,4.3,No,Ocasional,Público
+39.8,La Serena,81.4,1031000.0,Femenino,Básica,Sí,Alta,Viudo/a,5.6,No,Frecuente,Privado
+24.1,Valdivia,65.6,537000.0,,Universitaria,Sí,,Separado/a,6.5,No,,Público
+52.3,Puerto Montt,49.6,1017000.0,Masculino,Media,No,Baja,Soltero/a,7.2,Sí,Frecuente,Bicicleta/Pie
+21.7,Puerto Montt,58.9,503000.0,Femenino,Técnica,No,Alta,Separado/a,7.5,Sí,Nunca,Público
+43.1,Temuco,88.8,,Femenino,Media,No,Baja,Casado/a,6.1,Sí,Ocasional,Privado
+10.6,Valparaíso,66.7,955000.0,Femenino,Básica,Sí,Media,Viudo/a,3.2,Sí,Frecuente,Privado
+20.1,Puerto Montt,67.1,322000.0,Masculino,Universitaria,No,Alta,Viudo/a,8.6,Sí,Nunca,Bicicleta/Pie
+43.0,Concepción,,823000.0,Femenino,Técnica,No,Media,,7.8,No,,Público
+51.1,Valdivia,92.8,683000.0,,Media,No,Alta,Soltero/a,8.1,No,,Bicicleta/Pie
+42.6,Puerto Montt,89.5,610000.0,Femenino,Técnica,Sí,Media,Viudo/a,6.7,No,,Bicicleta/Pie
+38.3,Antofagasta,96.6,1138000.0,Masculino,Media,No,Media,Casado/a,7.5,No,Ocasional,Bicicleta/Pie
+35.5,Valdivia,68.1,637000.0,Femenino,,No,Baja,Separado/a,,No,Nunca,Privado
+17.8,Antofagasta,73.5,598000.0,Masculino,Básica,No,,Soltero/a,5.4,No,Frecuente,Público
+29.2,Puerto Montt,51.8,819000.0,,Básica,No,Baja,Casado/a,8.8,Sí,Nunca,Privado
+33.1,Concepción,87.7,971000.0,Femenino,Media,No,Baja,Separado/a,7.0,No,Nunca,Privado
+55.9,Antofagasta,56.0,765000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,9.8,No,Ocasional,Privado
+45.2,La Serena,72.6,1092000.0,Masculino,Técnica,Sí,Media,Viudo/a,5.5,No,Ocasional,Público
+13.6,Puerto Montt,56.8,933000.0,Masculino,Técnica,,Alta,Soltero/a,10.8,No,Nunca,Privado
+,La Serena,62.9,255000.0,Femenino,Básica,No,Alta,Separado/a,11.0,No,Ocasional,Privado
+34.2,Puerto Montt,60.0,668000.0,Masculino,Universitaria,No,Alta,Casado/a,6.0,No,Nunca,Privado
+29.8,Santiago,62.7,660000.0,Femenino,Media,Sí,Baja,Viudo/a,6.3,No,Ocasional,Público
+49.2,Santiago,63.5,920000.0,Femenino,Básica,Sí,Alta,Casado/a,8.9,,Ocasional,Público
+55.5,Santiago,63.4,144000.0,Femenino,Media,Sí,Alta,Casado/a,6.2,,Frecuente,Bicicleta/Pie
+54.0,Antofagasta,80.0,1437000.0,Masculino,Media,Sí,,Casado/a,6.6,No,Frecuente,Privado
+27.4,La Serena,56.7,933000.0,Femenino,Básica,,Media,Soltero/a,5.9,No,Ocasional,Privado
+35.4,La Serena,72.6,837000.0,Masculino,Universitaria,No,Media,Casado/a,5.9,No,Nunca,Público
+45.0,La Serena,84.6,1095000.0,Masculino,Técnica,No,Media,Soltero/a,7.2,No,Nunca,Público
+54.6,Concepción,63.8,1386000.0,Masculino,Básica,No,Media,Soltero/a,6.6,Sí,Nunca,Privado
+32.8,La Serena,61.4,1018000.0,Masculino,,Sí,Baja,Separado/a,3.9,No,Ocasional,Bicicleta/Pie
+37.2,Concepción,67.2,1037000.0,,Media,No,,Viudo/a,9.2,No,Ocasional,Bicicleta/Pie
+23.4,Santiago,84.2,833000.0,Femenino,Básica,Sí,Alta,Casado/a,9.4,No,Nunca,Privado
+22.1,Santiago,72.3,765000.0,Masculino,Técnica,Sí,Baja,Separado/a,,No,,Bicicleta/Pie
+52.2,Antofagasta,63.6,681000.0,Femenino,Técnica,No,,Separado/a,7.2,No,Frecuente,Bicicleta/Pie
+60.3,Puerto Montt,75.8,593000.0,Femenino,Media,Sí,Alta,Separado/a,,No,Nunca,Privado
+38.9,Santiago,56.8,,Femenino,Básica,Sí,Alta,Separado/a,6.3,No,Ocasional,Bicicleta/Pie
+55.1,Puerto Montt,78.2,462000.0,Masculino,Técnica,No,,Separado/a,,No,Ocasional,Público
+45.4,Puerto Montt,74.9,781000.0,Femenino,,Sí,,Casado/a,7.9,Sí,Nunca,Privado
+30.3,Valdivia,66.3,379000.0,Masculino,Técnica,Sí,Media,Separado/a,7.7,No,Frecuente,Público
+45.4,Antofagasta,59.9,848000.0,Femenino,Media,No,Baja,Viudo/a,7.7,Sí,Nunca,Privado
+,Valparaíso,59.4,,Masculino,Media,Sí,Alta,Soltero/a,8.6,No,Nunca,Público
+39.5,Valparaíso,,837000.0,Masculino,Básica,Sí,Media,Soltero/a,8.4,No,Nunca,
+,Temuco,84.7,669000.0,Masculino,Universitaria,No,Alta,Viudo/a,8.0,Sí,Frecuente,Público
+0.7,Valdivia,62.4,1569000.0,Femenino,Universitaria,Sí,Alta,Casado/a,6.5,No,Nunca,Público
+52.3,Antofagasta,75.5,1140000.0,Masculino,Media,No,,,9.5,Sí,Frecuente,Público
+41.3,Temuco,45.0,489000.0,Femenino,Técnica,Sí,Alta,Viudo/a,6.3,No,Ocasional,Público
+35.5,Temuco,63.0,858000.0,Masculino,Universitaria,Sí,Media,Viudo/a,,No,Frecuente,Público
+41.4,Valdivia,69.6,648000.0,Femenino,Media,No,Media,Separado/a,6.2,Sí,Frecuente,Privado
+10.2,Valparaíso,59.1,546000.0,Masculino,Técnica,No,Alta,Soltero/a,,Sí,Nunca,Público
+36.7,Antofagasta,58.8,465000.0,Femenino,,Sí,,Separado/a,7.9,No,Ocasional,Público
+45.4,Valparaíso,62.0,908000.0,,Universitaria,No,Baja,Casado/a,7.0,No,Nunca,Privado
+62.2,Temuco,73.5,630000.0,Masculino,Media,Sí,Media,Soltero/a,8.7,Sí,Frecuente,Privado
+32.2,Antofagasta,67.8,,Masculino,Técnica,No,Media,Soltero/a,3.3,No,Frecuente,Bicicleta/Pie
+27.9,Temuco,,1048000.0,Femenino,Técnica,Sí,Alta,Viudo/a,7.3,Sí,Nunca,Público
+32.5,La Serena,44.6,1143000.0,Masculino,Básica,Sí,Alta,Soltero/a,6.6,No,Ocasional,Público
+53.7,Valdivia,62.7,587000.0,Masculino,Básica,Sí,Alta,Casado/a,,,Frecuente,Bicicleta/Pie
+44.9,Puerto Montt,75.5,919000.0,Masculino,Universitaria,Sí,Media,Casado/a,5.4,Sí,,Público
+32.1,Antofagasta,37.0,958000.0,Masculino,Básica,Sí,Alta,Soltero/a,,Sí,Frecuente,Bicicleta/Pie
+47.7,Antofagasta,,681000.0,Femenino,Media,No,Baja,Viudo/a,5.9,No,Ocasional,
+41.5,Puerto Montt,63.7,607000.0,Masculino,Universitaria,No,Baja,Casado/a,9.3,Sí,Nunca,Público
+54.5,Temuco,86.7,,Masculino,Universitaria,Sí,Alta,Separado/a,7.9,Sí,Ocasional,Público
+,La Serena,65.4,857000.0,Femenino,,Sí,Baja,Casado/a,8.5,No,Ocasional,Privado
+35.1,Concepción,74.6,959000.0,Femenino,Técnica,No,Baja,Soltero/a,4.4,No,Frecuente,Público
+34.1,Puerto Montt,71.7,594000.0,Femenino,Media,No,,Separado/a,8.3,No,Ocasional,
+18.0,Valdivia,44.4,495000.0,Masculino,Media,No,Baja,Soltero/a,,No,Frecuente,Privado
+44.4,Valparaíso,79.2,658000.0,Femenino,Media,No,Baja,Soltero/a,6.4,No,Ocasional,Bicicleta/Pie
+43.9,Temuco,72.6,769000.0,Femenino,Universitaria,No,Media,Soltero/a,6.7,No,Ocasional,Privado
+40.1,Puerto Montt,76.1,534000.0,Femenino,Media,Sí,Alta,Viudo/a,5.5,No,Nunca,Bicicleta/Pie
+36.5,Puerto Montt,117.1,798000.0,Masculino,Técnica,Sí,Baja,Viudo/a,6.5,No,Ocasional,Privado
+18.8,Antofagasta,,378000.0,Masculino,Técnica,No,Alta,,7.8,No,Nunca,Bicicleta/Pie
+33.7,Valparaíso,90.7,520000.0,Masculino,Básica,No,Baja,Soltero/a,6.0,No,,Bicicleta/Pie
+34.9,Valparaíso,66.6,968000.0,Femenino,Media,No,Media,Separado/a,7.1,Sí,Frecuente,Bicicleta/Pie
+28.0,Valdivia,73.4,951000.0,Masculino,Universitaria,No,Media,Separado/a,10.8,Sí,Nunca,Bicicleta/Pie
+,Valparaíso,,702000.0,Femenino,Básica,No,Baja,Separado/a,,Sí,Frecuente,Público
+46.1,Puerto Montt,64.9,546000.0,Femenino,Técnica,No,Baja,Viudo/a,7.5,No,Frecuente,Privado
+68.3,Concepción,63.2,543000.0,Femenino,Media,No,Baja,Viudo/a,5.4,No,Ocasional,Privado
+,Santiago,74.0,707000.0,Masculino,Técnica,No,Media,,4.8,Sí,Nunca,Privado
+43.9,Temuco,51.8,961000.0,Femenino,Básica,No,Media,Separado/a,8.2,No,Frecuente,Privado
+38.9,Santiago,79.0,1032000.0,Femenino,Técnica,Sí,Alta,Separado/a,6.4,No,Nunca,Bicicleta/Pie
+11.2,Puerto Montt,65.0,676000.0,Masculino,Media,No,Media,Viudo/a,9.4,No,Ocasional,Público
+39.6,Santiago,56.4,512000.0,Femenino,Media,No,,Viudo/a,,No,Frecuente,Privado
+40.9,Puerto Montt,64.6,867000.0,Femenino,Básica,Sí,Alta,Separado/a,5.8,No,Frecuente,Privado
+76.9,Santiago,85.1,594000.0,Femenino,,Sí,Media,Separado/a,5.7,No,Nunca,Privado
+37.1,Valparaíso,63.6,670000.0,Masculino,Técnica,,Media,Casado/a,8.1,No,Frecuente,Bicicleta/Pie
+44.5,La Serena,74.3,1131000.0,Femenino,Técnica,No,Baja,Viudo/a,5.4,No,Nunca,Privado
+39.5,Valparaíso,61.2,1007000.0,Masculino,Universitaria,No,Alta,,5.4,No,Frecuente,
+22.5,Valparaíso,79.1,839000.0,Masculino,Universitaria,No,Media,Soltero/a,4.4,No,Ocasional,Público
+57.1,Valdivia,78.2,482000.0,Femenino,Universitaria,No,Media,Separado/a,7.9,No,Ocasional,Bicicleta/Pie
+51.3,Antofagasta,92.2,853000.0,Femenino,Técnica,,,Viudo/a,5.8,Sí,Nunca,Público
+51.9,Antofagasta,67.9,1066000.0,Femenino,Técnica,No,Alta,Soltero/a,7.5,No,Frecuente,
+,Santiago,78.0,706000.0,Femenino,Básica,No,,Viudo/a,5.0,Sí,Frecuente,Bicicleta/Pie
+61.0,Puerto Montt,71.2,1138000.0,Masculino,Universitaria,Sí,Alta,Separado/a,4.5,Sí,Nunca,
+19.0,Valdivia,85.6,1123000.0,Masculino,Técnica,No,,Separado/a,8.1,Sí,Ocasional,Privado
+48.8,Valparaíso,61.4,1216000.0,,Básica,,Baja,Separado/a,6.8,No,Ocasional,Bicicleta/Pie
+72.9,Valdivia,78.9,876000.0,Masculino,Técnica,No,Media,Viudo/a,6.0,,Ocasional,Público
+25.1,Santiago,67.7,947000.0,,Básica,No,Media,Soltero/a,6.3,No,Nunca,Bicicleta/Pie
+31.5,Antofagasta,69.2,1154000.0,Femenino,Universitaria,Sí,Alta,Casado/a,6.3,No,Ocasional,Bicicleta/Pie
+41.5,La Serena,71.1,,Femenino,Universitaria,Sí,Alta,Soltero/a,10.1,No,Nunca,
+32.4,Temuco,73.0,675000.0,Femenino,Universitaria,Sí,Alta,,7.4,No,Ocasional,Bicicleta/Pie
+16.7,Santiago,68.6,688000.0,Masculino,Técnica,,Media,Soltero/a,7.2,Sí,Ocasional,Público
+41.0,Valdivia,72.6,860000.0,Masculino,Técnica,No,Media,Casado/a,5.9,No,Nunca,Público
+24.1,La Serena,88.9,477000.0,Femenino,Básica,No,Alta,Soltero/a,8.2,Sí,Frecuente,Bicicleta/Pie
+47.1,Temuco,81.8,,Femenino,Media,No,Baja,Casado/a,5.3,No,Frecuente,Bicicleta/Pie
+26.2,Concepción,80.4,1074000.0,Masculino,Media,Sí,Media,Viudo/a,7.8,Sí,Frecuente,Público
+63.2,Santiago,64.5,252000.0,Masculino,Universitaria,Sí,Media,Separado/a,7.8,,Ocasional,Público
+28.3,Santiago,59.3,1184000.0,Masculino,Media,Sí,Alta,,8.5,Sí,,
+35.2,Concepción,81.5,1081000.0,Femenino,,,Baja,Viudo/a,4.0,No,Frecuente,Público
+52.2,Concepción,80.5,685000.0,Masculino,Básica,No,Alta,Separado/a,8.7,Sí,Ocasional,Público
+21.5,Santiago,87.7,936000.0,Femenino,Media,Sí,Alta,Casado/a,7.5,No,Ocasional,Bicicleta/Pie
+43.4,Concepción,62.8,,Femenino,Media,Sí,Baja,Separado/a,5.9,No,Frecuente,Privado
+,Valparaíso,67.2,1107000.0,Masculino,Universitaria,No,Baja,Soltero/a,3.8,,Nunca,Bicicleta/Pie
+15.9,Temuco,50.3,1046000.0,Femenino,Básica,No,Baja,Viudo/a,6.4,No,Frecuente,Privado
+42.8,Temuco,65.3,450000.0,Masculino,,,Media,Viudo/a,,No,Frecuente,Público
+43.9,Temuco,82.0,947000.0,Femenino,Media,Sí,,Viudo/a,4.7,Sí,Nunca,Bicicleta/Pie
+51.7,Valparaíso,64.4,749000.0,Femenino,Media,Sí,Media,Viudo/a,5.7,No,Ocasional,Privado
+21.4,Puerto Montt,77.7,821000.0,Femenino,Básica,Sí,,Casado/a,,Sí,,Público
+20.2,Concepción,67.7,618000.0,Femenino,Básica,Sí,Media,Soltero/a,6.3,,Frecuente,Bicicleta/Pie
+47.8,La Serena,73.9,1237000.0,Femenino,Media,No,Baja,Separado/a,5.4,Sí,Ocasional,Privado
+44.5,Concepción,56.2,1060000.0,Femenino,,No,,Viudo/a,10.3,No,Ocasional,
+43.8,Santiago,71.0,615000.0,Masculino,Universitaria,No,Alta,Viudo/a,8.3,No,Nunca,Privado
+45.2,Antofagasta,34.1,466000.0,Masculino,Media,,Alta,Casado/a,5.3,No,Ocasional,Bicicleta/Pie
+29.8,Valdivia,67.8,704000.0,Femenino,Básica,No,Alta,Casado/a,5.6,No,Frecuente,Bicicleta/Pie
+43.5,Valdivia,,909000.0,Masculino,Media,No,Media,Casado/a,4.8,Sí,Ocasional,Privado
+44.4,Temuco,84.5,860000.0,Femenino,Básica,No,Alta,Soltero/a,6.8,Sí,Ocasional,Bicicleta/Pie
+29.3,Concepción,79.3,1113000.0,Masculino,Media,No,Baja,Separado/a,9.7,No,Nunca,Bicicleta/Pie
+,La Serena,75.6,997000.0,Masculino,Básica,No,Alta,,8.8,No,Nunca,Público
+47.1,Santiago,88.3,1042000.0,Femenino,Técnica,Sí,Media,Viudo/a,7.3,No,,Privado
+22.1,Valparaíso,,882000.0,Masculino,Universitaria,No,Alta,Casado/a,6.6,No,,
+49.8,Puerto Montt,91.0,453000.0,Femenino,Técnica,No,Alta,Viudo/a,7.8,No,,Privado
+25.4,Valparaíso,81.2,751000.0,Masculino,Universitaria,,Alta,Separado/a,7.4,Sí,Frecuente,Bicicleta/Pie
+51.8,La Serena,67.2,1065000.0,Femenino,Básica,Sí,Media,Separado/a,7.6,No,Frecuente,Privado
+57.4,Santiago,83.6,787000.0,Masculino,Técnica,,Baja,,7.3,No,Ocasional,Privado
+27.7,Temuco,56.7,926000.0,Femenino,Universitaria,No,Baja,Soltero/a,7.7,No,Ocasional,Público
+54.5,Concepción,60.1,720000.0,Masculino,Media,No,Baja,Casado/a,4.9,No,Ocasional,Público
+46.2,Santiago,62.7,543000.0,Femenino,Básica,No,Alta,,6.8,Sí,Nunca,Privado
+52.3,Valdivia,63.7,769000.0,Masculino,Básica,Sí,Alta,Viudo/a,7.4,No,Nunca,Bicicleta/Pie
+68.5,Puerto Montt,57.3,,Femenino,Media,No,Media,Casado/a,6.3,No,Ocasional,Privado
+36.3,Valparaíso,84.7,636000.0,Masculino,Media,Sí,Baja,Casado/a,5.1,Sí,Nunca,
+28.7,Puerto Montt,66.9,741000.0,Femenino,Universitaria,No,Alta,Viudo/a,7.0,Sí,Nunca,Privado
+26.7,Puerto Montt,,565000.0,Masculino,Básica,No,Alta,Separado/a,12.0,No,Nunca,Público
+27.8,La Serena,63.2,1080000.0,Femenino,,,Alta,Casado/a,5.8,No,Frecuente,
+38.8,La Serena,48.2,726000.0,Femenino,,Sí,Media,Casado/a,6.8,Sí,Ocasional,Bicicleta/Pie
+45.1,Concepción,73.2,,Femenino,Básica,No,Baja,Viudo/a,8.9,,Ocasional,Privado
+,La Serena,47.1,1182000.0,Femenino,Media,No,Media,Viudo/a,9.7,Sí,Frecuente,Bicicleta/Pie
+52.4,La Serena,69.2,780000.0,Masculino,Universitaria,Sí,Baja,Viudo/a,6.1,No,Nunca,Público
+40.2,Santiago,53.6,548000.0,Masculino,Universitaria,No,Baja,Viudo/a,8.4,Sí,Ocasional,Privado
+61.8,Valdivia,93.8,,Masculino,Universitaria,Sí,Alta,Viudo/a,8.2,No,Nunca,
+36.0,Temuco,80.9,432000.0,Femenino,Básica,No,Alta,Casado/a,6.2,Sí,Frecuente,Público
+80.8,Concepción,71.3,457000.0,Femenino,Media,Sí,Alta,Soltero/a,7.9,No,Nunca,
+49.4,Santiago,85.2,1145000.0,Femenino,Media,,,Soltero/a,6.7,Sí,Frecuente,Bicicleta/Pie
+27.1,Temuco,59.8,829000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,6.1,No,Frecuente,
+,Puerto Montt,76.5,897000.0,Femenino,Universitaria,No,Baja,Casado/a,9.6,Sí,Nunca,Público
+47.2,Santiago,72.4,245000.0,Masculino,Universitaria,,,Separado/a,8.0,,Nunca,Público
+36.6,Antofagasta,73.2,501000.0,Masculino,,Sí,Alta,Casado/a,4.5,No,Ocasional,Público
+50.7,Santiago,85.3,1022000.0,Masculino,Técnica,No,Media,Soltero/a,6.8,No,Frecuente,Público
+47.1,La Serena,78.8,872000.0,Femenino,Técnica,Sí,Media,Soltero/a,6.2,Sí,Nunca,Bicicleta/Pie
+38.9,Temuco,73.5,763000.0,,,No,Baja,Viudo/a,,Sí,Nunca,Privado
+27.3,Concepción,50.1,941000.0,Femenino,Universitaria,No,Baja,Viudo/a,7.8,Sí,Ocasional,Privado
+17.3,Concepción,58.5,,Femenino,Universitaria,Sí,Media,Viudo/a,7.4,No,Ocasional,Bicicleta/Pie
+33.3,Temuco,68.5,745000.0,Femenino,Media,,Media,Casado/a,9.2,No,Ocasional,Bicicleta/Pie
+52.8,La Serena,71.1,817000.0,Femenino,Básica,No,,Separado/a,8.8,No,Frecuente,Público
+,Valparaíso,56.4,848000.0,Femenino,,Sí,Alta,Separado/a,5.2,No,Ocasional,Privado
+21.3,Santiago,98.9,1398000.0,Masculino,Técnica,Sí,,Viudo/a,6.9,No,Frecuente,
+42.6,La Serena,88.2,275000.0,Masculino,,Sí,Media,Separado/a,4.1,No,Ocasional,Privado
+45.8,Antofagasta,77.2,971000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,5.5,No,Frecuente,Bicicleta/Pie
+26.7,Valdivia,70.9,771000.0,,Técnica,No,,Soltero/a,3.9,No,Ocasional,Público
+,Puerto Montt,67.5,942000.0,Femenino,Técnica,No,Baja,,4.6,Sí,Frecuente,Público
+40.9,Temuco,58.6,636000.0,Masculino,Básica,Sí,Baja,Viudo/a,9.1,No,Ocasional,Privado
+22.9,Valdivia,70.9,788000.0,,Básica,No,Baja,Viudo/a,8.1,No,Ocasional,Público
+45.4,Santiago,73.1,978000.0,Femenino,Técnica,Sí,Alta,Separado/a,7.9,No,Nunca,Bicicleta/Pie
+48.4,Concepción,55.1,1578000.0,Masculino,Técnica,Sí,Baja,,8.8,Sí,Frecuente,Bicicleta/Pie
+56.2,Puerto Montt,74.0,1002000.0,Masculino,Media,Sí,Alta,Viudo/a,7.9,No,,Privado
+55.8,Valdivia,68.1,588000.0,Masculino,Técnica,Sí,Media,Separado/a,6.9,No,Frecuente,Público
+19.3,Valparaíso,47.1,694000.0,Femenino,Universitaria,No,Baja,,6.1,No,Nunca,Bicicleta/Pie
+25.9,Valdivia,59.7,687000.0,,Media,Sí,Baja,Casado/a,9.5,,Ocasional,
+47.7,Antofagasta,65.0,351000.0,Masculino,Universitaria,No,Alta,Viudo/a,9.0,No,Nunca,Bicicleta/Pie
+47.7,Concepción,92.7,717000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,6.7,No,Ocasional,Bicicleta/Pie
+47.7,Temuco,76.7,983000.0,Femenino,Universitaria,No,Alta,Viudo/a,,No,Frecuente,Público
+,Santiago,54.0,481000.0,Masculino,Técnica,No,,Soltero/a,3.0,No,Ocasional,Bicicleta/Pie
+48.6,Temuco,75.8,,Femenino,Básica,,Media,Soltero/a,8.2,No,Nunca,Bicicleta/Pie
+57.0,Puerto Montt,51.4,922000.0,Masculino,Básica,No,Media,Separado/a,6.2,No,Frecuente,Público
+54.3,Santiago,83.0,616000.0,Masculino,Universitaria,Sí,Media,Separado/a,11.1,No,Nunca,
+49.8,La Serena,64.3,765000.0,Femenino,Técnica,No,Baja,Soltero/a,,No,Ocasional,Privado
+35.3,Valparaíso,68.9,1200000.0,Femenino,Media,Sí,Baja,Soltero/a,4.0,No,Ocasional,Bicicleta/Pie
+51.4,La Serena,85.9,983000.0,Masculino,Universitaria,No,Media,Viudo/a,5.9,No,Nunca,Privado
+28.4,La Serena,54.6,802000.0,Femenino,Media,No,,Viudo/a,7.1,Sí,Frecuente,
+36.4,Temuco,53.2,741000.0,Femenino,Media,,Alta,Soltero/a,6.9,Sí,Nunca,Bicicleta/Pie
+,Puerto Montt,63.0,819000.0,Masculino,Técnica,Sí,Alta,Separado/a,6.9,Sí,,Público
+41.2,Valparaíso,82.5,672000.0,Masculino,Técnica,No,Media,Viudo/a,,No,Frecuente,Privado
+74.7,Valdivia,51.8,274000.0,Masculino,Básica,Sí,Media,Viudo/a,6.2,No,Nunca,Privado
+12.0,Santiago,36.0,,Masculino,Básica,,Baja,Viudo/a,6.9,Sí,Ocasional,Bicicleta/Pie
+50.3,Santiago,64.6,839000.0,Masculino,Técnica,Sí,Media,Separado/a,9.3,No,Frecuente,Privado
+,Antofagasta,76.6,,Masculino,Universitaria,No,Alta,Soltero/a,9.3,Sí,Nunca,Bicicleta/Pie
+32.9,Concepción,84.4,786000.0,Femenino,Básica,,Alta,Viudo/a,8.5,Sí,Frecuente,Bicicleta/Pie
+56.3,Antofagasta,64.4,616000.0,Femenino,Media,,Alta,Separado/a,6.5,No,Ocasional,Público
+41.0,Valdivia,65.1,754000.0,Masculino,Universitaria,No,Alta,Separado/a,5.9,,Nunca,Privado
+23.8,Antofagasta,83.8,400000.0,Femenino,Media,No,Alta,Separado/a,6.9,No,Nunca,Privado
+29.3,Santiago,47.6,1369000.0,Femenino,Técnica,No,Alta,Separado/a,7.0,No,Ocasional,Bicicleta/Pie
+50.2,Temuco,65.3,491000.0,Masculino,Media,No,Media,Viudo/a,6.9,No,Ocasional,Bicicleta/Pie
+29.0,La Serena,72.3,542000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,7.8,Sí,Ocasional,Bicicleta/Pie
+43.2,Puerto Montt,75.4,690000.0,Femenino,Técnica,No,Alta,Soltero/a,7.5,Sí,Nunca,Bicicleta/Pie
+40.7,La Serena,63.9,1122000.0,Masculino,Universitaria,Sí,Alta,Separado/a,7.5,No,Ocasional,Público
+30.2,La Serena,70.4,804000.0,Femenino,Media,Sí,Alta,Soltero/a,6.3,No,Nunca,Privado
+72.2,Valparaíso,,491000.0,Femenino,,No,Media,Viudo/a,5.2,No,Nunca,Público
+49.5,Santiago,62.1,1114000.0,,Técnica,No,Baja,Soltero/a,8.0,No,Frecuente,Privado
+9.6,Valdivia,75.4,983000.0,Femenino,Media,Sí,Baja,Soltero/a,7.1,Sí,Ocasional,
+42.8,Valdivia,58.2,,Femenino,Media,,Baja,Casado/a,7.6,No,Ocasional,Bicicleta/Pie
+30.1,Puerto Montt,70.7,979000.0,Femenino,Básica,No,Baja,Soltero/a,7.7,No,Frecuente,Público
+52.8,Temuco,75.4,1399000.0,Masculino,Básica,Sí,Alta,Soltero/a,4.0,No,Nunca,Público
+28.1,Valparaíso,65.9,1346000.0,Masculino,,Sí,Baja,Separado/a,9.6,,Nunca,Bicicleta/Pie
+38.3,Concepción,72.0,628000.0,Femenino,Básica,Sí,Baja,Separado/a,6.2,No,Nunca,Bicicleta/Pie
+47.6,Temuco,58.4,1206000.0,Femenino,Básica,Sí,Media,Casado/a,,No,Ocasional,Privado
+,Antofagasta,67.5,896000.0,Masculino,Básica,No,Media,Viudo/a,7.6,,Nunca,
+22.0,Temuco,77.3,925000.0,Masculino,,No,Media,Casado/a,5.4,No,Frecuente,Público
+35.0,Temuco,71.9,377000.0,Femenino,Técnica,Sí,Alta,Soltero/a,5.9,Sí,Nunca,Público
+32.9,La Serena,63.0,757000.0,Masculino,Técnica,Sí,Alta,Soltero/a,6.0,No,,Público
+30.2,Temuco,,597000.0,Femenino,Básica,Sí,Alta,Viudo/a,6.1,No,Ocasional,Bicicleta/Pie
+66.5,Valdivia,78.6,1007000.0,Femenino,Universitaria,No,Media,Viudo/a,4.3,No,Nunca,Privado
+46.1,Antofagasta,,1068000.0,Masculino,Técnica,No,Baja,Separado/a,5.8,Sí,Nunca,Público
+21.1,Antofagasta,83.9,281000.0,Masculino,Básica,Sí,Media,Soltero/a,8.5,Sí,Ocasional,Privado
+53.8,Santiago,66.0,794000.0,Femenino,Técnica,Sí,Alta,Soltero/a,8.6,Sí,Nunca,
+71.8,Temuco,75.1,,Femenino,Media,Sí,Media,Soltero/a,6.0,No,Frecuente,Bicicleta/Pie
+55.5,La Serena,84.4,753000.0,Masculino,Técnica,No,Baja,Soltero/a,4.2,Sí,Ocasional,Bicicleta/Pie
+17.2,Temuco,53.5,982000.0,Femenino,Técnica,Sí,Alta,Soltero/a,7.9,No,Nunca,Público
+32.7,Concepción,61.5,888000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,5.4,No,Nunca,Público
+59.0,Concepción,66.5,885000.0,Masculino,Técnica,Sí,Baja,Soltero/a,5.5,No,Nunca,Público
+29.4,La Serena,60.6,732000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,6.6,No,Frecuente,Público
+46.7,Santiago,90.8,496000.0,Masculino,Media,Sí,Baja,Separado/a,6.4,No,Ocasional,Público
+51.6,Santiago,,,Masculino,Básica,No,Media,Casado/a,5.8,No,Frecuente,Privado
+26.1,Antofagasta,63.3,977000.0,Femenino,Universitaria,No,Baja,Soltero/a,6.0,No,Nunca,Privado
+39.1,Antofagasta,72.5,805000.0,Masculino,Técnica,No,Baja,Separado/a,6.2,Sí,Frecuente,
+-8.6,Valparaíso,55.6,,Masculino,Técnica,Sí,Baja,Soltero/a,5.9,,Nunca,Bicicleta/Pie
+24.6,La Serena,65.3,,Masculino,Universitaria,No,,Viudo/a,6.0,No,Nunca,Privado
+36.2,Temuco,73.8,,Masculino,Media,Sí,Baja,Soltero/a,6.5,No,Ocasional,Bicicleta/Pie
+21.3,Puerto Montt,66.0,1062000.0,Masculino,Básica,No,Baja,Casado/a,7.5,No,Ocasional,Bicicleta/Pie
+64.5,La Serena,68.9,716000.0,Masculino,Técnica,No,Media,Separado/a,7.4,No,Nunca,Público
+18.5,Valparaíso,63.6,465000.0,Masculino,Media,Sí,Alta,Viudo/a,6.2,No,Nunca,Bicicleta/Pie
+33.4,Antofagasta,51.8,986000.0,Femenino,Básica,Sí,Alta,Viudo/a,6.5,,Nunca,Bicicleta/Pie
+42.0,La Serena,73.9,749000.0,Femenino,Básica,Sí,Alta,Soltero/a,9.0,No,Ocasional,Bicicleta/Pie
+61.6,La Serena,91.1,808000.0,,,No,Baja,Casado/a,8.5,Sí,Ocasional,Privado
+18.5,Antofagasta,70.2,1202000.0,Femenino,Universitaria,Sí,Alta,Casado/a,,Sí,Nunca,Privado
+57.4,Valdivia,72.7,795000.0,,Técnica,No,Media,Soltero/a,,No,Ocasional,Público
+40.2,Valparaíso,78.3,872000.0,Femenino,,No,Baja,Soltero/a,7.2,No,Nunca,Bicicleta/Pie
+25.3,Antofagasta,54.8,505000.0,Masculino,Técnica,No,Baja,Separado/a,6.0,Sí,Frecuente,Privado
+46.9,Santiago,90.4,745000.0,Femenino,Media,Sí,Baja,Separado/a,5.6,No,Ocasional,Público
+43.0,Temuco,72.4,952000.0,Femenino,Universitaria,Sí,Alta,,6.5,No,,Bicicleta/Pie
+31.0,Antofagasta,89.6,,Masculino,Media,Sí,Alta,Soltero/a,8.6,No,Frecuente,Público
+41.0,Valparaíso,,850000.0,Masculino,Técnica,No,Alta,Viudo/a,8.3,No,Nunca,Público
+34.2,Concepción,91.8,825000.0,Femenino,Universitaria,No,Baja,Casado/a,6.1,No,Frecuente,Bicicleta/Pie
+41.7,Santiago,79.3,810000.0,Femenino,Básica,Sí,Media,Separado/a,7.1,No,Ocasional,Privado
+49.9,Concepción,76.6,1059000.0,Femenino,Universitaria,No,Baja,Soltero/a,6.4,No,,Bicicleta/Pie
+63.8,Puerto Montt,72.8,,Femenino,Técnica,No,,Soltero/a,6.6,No,,Bicicleta/Pie
+21.4,Antofagasta,67.0,1170000.0,Masculino,Universitaria,No,Baja,Separado/a,8.5,No,Ocasional,Bicicleta/Pie
+,Santiago,84.4,552000.0,Femenino,Básica,,Media,Viudo/a,6.9,No,Ocasional,Privado
+10.7,Temuco,71.7,834000.0,Femenino,Básica,No,Baja,Viudo/a,4.4,No,Frecuente,Bicicleta/Pie
+37.7,Antofagasta,46.4,821000.0,Femenino,Universitaria,No,Baja,Soltero/a,7.2,No,Ocasional,
+,Temuco,56.6,533000.0,Femenino,Básica,Sí,Media,Casado/a,9.7,No,Frecuente,Público
+44.2,Valdivia,67.8,1039000.0,Femenino,Media,Sí,Media,Casado/a,6.0,,Frecuente,Privado
+30.7,La Serena,73.7,1381000.0,Masculino,Universitaria,Sí,,Soltero/a,9.3,No,Frecuente,Público
+36.9,Concepción,69.3,796000.0,Masculino,Básica,Sí,Media,Separado/a,7.9,,Ocasional,Público
+32.6,Santiago,84.6,926000.0,,Básica,Sí,Media,Casado/a,8.8,No,Nunca,Bicicleta/Pie
+31.2,Temuco,46.6,821000.0,Masculino,Universitaria,Sí,Media,Separado/a,8.3,No,Nunca,Privado
+52.7,Valparaíso,71.7,622000.0,Masculino,Media,No,Media,Separado/a,7.3,No,Ocasional,Público
+45.4,Temuco,48.2,345000.0,Femenino,Universitaria,No,,Separado/a,6.1,No,Frecuente,Público
+29.6,Valparaíso,79.1,624000.0,Masculino,Básica,No,Baja,Viudo/a,,No,Ocasional,Privado
+53.5,Antofagasta,68.9,452000.0,Masculino,Universitaria,No,Media,Casado/a,7.3,,Nunca,Privado
+,Santiago,75.0,1226000.0,Femenino,Básica,Sí,Media,,8.5,Sí,Frecuente,Público
+52.2,Temuco,59.6,771000.0,Masculino,,No,Baja,Casado/a,3.6,No,Ocasional,Público
+49.4,Puerto Montt,85.4,714000.0,,Universitaria,Sí,Baja,Soltero/a,4.9,Sí,Frecuente,Privado
+27.6,Temuco,82.5,1022000.0,,Universitaria,Sí,Alta,Separado/a,7.4,No,,Privado
+31.6,Valdivia,77.0,520000.0,Masculino,Básica,No,Alta,Casado/a,,Sí,,Público
+51.2,Puerto Montt,68.4,608000.0,Femenino,Básica,No,Media,Casado/a,,No,Frecuente,Bicicleta/Pie
+,Santiago,77.0,817000.0,,Básica,Sí,Media,Soltero/a,7.5,No,Ocasional,Privado
+39.7,Valdivia,61.5,1057000.0,Masculino,Básica,,Alta,Viudo/a,8.0,No,Frecuente,Público
+41.8,Temuco,80.3,925000.0,Femenino,Universitaria,Sí,Alta,Casado/a,6.7,No,Frecuente,Público
+59.2,Valparaíso,89.8,862000.0,Masculino,Básica,Sí,Media,Casado/a,9.1,No,Ocasional,Bicicleta/Pie
+31.1,Temuco,82.8,820000.0,Femenino,Universitaria,No,Alta,Viudo/a,9.4,Sí,Nunca,Privado
+48.2,Concepción,61.2,900000.0,Femenino,Media,Sí,Media,Viudo/a,,No,Nunca,Público
+37.0,Antofagasta,74.3,850000.0,Femenino,Universitaria,No,Baja,Casado/a,8.3,Sí,Ocasional,Bicicleta/Pie
+36.7,La Serena,54.5,543000.0,Femenino,,Sí,Baja,Viudo/a,4.5,Sí,Frecuente,Privado
+56.5,Valparaíso,76.9,812000.0,Femenino,Básica,Sí,Alta,,8.6,Sí,Ocasional,
+52.4,Concepción,75.4,532000.0,Femenino,Media,Sí,Baja,Soltero/a,,Sí,Ocasional,Público
+52.2,Puerto Montt,47.6,820000.0,Femenino,Universitaria,No,Baja,,5.5,No,Ocasional,Bicicleta/Pie
+59.6,Antofagasta,56.1,680000.0,Femenino,Media,Sí,Baja,Casado/a,7.9,No,Nunca,Público
+40.3,Santiago,66.6,1435000.0,Femenino,,No,Baja,Soltero/a,4.2,No,Frecuente,
+50.2,Valparaíso,66.4,790000.0,Femenino,Básica,No,Media,Soltero/a,5.8,No,Ocasional,Bicicleta/Pie
+35.3,La Serena,55.5,449000.0,Femenino,Universitaria,No,Media,Soltero/a,6.2,Sí,Nunca,Bicicleta/Pie
+,Antofagasta,74.7,766000.0,Masculino,Básica,Sí,Alta,Separado/a,4.8,No,Nunca,Público
+38.0,Puerto Montt,73.0,930000.0,Femenino,Básica,No,Baja,Viudo/a,6.6,No,Frecuente,
+41.5,Valdivia,67.7,1218000.0,Masculino,Técnica,,Baja,Separado/a,6.5,,Ocasional,Privado
+48.9,Valdivia,60.9,653000.0,Femenino,Técnica,Sí,Baja,Separado/a,7.9,Sí,Frecuente,
+27.7,La Serena,82.6,404000.0,Masculino,Universitaria,Sí,Alta,Separado/a,4.7,No,Ocasional,Bicicleta/Pie
+71.4,Santiago,89.9,1004000.0,Masculino,Básica,No,Media,Separado/a,7.9,Sí,Nunca,Bicicleta/Pie
+24.9,Santiago,64.2,455000.0,Masculino,Media,No,Baja,Casado/a,5.8,No,Nunca,Privado
+21.8,Puerto Montt,62.7,691000.0,Femenino,Básica,Sí,Media,Casado/a,5.1,No,Frecuente,Público
+57.4,Valparaíso,75.9,736000.0,Femenino,Media,No,Alta,Soltero/a,,No,Ocasional,Público
+51.9,Puerto Montt,65.7,783000.0,Femenino,Universitaria,No,Media,Separado/a,8.1,Sí,Frecuente,Privado
+,Temuco,68.3,972000.0,Femenino,Universitaria,No,Baja,Separado/a,6.3,Sí,Ocasional,
+49.4,Santiago,78.9,629000.0,Masculino,Media,Sí,Media,Soltero/a,7.8,Sí,Frecuente,Bicicleta/Pie
+39.8,Antofagasta,,732000.0,Femenino,Media,No,Media,Viudo/a,7.4,,Nunca,Bicicleta/Pie
+26.5,Temuco,85.8,796000.0,Femenino,Básica,Sí,Alta,Casado/a,11.7,Sí,Frecuente,Privado
+41.1,Valdivia,70.9,837000.0,Femenino,Universitaria,Sí,Alta,Separado/a,6.5,No,Ocasional,Privado
+29.8,Valdivia,65.1,824000.0,Femenino,Básica,,Alta,Viudo/a,6.8,No,Frecuente,Privado
+54.6,Concepción,68.9,909000.0,Femenino,Media,No,Alta,Viudo/a,8.7,Sí,Ocasional,Privado
+,La Serena,69.5,1011000.0,Femenino,Técnica,Sí,,Separado/a,6.9,No,Frecuente,Público
+,Temuco,49.2,898000.0,Femenino,Técnica,No,Media,Separado/a,7.4,No,Ocasional,Público
+35.2,La Serena,87.9,,Femenino,,Sí,Alta,Viudo/a,4.4,No,,Público
+46.2,Puerto Montt,70.5,404000.0,Masculino,Media,No,Alta,Casado/a,6.8,,Ocasional,
+31.5,Temuco,75.3,813000.0,Masculino,Básica,No,Baja,Casado/a,5.9,Sí,Frecuente,Bicicleta/Pie
+27.7,Puerto Montt,81.4,920000.0,Femenino,Universitaria,,Baja,Separado/a,,No,Frecuente,Privado
+,Concepción,57.7,982000.0,,Media,Sí,Alta,Separado/a,7.4,No,Nunca,Privado
+43.7,Santiago,75.7,,Femenino,Técnica,No,Media,Soltero/a,6.9,No,Ocasional,Público
+32.4,Valdivia,66.8,635000.0,Femenino,Básica,,Alta,Soltero/a,8.2,No,Nunca,Público
+32.9,Concepción,80.2,656000.0,Masculino,Universitaria,Sí,Media,Casado/a,8.4,,Nunca,Público
+43.5,Valdivia,44.5,934000.0,Masculino,Universitaria,Sí,,Soltero/a,6.7,No,Ocasional,Privado
+18.3,Santiago,68.8,1058000.0,Femenino,Media,No,,Viudo/a,7.4,Sí,Nunca,
+18.9,Puerto Montt,62.8,698000.0,Masculino,Media,Sí,Alta,Viudo/a,3.9,No,,Privado
+29.2,Santiago,75.2,1027000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,7.5,No,Nunca,Privado
+36.8,Valdivia,,831000.0,Femenino,Universitaria,Sí,Media,Viudo/a,8.6,No,Frecuente,Bicicleta/Pie
+44.7,Valdivia,61.5,769000.0,Femenino,Técnica,No,Alta,Separado/a,5.6,Sí,Ocasional,Bicicleta/Pie
+62.1,La Serena,61.5,747000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,8.1,No,Ocasional,Privado
+52.9,Antofagasta,68.7,987000.0,Masculino,Media,No,Baja,Casado/a,6.3,Sí,Ocasional,Público
+37.6,Concepción,59.2,881000.0,Masculino,Básica,Sí,Alta,Soltero/a,6.1,No,Nunca,Privado
+39.7,Temuco,80.1,1369000.0,Femenino,Técnica,Sí,Alta,Casado/a,9.1,No,Ocasional,Privado
+25.0,Valdivia,65.6,587000.0,Femenino,Técnica,No,Baja,Separado/a,7.0,No,Ocasional,Privado
+39.7,Concepción,,930000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,8.3,No,Frecuente,Privado
+35.7,La Serena,65.5,668000.0,Masculino,Básica,Sí,Media,Soltero/a,4.1,,Nunca,
+44.8,Santiago,57.5,583000.0,Femenino,Técnica,Sí,Alta,,6.1,No,Nunca,Bicicleta/Pie
+27.6,La Serena,50.4,797000.0,Masculino,Media,Sí,Media,Viudo/a,8.1,No,Ocasional,Privado
+47.8,Valparaíso,55.2,834000.0,Femenino,Universitaria,No,Alta,Separado/a,7.2,No,Nunca,Bicicleta/Pie
+63.0,Valparaíso,71.3,1530000.0,Femenino,Media,No,Alta,Casado/a,6.7,No,Ocasional,Bicicleta/Pie
+38.4,Temuco,85.9,754000.0,Masculino,Universitaria,No,Baja,Viudo/a,7.9,,Frecuente,Público
+46.0,La Serena,73.8,517000.0,Masculino,Técnica,No,Media,Soltero/a,5.8,No,Nunca,Bicicleta/Pie
+50.4,Puerto Montt,62.7,868000.0,Masculino,Universitaria,No,Baja,Casado/a,8.8,,Nunca,Bicicleta/Pie
+34.0,Temuco,75.5,281000.0,Femenino,Básica,No,Alta,Casado/a,6.7,No,Frecuente,Privado
+43.4,Puerto Montt,64.5,777000.0,Femenino,Media,No,Baja,Casado/a,5.8,Sí,Nunca,Bicicleta/Pie
+40.2,Temuco,61.7,804000.0,Femenino,Básica,Sí,Alta,Separado/a,5.9,Sí,Ocasional,Bicicleta/Pie
+41.5,Valparaíso,56.1,999000.0,Femenino,Media,No,Alta,Viudo/a,6.9,No,Nunca,Bicicleta/Pie
+28.4,Temuco,49.0,1043000.0,Femenino,Media,No,Alta,Separado/a,6.4,No,,Privado
+40.4,Valparaíso,65.3,674000.0,Femenino,Universitaria,No,Media,Soltero/a,7.8,No,Frecuente,Privado
+47.5,Valdivia,,762000.0,Masculino,Técnica,Sí,Media,Soltero/a,6.9,No,,Bicicleta/Pie
+61.8,Santiago,68.8,,Femenino,Técnica,No,Media,Casado/a,6.5,Sí,Ocasional,Privado
+54.4,Puerto Montt,65.0,518000.0,,Básica,No,Baja,Casado/a,7.5,Sí,Nunca,Privado
+72.3,La Serena,58.7,877000.0,Femenino,Universitaria,No,Alta,Casado/a,,Sí,Nunca,Público
+28.5,Valdivia,77.3,482000.0,Femenino,Técnica,Sí,,Separado/a,7.7,No,Frecuente,Bicicleta/Pie
+53.1,Valdivia,54.2,696000.0,Masculino,Media,No,Baja,Viudo/a,7.5,Sí,Ocasional,Público
+42.8,Temuco,79.3,551000.0,Femenino,Media,Sí,Alta,Separado/a,7.4,No,Nunca,Bicicleta/Pie
+72.8,Valparaíso,58.0,937000.0,,Universitaria,Sí,Baja,Soltero/a,,No,Ocasional,
+27.9,Concepción,61.0,1250000.0,Masculino,Básica,Sí,Alta,Casado/a,6.1,No,Nunca,Público
+27.4,Puerto Montt,52.4,475000.0,Femenino,Universitaria,Sí,Alta,Casado/a,8.2,Sí,Frecuente,Público
+31.0,Valdivia,64.0,337000.0,,Básica,No,Alta,Separado/a,7.9,No,Frecuente,Bicicleta/Pie
+8.1,Temuco,81.7,769000.0,,Universitaria,Sí,Alta,Soltero/a,,No,Frecuente,Público
+32.1,Antofagasta,76.2,804000.0,Masculino,,Sí,Baja,Viudo/a,6.4,No,Frecuente,Público
+28.6,Santiago,81.7,,Femenino,Universitaria,No,Baja,,9.0,No,Frecuente,Privado
+42.3,Santiago,76.3,688000.0,Masculino,Técnica,,Baja,Casado/a,8.5,No,Frecuente,Bicicleta/Pie
+45.1,Concepción,56.8,750000.0,Femenino,Técnica,Sí,Media,Soltero/a,5.2,No,Ocasional,Privado
+68.1,Valparaíso,,892000.0,Femenino,Universitaria,Sí,Baja,,7.0,Sí,Frecuente,Bicicleta/Pie
+54.3,Temuco,60.6,1060000.0,Masculino,Básica,Sí,Baja,Viudo/a,,No,Ocasional,
+,Puerto Montt,86.0,311000.0,Femenino,Básica,Sí,Media,Separado/a,8.5,No,Frecuente,Bicicleta/Pie
+26.5,Valparaíso,55.6,708000.0,Femenino,Media,Sí,Alta,Soltero/a,7.2,No,Nunca,Privado
+47.4,Santiago,80.7,853000.0,Femenino,Media,No,Alta,,7.7,Sí,Nunca,
+20.2,Valparaíso,80.7,571000.0,Masculino,Básica,No,Alta,Casado/a,,No,Nunca,Privado
+67.5,Santiago,92.0,1233000.0,Masculino,Universitaria,No,Media,Viudo/a,8.6,Sí,Ocasional,Público
+57.7,Valparaíso,65.1,641000.0,Masculino,Media,No,Baja,Separado/a,6.7,No,Frecuente,Bicicleta/Pie
+33.0,Concepción,78.5,790000.0,Femenino,Básica,Sí,Baja,,7.1,,Ocasional,Público
+14.3,La Serena,,939000.0,Masculino,Básica,Sí,Baja,Separado/a,5.9,No,Frecuente,Privado
+60.3,Concepción,62.6,652000.0,Masculino,,Sí,Baja,Viudo/a,6.6,No,Nunca,Bicicleta/Pie
+38.3,Concepción,51.6,338000.0,Masculino,Técnica,No,Media,,6.4,No,Ocasional,
+58.6,La Serena,47.4,693000.0,Femenino,,No,Baja,Casado/a,6.7,No,Frecuente,
+16.1,La Serena,78.6,1057000.0,Femenino,,Sí,Alta,,6.9,Sí,Ocasional,Público
+31.0,Valdivia,47.4,716000.0,Masculino,Universitaria,,Media,Casado/a,8.2,Sí,Ocasional,Bicicleta/Pie
+40.1,Valdivia,65.5,588000.0,Masculino,Universitaria,No,Media,Soltero/a,7.5,No,Nunca,Privado
+40.7,Temuco,75.2,1031000.0,Masculino,Universitaria,No,Alta,Separado/a,5.1,No,Nunca,Público
+33.2,Puerto Montt,72.2,717000.0,Femenino,Técnica,No,Alta,Soltero/a,7.8,No,Nunca,Público
+49.3,Puerto Montt,75.1,672000.0,Masculino,Técnica,No,Baja,Separado/a,6.2,No,Nunca,Público
+24.0,Temuco,72.7,837000.0,Femenino,Media,Sí,Alta,Casado/a,,No,Nunca,Público
+37.9,Concepción,85.3,993000.0,Femenino,Media,No,Media,Soltero/a,5.3,No,Frecuente,Privado
+41.8,Concepción,58.6,1395000.0,Femenino,Universitaria,No,Media,Soltero/a,7.3,No,Frecuente,Privado
+47.7,Santiago,61.9,1007000.0,Masculino,,Sí,Media,Viudo/a,8.6,No,Nunca,Privado
+50.7,Santiago,60.7,1090000.0,Masculino,Básica,Sí,,Separado/a,6.7,No,Nunca,Bicicleta/Pie
+23.1,Puerto Montt,80.0,,Femenino,Técnica,Sí,Baja,Viudo/a,,No,Nunca,Bicicleta/Pie
+17.0,Temuco,80.8,544000.0,Femenino,Universitaria,No,Alta,Soltero/a,7.1,No,Ocasional,Público
+59.2,Antofagasta,75.4,816000.0,Femenino,Universitaria,,Baja,,3.8,No,Nunca,Privado
+45.0,Valdivia,84.2,827000.0,Femenino,Básica,No,Baja,Casado/a,7.9,No,Frecuente,Público
+28.8,Antofagasta,55.9,530000.0,Masculino,Básica,No,Media,Viudo/a,,No,Frecuente,Privado
+63.3,Temuco,90.0,756000.0,Masculino,Básica,Sí,Media,,5.8,,Ocasional,Bicicleta/Pie
+41.7,Santiago,88.3,900000.0,,Básica,Sí,,Viudo/a,7.9,No,Frecuente,Público
+57.7,Puerto Montt,78.8,890000.0,Femenino,Universitaria,No,Media,Separado/a,7.2,Sí,Nunca,Privado
+41.0,Puerto Montt,91.4,926000.0,Femenino,Técnica,No,Baja,Soltero/a,6.9,Sí,Ocasional,Privado
+70.9,Santiago,50.1,873000.0,Masculino,Técnica,No,Alta,Viudo/a,7.1,No,Ocasional,Privado
+66.3,Antofagasta,63.7,673000.0,Femenino,Básica,Sí,Alta,Casado/a,,No,Frecuente,Público
+36.3,Valparaíso,61.2,672000.0,Masculino,Media,No,Media,Soltero/a,9.7,No,Nunca,Bicicleta/Pie
+54.6,Valparaíso,78.7,500000.0,Femenino,Universitaria,Sí,Media,Casado/a,7.3,Sí,,Privado
+,Santiago,57.4,1246000.0,Masculino,Técnica,No,Media,Soltero/a,7.2,No,Nunca,
+60.5,Valparaíso,79.1,803000.0,,Básica,Sí,Alta,Casado/a,6.9,Sí,Ocasional,Privado
+25.5,La Serena,86.4,744000.0,,Media,Sí,Media,Viudo/a,4.6,No,Frecuente,Público
+50.3,Temuco,78.3,568000.0,Masculino,Media,,,Viudo/a,6.0,No,Frecuente,Bicicleta/Pie
+55.9,Temuco,73.4,1534000.0,Masculino,Básica,Sí,Alta,Casado/a,5.2,No,Frecuente,
+13.6,Santiago,58.1,532000.0,Masculino,Universitaria,Sí,Media,Separado/a,5.0,No,Nunca,
+22.3,Concepción,59.8,693000.0,Masculino,Técnica,No,Baja,Casado/a,4.7,Sí,Ocasional,Privado
+9.4,Valdivia,,904000.0,Femenino,Media,Sí,Baja,Soltero/a,6.0,Sí,Ocasional,Público
+36.0,Antofagasta,79.4,950000.0,Femenino,,No,Media,Casado/a,7.0,Sí,Frecuente,Bicicleta/Pie
+50.8,Santiago,69.5,1039000.0,,Técnica,Sí,,Casado/a,4.9,Sí,Frecuente,Bicicleta/Pie
+62.5,Valparaíso,65.0,1252000.0,Femenino,Media,Sí,Alta,Soltero/a,8.0,Sí,Ocasional,
+41.1,Antofagasta,45.7,927000.0,Femenino,Básica,Sí,Alta,Viudo/a,7.4,No,Frecuente,Bicicleta/Pie
+64.4,Concepción,57.1,536000.0,Masculino,Media,,Baja,Soltero/a,6.7,No,Ocasional,Privado
+19.3,Valparaíso,92.9,736000.0,Masculino,Media,No,Alta,Casado/a,10.2,No,Ocasional,Bicicleta/Pie
+,Puerto Montt,54.6,877000.0,Masculino,Universitaria,No,Media,Soltero/a,6.6,Sí,Frecuente,Privado
+,Valdivia,72.3,1317000.0,Masculino,Técnica,No,Baja,,8.2,No,Ocasional,Bicicleta/Pie
+45.8,La Serena,82.1,451000.0,,Básica,Sí,Alta,Viudo/a,7.3,,Ocasional,Bicicleta/Pie
+39.5,Valparaíso,54.9,1101000.0,Femenino,Técnica,Sí,Media,Casado/a,9.2,Sí,Frecuente,Privado
+9.0,La Serena,72.2,845000.0,Masculino,Media,No,Media,Casado/a,8.6,No,Frecuente,Bicicleta/Pie
+38.7,Antofagasta,81.3,1009000.0,Femenino,Básica,No,Alta,Viudo/a,6.5,No,Frecuente,Privado
+20.4,La Serena,70.1,775000.0,Masculino,Básica,,Baja,,,No,Ocasional,Privado
+50.0,Antofagasta,104.4,589000.0,Masculino,Básica,,Media,,5.0,No,Frecuente,Bicicleta/Pie
+45.5,Antofagasta,50.0,988000.0,Femenino,Básica,Sí,Media,,7.2,No,Frecuente,Bicicleta/Pie
+25.9,Antofagasta,82.7,,Femenino,Universitaria,No,Media,Casado/a,8.0,No,Ocasional,Privado
+32.3,Antofagasta,67.9,1043000.0,Femenino,Básica,Sí,Media,Casado/a,6.9,No,Ocasional,
+24.1,Antofagasta,79.3,,Femenino,Media,No,Baja,Viudo/a,9.1,Sí,Frecuente,Bicicleta/Pie
+39.1,Valparaíso,,650000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,7.2,No,Frecuente,Bicicleta/Pie
+,Antofagasta,61.2,410000.0,Femenino,Media,No,Alta,Separado/a,8.9,No,Ocasional,Público
+25.2,Valparaíso,72.7,1005000.0,Femenino,Media,No,Alta,Separado/a,6.8,No,Ocasional,Público
+47.6,Antofagasta,47.7,906000.0,Masculino,Técnica,Sí,Media,Viudo/a,5.3,No,Nunca,Bicicleta/Pie
+32.0,La Serena,77.2,559000.0,Femenino,Básica,Sí,Baja,Viudo/a,6.1,No,Ocasional,Bicicleta/Pie
+28.1,Puerto Montt,73.6,665000.0,Masculino,Básica,No,Alta,Separado/a,7.0,Sí,,Bicicleta/Pie
+38.4,Antofagasta,77.7,683000.0,Masculino,Media,Sí,Baja,Soltero/a,5.9,No,,Público
+24.5,Concepción,82.7,429000.0,Femenino,Básica,No,Alta,,4.5,No,Frecuente,Bicicleta/Pie
+31.7,Antofagasta,74.4,596000.0,Masculino,Universitaria,Sí,Media,Soltero/a,,No,Nunca,Público
+22.0,Antofagasta,71.8,517000.0,Femenino,,No,,Casado/a,,No,Ocasional,Público
+69.5,La Serena,59.4,697000.0,Masculino,Básica,No,Media,,7.6,Sí,Nunca,Privado
+40.5,Valdivia,,615000.0,Masculino,Básica,No,Media,Casado/a,7.4,Sí,Nunca,Público
+29.5,Temuco,84.2,393000.0,Masculino,Universitaria,No,Alta,Casado/a,7.3,No,Nunca,Privado
+43.2,La Serena,87.2,1306000.0,Femenino,Técnica,No,Baja,Viudo/a,6.2,No,Nunca,Público
+38.3,Concepción,67.1,1113000.0,Masculino,Universitaria,No,Media,Casado/a,8.2,Sí,Nunca,Público
+36.7,Temuco,70.6,605000.0,Masculino,Media,No,Baja,Casado/a,4.4,,Nunca,Privado
+49.2,Santiago,59.1,868000.0,Masculino,Media,No,Alta,Viudo/a,3.9,Sí,,Privado
+51.4,Santiago,84.1,904000.0,,Básica,Sí,Media,Soltero/a,6.7,Sí,,Privado
+32.0,Valdivia,78.0,1098000.0,Masculino,Técnica,Sí,Baja,Soltero/a,7.2,No,Nunca,Privado
+,Concepción,93.3,595000.0,,Media,Sí,Media,Separado/a,5.7,No,Nunca,Privado
+35.9,La Serena,59.5,1073000.0,Masculino,Universitaria,No,Alta,Separado/a,4.6,No,Nunca,Privado
+5.5,Valparaíso,65.5,,Masculino,Media,No,Media,Casado/a,,Sí,Ocasional,Privado
+17.3,Concepción,72.8,466000.0,Masculino,Media,No,Alta,Separado/a,6.4,,Nunca,Público
+60.5,Puerto Montt,77.8,981000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,,No,Nunca,Público
+64.7,Temuco,67.4,1123000.0,Masculino,Básica,Sí,Media,Separado/a,9.0,,Nunca,Privado
+36.3,Temuco,59.5,1447000.0,Masculino,Técnica,Sí,Baja,Separado/a,4.6,No,,Bicicleta/Pie
+48.6,Antofagasta,80.6,500000.0,Masculino,Básica,Sí,Alta,Casado/a,7.3,Sí,Nunca,
+44.7,Santiago,78.7,975000.0,,Universitaria,Sí,Alta,Viudo/a,,No,Ocasional,Bicicleta/Pie
+86.2,Valdivia,59.0,698000.0,Femenino,Media,No,Baja,Separado/a,8.1,Sí,Frecuente,Público
+56.8,Temuco,86.3,996000.0,Masculino,Técnica,Sí,Baja,Soltero/a,6.2,No,Ocasional,Público
+38.1,Concepción,84.0,432000.0,Masculino,Básica,No,Alta,Viudo/a,7.1,Sí,Frecuente,Bicicleta/Pie
+25.7,Temuco,71.6,484000.0,Masculino,Universitaria,No,Baja,,8.1,No,Frecuente,Público
+15.9,Valdivia,71.0,606000.0,Masculino,Media,No,Alta,,,No,Nunca,Privado
+43.1,Valdivia,76.6,,Femenino,,Sí,Baja,Viudo/a,9.3,No,Nunca,Bicicleta/Pie
+28.7,Valdivia,59.7,640000.0,Masculino,Básica,Sí,,Viudo/a,5.7,No,Frecuente,Bicicleta/Pie
+18.7,Concepción,,965000.0,Masculino,Universitaria,No,Alta,Viudo/a,7.3,Sí,Nunca,Público
+30.3,Valparaíso,44.2,1057000.0,Femenino,Media,Sí,Media,Viudo/a,6.9,No,Nunca,
+23.8,Antofagasta,80.5,950000.0,Masculino,Media,Sí,Alta,Viudo/a,6.7,Sí,Frecuente,Bicicleta/Pie
+65.3,Santiago,51.3,1205000.0,Masculino,Técnica,No,Alta,Viudo/a,7.9,No,Frecuente,Bicicleta/Pie
+53.2,Temuco,88.0,904000.0,Masculino,Media,,Media,Viudo/a,7.2,No,Ocasional,Público
+39.9,Concepción,66.0,496000.0,Femenino,Básica,No,Media,Soltero/a,5.4,No,Frecuente,Bicicleta/Pie
+62.2,La Serena,67.5,1141000.0,Masculino,Universitaria,No,Baja,Viudo/a,8.4,Sí,Ocasional,Bicicleta/Pie
+41.2,Santiago,,649000.0,Femenino,Universitaria,,Baja,Casado/a,7.9,No,Ocasional,Privado
+27.1,Valparaíso,66.5,,Femenino,Técnica,Sí,Alta,Soltero/a,9.2,No,Nunca,Privado
+62.8,Concepción,87.0,1193000.0,Femenino,Universitaria,,Baja,,,No,Nunca,Bicicleta/Pie
+48.1,Puerto Montt,40.1,914000.0,Femenino,,Sí,Baja,Separado/a,6.7,Sí,Frecuente,Público
+24.4,Puerto Montt,85.3,,Femenino,Media,Sí,Alta,Casado/a,6.7,No,Frecuente,Bicicleta/Pie
+37.1,Antofagasta,74.1,570000.0,Femenino,Técnica,No,Media,Soltero/a,8.6,Sí,Ocasional,Público
+26.9,Antofagasta,55.5,1131000.0,Femenino,Universitaria,No,Media,,5.8,No,Ocasional,Privado
+19.3,Valparaíso,57.1,,Masculino,Técnica,Sí,Alta,Soltero/a,5.6,No,Nunca,Privado
+53.9,Valparaíso,90.1,820000.0,Masculino,Técnica,No,Alta,Separado/a,7.3,No,,Bicicleta/Pie
+68.6,Antofagasta,58.7,,Femenino,Universitaria,Sí,,Casado/a,4.8,No,Frecuente,
+19.0,Temuco,56.2,974000.0,Femenino,Técnica,No,Alta,Casado/a,7.5,No,Frecuente,Público
+48.4,Temuco,83.6,870000.0,Femenino,Universitaria,No,Alta,,7.7,Sí,,Público
+30.2,Concepción,74.1,748000.0,Femenino,Básica,Sí,Alta,Soltero/a,6.6,No,Nunca,Bicicleta/Pie
+32.7,La Serena,58.7,722000.0,Femenino,Universitaria,Sí,Baja,Separado/a,9.1,No,Nunca,Público
+31.1,Concepción,72.6,1014000.0,Femenino,Media,No,Baja,Viudo/a,8.7,No,Ocasional,
+,La Serena,57.7,938000.0,Masculino,Universitaria,No,Baja,Soltero/a,5.8,No,Nunca,Público
+40.7,Valparaíso,83.2,736000.0,Masculino,,No,Media,Soltero/a,8.0,No,,Público
+27.5,Santiago,82.7,1071000.0,Femenino,Técnica,Sí,Alta,Soltero/a,8.5,No,Nunca,Bicicleta/Pie
+44.1,Concepción,76.4,,Femenino,Universitaria,No,Alta,Separado/a,7.1,No,Nunca,Bicicleta/Pie
+39.2,Concepción,74.3,587000.0,Femenino,Media,No,Baja,Viudo/a,6.4,,Frecuente,Bicicleta/Pie
+36.4,La Serena,,610000.0,Masculino,Universitaria,No,Media,Viudo/a,5.3,No,Ocasional,Bicicleta/Pie
+26.4,Valdivia,70.0,555000.0,Femenino,,No,,Separado/a,6.2,Sí,Ocasional,Bicicleta/Pie
+31.3,Valparaíso,55.8,732000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,5.4,No,Ocasional,Público
+51.3,Valparaíso,75.4,1108000.0,Masculino,Básica,Sí,Alta,Casado/a,8.4,,Nunca,Público
+47.5,Puerto Montt,95.0,599000.0,Masculino,,Sí,Baja,Separado/a,6.6,,Frecuente,Bicicleta/Pie
+25.3,Valdivia,,847000.0,Femenino,Básica,No,Baja,Soltero/a,7.8,Sí,Nunca,Bicicleta/Pie
+41.5,La Serena,65.7,636000.0,Femenino,Básica,No,Alta,Viudo/a,8.9,No,Frecuente,Público
+51.3,Valparaíso,75.0,735000.0,Masculino,Media,,Baja,Casado/a,7.3,No,Nunca,Bicicleta/Pie
+15.0,Valdivia,69.4,,Masculino,Universitaria,Sí,Alta,Separado/a,8.8,,Ocasional,Privado
+48.2,Antofagasta,58.2,745000.0,Masculino,Básica,Sí,Baja,Separado/a,6.5,No,Nunca,Público
+30.1,Valdivia,,752000.0,Masculino,,Sí,Media,Soltero/a,7.6,Sí,Ocasional,Privado
+48.6,Temuco,97.8,935000.0,Femenino,Básica,Sí,Alta,Soltero/a,7.3,Sí,Frecuente,
+28.6,Puerto Montt,72.4,856000.0,Masculino,Universitaria,No,Media,Separado/a,5.9,Sí,Ocasional,Público
+12.9,Antofagasta,,500000.0,Femenino,Básica,Sí,,Casado/a,6.5,No,Ocasional,Público
+15.6,Santiago,51.4,1071000.0,Masculino,Técnica,Sí,Media,Soltero/a,,No,Ocasional,Público
+40.7,Concepción,73.1,853000.0,Femenino,Media,No,Baja,Separado/a,6.5,Sí,Ocasional,Público
+43.9,Puerto Montt,83.2,850000.0,,Técnica,,Media,Separado/a,4.5,No,Frecuente,Público
+,Santiago,75.7,798000.0,Femenino,Universitaria,No,Media,Soltero/a,,No,Nunca,Público
+49.6,Concepción,70.0,671000.0,Femenino,Básica,No,Media,Viudo/a,5.9,No,Nunca,Bicicleta/Pie
+15.1,Temuco,62.9,854000.0,Femenino,Media,No,Alta,Casado/a,,No,Nunca,Bicicleta/Pie
+39.0,Valdivia,56.9,919000.0,Masculino,Básica,No,Media,Viudo/a,7.9,No,Nunca,Bicicleta/Pie
+21.8,Valparaíso,80.0,363000.0,,,No,Baja,Viudo/a,7.5,No,Ocasional,Privado
+30.2,Antofagasta,81.0,665000.0,Masculino,Media,Sí,Baja,Casado/a,6.4,No,Frecuente,Público
+40.7,La Serena,51.5,736000.0,,Técnica,Sí,Alta,Casado/a,7.1,No,Frecuente,Bicicleta/Pie
+27.1,Antofagasta,89.1,864000.0,Femenino,Media,No,Alta,Soltero/a,6.5,Sí,Nunca,
+34.2,Temuco,,1098000.0,Masculino,Básica,Sí,Baja,Soltero/a,4.8,No,Nunca,Bicicleta/Pie
+55.1,Santiago,86.8,607000.0,Femenino,Media,No,Media,Soltero/a,6.8,No,Frecuente,Público
+31.3,La Serena,53.9,676000.0,,Universitaria,Sí,Baja,Casado/a,11.0,Sí,Frecuente,Público
+,Valparaíso,53.6,672000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,5.5,No,Ocasional,Privado
+23.1,Temuco,68.2,600000.0,Femenino,Media,Sí,Alta,Casado/a,4.2,No,Frecuente,Privado
+47.9,La Serena,76.0,713000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,9.1,No,Frecuente,
+61.6,Temuco,91.6,993000.0,Femenino,Universitaria,Sí,,Viudo/a,7.7,No,Ocasional,Privado
+2.9,Valdivia,78.5,537000.0,Femenino,Universitaria,,Media,Soltero/a,7.4,No,Ocasional,
+28.0,Temuco,,907000.0,Masculino,,Sí,,Viudo/a,6.5,No,,Privado
+,Valparaíso,57.7,375000.0,Femenino,Básica,No,Baja,Soltero/a,,Sí,Frecuente,Bicicleta/Pie
+37.0,Puerto Montt,84.8,660000.0,Femenino,Universitaria,No,Baja,Casado/a,7.1,Sí,Frecuente,Privado
+,Concepción,58.4,718000.0,Femenino,Media,No,Alta,,9.0,Sí,Frecuente,Bicicleta/Pie
+30.9,La Serena,89.5,1219000.0,Femenino,Universitaria,Sí,,Separado/a,8.4,Sí,Ocasional,Privado
+41.3,Valdivia,66.6,731000.0,Femenino,Técnica,Sí,Alta,,7.9,No,Frecuente,Privado
+,Valparaíso,89.1,250000.0,Femenino,,No,Media,,6.0,No,Frecuente,Público
+57.5,Temuco,78.1,300000.0,Femenino,,No,Media,Soltero/a,7.3,No,Ocasional,Público
+43.8,Valdivia,68.4,809000.0,Femenino,Media,Sí,Baja,Viudo/a,6.1,No,Nunca,
+45.1,Valparaíso,63.8,953000.0,Masculino,Media,No,Media,Viudo/a,8.8,No,Nunca,Público
+33.8,Puerto Montt,65.9,894000.0,,Media,No,Media,Soltero/a,5.9,No,,Bicicleta/Pie
+,Valdivia,75.1,842000.0,Masculino,Media,No,Alta,Soltero/a,6.8,No,Ocasional,Público
+33.5,Valdivia,70.9,1091000.0,Masculino,Universitaria,No,,Soltero/a,5.4,Sí,Ocasional,Público
+45.9,Concepción,62.9,665000.0,Femenino,Básica,,Baja,Casado/a,6.3,Sí,Frecuente,
+33.7,Antofagasta,68.0,1024000.0,Femenino,Universitaria,No,Alta,Separado/a,6.2,No,Frecuente,Privado
+44.3,La Serena,70.9,392000.0,Masculino,Técnica,No,Baja,,6.8,No,Nunca,Bicicleta/Pie
+71.1,Concepción,44.5,574000.0,Masculino,Técnica,No,Baja,Viudo/a,5.7,No,Ocasional,Bicicleta/Pie
+53.1,Santiago,,348000.0,Masculino,Media,No,Alta,Separado/a,8.8,No,Frecuente,Bicicleta/Pie
+35.1,La Serena,58.2,731000.0,Femenino,Universitaria,Sí,Media,Viudo/a,,No,Ocasional,Público
+58.0,Concepción,56.2,788000.0,Femenino,Universitaria,No,,Casado/a,,Sí,Frecuente,Público
+33.9,Temuco,49.8,829000.0,,,No,,Soltero/a,8.2,No,Nunca,Público
+9.4,La Serena,48.5,815000.0,Masculino,,No,Media,,10.2,Sí,Frecuente,Bicicleta/Pie
+,La Serena,53.7,568000.0,Masculino,Básica,No,Baja,Casado/a,6.4,No,Nunca,Privado
+11.9,Valparaíso,,752000.0,Masculino,Universitaria,No,Media,Soltero/a,6.6,No,Nunca,Privado
+34.7,Temuco,93.4,426000.0,Masculino,Básica,Sí,Baja,Separado/a,5.9,Sí,Frecuente,Bicicleta/Pie
+40.3,Santiago,63.7,1141000.0,,Básica,No,Alta,Casado/a,8.0,No,Frecuente,Bicicleta/Pie
+65.1,Antofagasta,72.1,724000.0,Masculino,Básica,No,Alta,Separado/a,8.4,No,Nunca,Privado
+44.9,Valdivia,74.8,678000.0,Femenino,Media,Sí,Baja,Separado/a,6.9,No,Ocasional,Público
+36.7,Puerto Montt,71.6,,Masculino,Técnica,No,Media,Casado/a,6.3,Sí,,Bicicleta/Pie
+52.4,Concepción,69.1,489000.0,,Técnica,Sí,Baja,Viudo/a,7.8,No,Nunca,Privado
+6.8,Valparaíso,55.7,519000.0,Femenino,Universitaria,No,Media,Casado/a,8.1,Sí,Nunca,Privado
+43.5,Concepción,87.4,526000.0,Masculino,Universitaria,Sí,Media,Separado/a,9.3,No,Frecuente,Privado
+51.6,Santiago,91.7,783000.0,Femenino,Media,Sí,Baja,Separado/a,6.1,No,Frecuente,Público
+17.8,Valdivia,49.8,908000.0,Femenino,Técnica,No,Baja,Casado/a,8.3,Sí,Nunca,
+57.2,Santiago,57.7,985000.0,,Básica,Sí,Media,Soltero/a,7.2,No,Nunca,Privado
+45.1,La Serena,66.6,1443000.0,,Básica,,Baja,Soltero/a,4.4,Sí,Ocasional,Privado
+33.8,Puerto Montt,58.4,238000.0,Femenino,Universitaria,Sí,Media,Soltero/a,9.3,No,Ocasional,Bicicleta/Pie
+49.5,Santiago,76.1,952000.0,Femenino,Técnica,Sí,Baja,Soltero/a,7.4,Sí,Ocasional,Bicicleta/Pie
+74.1,Concepción,61.3,661000.0,Masculino,Universitaria,No,Alta,Casado/a,7.9,No,Nunca,
+42.7,Temuco,96.0,,Femenino,Universitaria,Sí,Media,Viudo/a,8.4,,Nunca,Privado
+43.7,Temuco,84.3,645000.0,Masculino,Básica,No,Alta,Soltero/a,7.9,No,Ocasional,Privado
+33.1,La Serena,72.6,573000.0,Femenino,Básica,Sí,Baja,Separado/a,5.5,No,Ocasional,Público
+27.3,Antofagasta,82.3,1221000.0,Masculino,Técnica,Sí,Alta,Soltero/a,8.0,No,Frecuente,Privado
+52.5,Concepción,83.3,1011000.0,Femenino,Universitaria,No,Baja,Viudo/a,7.7,No,Frecuente,
+27.2,Concepción,63.2,806000.0,Femenino,,No,Media,Casado/a,4.5,No,Nunca,Privado
+41.1,Santiago,60.2,1138000.0,Masculino,Técnica,Sí,Baja,Viudo/a,9.5,No,Frecuente,Público
+32.8,Puerto Montt,70.9,422000.0,Femenino,Universitaria,No,Baja,Viudo/a,6.4,No,Nunca,Bicicleta/Pie
+47.2,Concepción,,,Femenino,Técnica,No,Media,Viudo/a,8.5,No,Nunca,Privado
+45.0,Valparaíso,,256000.0,Femenino,Técnica,Sí,,Soltero/a,6.5,No,Nunca,Público
+55.6,Antofagasta,51.1,625000.0,Femenino,Técnica,Sí,Media,Soltero/a,6.2,No,Ocasional,Bicicleta/Pie
+,Santiago,60.4,840000.0,Femenino,Media,No,Baja,Viudo/a,6.9,No,Frecuente,Bicicleta/Pie
+36.0,Valparaíso,69.1,826000.0,Femenino,Media,Sí,Media,Casado/a,10.2,No,Frecuente,Privado
+25.3,La Serena,69.1,837000.0,Femenino,Básica,No,Alta,Soltero/a,10.0,Sí,Frecuente,Público
+33.3,Temuco,93.7,447000.0,Masculino,Básica,No,Baja,,6.2,No,Frecuente,Público
+45.7,La Serena,53.4,1001000.0,Femenino,Universitaria,No,Baja,Soltero/a,8.9,No,Ocasional,Público
+51.4,Temuco,76.1,860000.0,Femenino,Técnica,No,Baja,Casado/a,7.0,No,Frecuente,Bicicleta/Pie
+26.2,La Serena,87.9,983000.0,Masculino,Universitaria,No,Media,Soltero/a,,No,Frecuente,Público
+53.0,Concepción,97.3,327000.0,Femenino,Básica,,Baja,Viudo/a,8.7,No,Ocasional,Bicicleta/Pie
+,Valparaíso,65.1,878000.0,Femenino,Media,Sí,Media,Separado/a,7.4,Sí,Frecuente,Público
+46.2,Temuco,75.9,503000.0,Masculino,Básica,No,Baja,Separado/a,7.1,No,Frecuente,
+68.2,Santiago,76.8,701000.0,Femenino,Universitaria,Sí,Alta,Casado/a,7.9,No,,Privado
+28.4,Valparaíso,72.3,934000.0,Femenino,Básica,No,Baja,Casado/a,7.7,No,Ocasional,Bicicleta/Pie
+21.3,Santiago,68.8,823000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,5.3,No,Ocasional,Público
+13.3,Valparaíso,75.2,587000.0,Masculino,Universitaria,Sí,Media,Viudo/a,7.3,Sí,Ocasional,Bicicleta/Pie
+,Valparaíso,39.6,802000.0,Femenino,Universitaria,Sí,Alta,Casado/a,6.0,Sí,Nunca,Público
+,La Serena,78.2,417000.0,Femenino,Universitaria,No,Baja,Separado/a,,No,Ocasional,Privado
+39.2,Temuco,71.5,1088000.0,Masculino,Básica,Sí,Baja,Viudo/a,8.7,,Frecuente,Bicicleta/Pie
+,Temuco,67.3,749000.0,,Universitaria,Sí,Media,Casado/a,7.3,No,Frecuente,
+23.1,Puerto Montt,,1080000.0,Masculino,Universitaria,No,Baja,Viudo/a,6.3,No,Frecuente,Bicicleta/Pie
+76.7,Valparaíso,61.9,668000.0,Masculino,Técnica,Sí,Baja,Viudo/a,5.2,No,Frecuente,Bicicleta/Pie
+41.9,Concepción,65.2,669000.0,Masculino,Universitaria,Sí,Media,Soltero/a,5.8,No,Nunca,Privado
+41.6,Concepción,93.9,609000.0,Femenino,Básica,No,Media,,6.9,No,Nunca,Privado
+50.9,Santiago,60.0,1019000.0,Masculino,Universitaria,Sí,Alta,Casado/a,9.5,No,Nunca,Bicicleta/Pie
+47.2,Santiago,63.4,,Masculino,Media,Sí,Media,Viudo/a,5.4,No,Frecuente,Bicicleta/Pie
+,La Serena,68.2,961000.0,Masculino,Media,No,Baja,Casado/a,7.4,No,Frecuente,Bicicleta/Pie
+28.1,Valparaíso,80.1,704000.0,Femenino,Universitaria,Sí,Media,Soltero/a,7.6,Sí,Ocasional,Privado
+47.1,Santiago,72.5,306000.0,,Media,,Baja,Soltero/a,8.8,No,Ocasional,Público
+68.2,Santiago,54.5,657000.0,Femenino,Media,Sí,Alta,Separado/a,7.2,No,Frecuente,Privado
+60.2,Antofagasta,63.6,505000.0,Masculino,Básica,Sí,Media,Soltero/a,,No,Ocasional,Bicicleta/Pie
+63.9,Valparaíso,62.7,808000.0,Femenino,,No,Baja,Soltero/a,8.8,Sí,Ocasional,Bicicleta/Pie
+32.3,Valdivia,69.1,502000.0,Femenino,Media,No,Media,Casado/a,5.8,Sí,Frecuente,Privado
+25.2,La Serena,75.1,,Masculino,,No,,Separado/a,8.2,,Nunca,Bicicleta/Pie
+38.1,Santiago,75.0,777000.0,Masculino,Técnica,No,Media,Soltero/a,4.9,,Frecuente,Bicicleta/Pie
+40.8,La Serena,48.7,756000.0,Femenino,Técnica,Sí,Media,,7.1,No,Frecuente,Bicicleta/Pie
+56.4,Temuco,82.8,964000.0,Femenino,Media,No,,,6.6,No,Ocasional,Bicicleta/Pie
+14.6,La Serena,73.0,1041000.0,Masculino,Universitaria,,Baja,Soltero/a,5.9,Sí,Ocasional,
+62.9,Valdivia,86.6,795000.0,Femenino,Media,Sí,Media,Separado/a,8.5,No,,Público
+37.6,Concepción,75.3,607000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,8.5,No,Nunca,Privado
+33.6,Valdivia,83.2,357000.0,,Universitaria,Sí,Alta,Casado/a,8.6,No,Frecuente,Privado
+24.8,Concepción,75.6,628000.0,Femenino,Universitaria,No,Baja,Separado/a,7.6,No,Nunca,Privado
+,La Serena,86.2,646000.0,Femenino,Técnica,Sí,Baja,Separado/a,5.2,Sí,Nunca,Público
+52.3,Concepción,76.3,827000.0,Femenino,Media,Sí,Alta,Soltero/a,6.5,No,Frecuente,
+41.1,Temuco,68.8,714000.0,Femenino,Media,Sí,Media,Separado/a,8.5,No,Frecuente,Privado
+,Valparaíso,97.3,972000.0,Masculino,Básica,No,Baja,Soltero/a,8.5,Sí,Frecuente,Privado
+20.6,Concepción,80.7,647000.0,Femenino,Técnica,No,Baja,Viudo/a,8.8,No,Nunca,Privado
+35.0,Concepción,,786000.0,Femenino,Básica,No,,Separado/a,7.5,No,Ocasional,Bicicleta/Pie
+65.0,La Serena,54.7,1096000.0,Femenino,Básica,No,Media,Separado/a,6.7,No,Nunca,Público
+36.1,Temuco,54.5,885000.0,Masculino,Universitaria,No,Baja,,4.1,No,Nunca,Público
+,Puerto Montt,73.5,785000.0,Femenino,Técnica,,Alta,Casado/a,8.3,Sí,Nunca,
+36.3,Puerto Montt,71.7,650000.0,Femenino,Básica,No,Media,Separado/a,6.9,No,Ocasional,Público
+35.9,Puerto Montt,62.6,642000.0,Masculino,Media,Sí,Media,Casado/a,5.1,No,Nunca,Privado
+-0.5,Puerto Montt,71.7,587000.0,Masculino,Básica,Sí,Alta,Separado/a,8.1,No,Nunca,Público
+39.2,Valparaíso,89.1,665000.0,Masculino,Técnica,Sí,Baja,Soltero/a,9.1,No,Nunca,Bicicleta/Pie
+36.5,Valdivia,78.3,989000.0,,Media,No,Media,Separado/a,8.3,Sí,Ocasional,Privado
+50.4,La Serena,56.3,745000.0,Masculino,,No,Baja,Separado/a,8.0,No,,Público
+67.7,La Serena,68.7,463000.0,Femenino,Media,Sí,Baja,Viudo/a,,No,Ocasional,Privado
+56.9,Antofagasta,60.3,1242000.0,Masculino,Universitaria,Sí,Baja,Casado/a,3.0,No,Ocasional,Público
+36.0,Temuco,65.3,880000.0,Masculino,Media,No,Alta,Casado/a,9.6,No,Frecuente,Privado
+23.4,Puerto Montt,65.0,448000.0,Masculino,Universitaria,No,,Viudo/a,5.8,Sí,Frecuente,Bicicleta/Pie
+78.6,Valparaíso,64.3,690000.0,,Universitaria,No,Baja,Soltero/a,,No,Frecuente,Bicicleta/Pie
+40.9,Temuco,54.9,828000.0,Masculino,Básica,No,Media,Soltero/a,6.3,No,Ocasional,Público
+40.2,Puerto Montt,68.5,1226000.0,Masculino,Básica,No,Media,Soltero/a,6.5,No,Frecuente,
+39.6,Valparaíso,63.3,,Masculino,Media,No,Alta,Viudo/a,9.3,Sí,Frecuente,Privado
+43.0,Temuco,34.8,1044000.0,Masculino,Técnica,No,Alta,Separado/a,7.8,Sí,Frecuente,Bicicleta/Pie
+37.8,La Serena,94.6,1150000.0,Femenino,Media,No,Media,Soltero/a,6.0,No,,Privado
+31.4,La Serena,83.1,643000.0,Femenino,Básica,Sí,Media,Soltero/a,6.2,Sí,Nunca,Bicicleta/Pie
+31.8,Valdivia,65.5,731000.0,Femenino,Media,No,Alta,Viudo/a,10.7,No,Frecuente,Privado
+39.5,Santiago,70.2,541000.0,Masculino,Básica,No,Baja,Casado/a,7.5,,Frecuente,Privado
+31.8,Valdivia,55.9,749000.0,Masculino,Media,No,Alta,,6.4,No,Frecuente,Privado
+29.3,Concepción,90.3,791000.0,Masculino,Técnica,Sí,Baja,Casado/a,4.6,Sí,Frecuente,Público
+41.6,Valdivia,92.8,965000.0,Femenino,Media,Sí,Media,Soltero/a,4.5,No,Ocasional,Bicicleta/Pie
+36.2,Puerto Montt,71.9,,Masculino,,No,Media,Soltero/a,5.3,No,Nunca,Público
+62.6,Antofagasta,82.3,613000.0,Masculino,,Sí,Media,Separado/a,7.1,No,Nunca,Público
+0.2,Temuco,72.1,308000.0,Masculino,Media,Sí,Baja,Separado/a,8.7,No,Frecuente,Privado
+56.4,Antofagasta,54.0,795000.0,Femenino,Técnica,Sí,Alta,Casado/a,7.9,No,Nunca,Bicicleta/Pie
+58.7,Santiago,65.1,,Femenino,,No,Baja,Soltero/a,8.8,No,Frecuente,Público
+8.9,Concepción,71.6,862000.0,Masculino,Básica,No,Alta,Soltero/a,7.8,Sí,Frecuente,Privado
+34.9,Temuco,64.5,718000.0,Femenino,Básica,No,Alta,Viudo/a,5.2,No,Nunca,Bicicleta/Pie
+34.4,Valparaíso,67.4,,Masculino,Técnica,No,Alta,Soltero/a,7.6,No,Nunca,
+18.9,Puerto Montt,68.9,1179000.0,Masculino,Universitaria,No,Media,Soltero/a,7.7,No,Ocasional,Público
+28.3,Concepción,69.0,895000.0,Femenino,,No,Alta,Viudo/a,6.8,,Frecuente,Privado
+,La Serena,70.6,707000.0,,Técnica,No,,Viudo/a,6.5,Sí,Nunca,
+66.3,Santiago,57.3,675000.0,Femenino,Media,Sí,Alta,Soltero/a,6.8,No,,Bicicleta/Pie
+54.0,Concepción,61.4,758000.0,Femenino,Básica,No,Alta,Separado/a,4.7,,Nunca,Público
+59.1,Puerto Montt,54.6,1209000.0,Masculino,Media,No,Media,,5.0,No,Nunca,Privado
+50.8,Valdivia,81.7,,Masculino,,No,,Soltero/a,10.8,No,Frecuente,Bicicleta/Pie
+23.1,Concepción,,795000.0,Femenino,Técnica,,Baja,Separado/a,,No,Ocasional,Privado
+32.1,Valdivia,83.8,679000.0,Femenino,Técnica,No,,Viudo/a,4.4,No,Frecuente,
+47.3,Puerto Montt,,1075000.0,Masculino,Técnica,No,,Separado/a,5.9,No,,Bicicleta/Pie
+21.7,La Serena,66.4,1290000.0,Masculino,Universitaria,No,Baja,Soltero/a,7.7,No,Ocasional,Privado
+50.7,Temuco,38.8,913000.0,Masculino,Universitaria,No,Baja,Separado/a,,No,Frecuente,Privado
+36.4,Valparaíso,65.7,821000.0,Masculino,Universitaria,Sí,Media,Soltero/a,5.5,No,Ocasional,
+34.4,La Serena,69.2,809000.0,Femenino,Técnica,Sí,Alta,Separado/a,7.1,No,Nunca,Bicicleta/Pie
+50.7,Valdivia,57.9,204000.0,Femenino,,No,Baja,Soltero/a,6.2,Sí,Ocasional,Privado
+,Valdivia,,986000.0,Femenino,Media,No,Alta,Soltero/a,7.3,Sí,,Público
+34.6,Valparaíso,88.4,834000.0,,Técnica,Sí,Alta,Separado/a,,No,Frecuente,Público
+57.4,Temuco,78.0,907000.0,Masculino,Básica,No,Baja,Separado/a,6.0,No,Nunca,Privado
+23.8,Concepción,58.9,622000.0,Femenino,Técnica,No,Media,Viudo/a,6.0,No,Nunca,Público
+49.2,Valparaíso,50.8,704000.0,Femenino,Media,Sí,Alta,Casado/a,,Sí,Ocasional,Público
+48.9,Santiago,66.1,697000.0,Femenino,Universitaria,No,Media,Soltero/a,6.7,No,Ocasional,Bicicleta/Pie
+35.4,Santiago,67.4,1055000.0,Masculino,,No,Baja,Soltero/a,6.9,No,Frecuente,Privado
+,Puerto Montt,76.0,,Femenino,Universitaria,No,Alta,Soltero/a,4.9,No,Ocasional,Bicicleta/Pie
+21.2,La Serena,63.6,1321000.0,Masculino,Técnica,Sí,,Soltero/a,6.5,,Frecuente,Privado
+53.9,Valdivia,76.1,908000.0,Femenino,Media,Sí,,Separado/a,6.6,No,Nunca,
+37.2,Temuco,93.2,481000.0,Femenino,Técnica,No,Alta,Separado/a,4.2,No,Nunca,Bicicleta/Pie
+32.2,Puerto Montt,79.8,768000.0,Femenino,Universitaria,Sí,,Casado/a,5.8,No,Ocasional,Bicicleta/Pie
+55.7,La Serena,69.4,637000.0,Masculino,Universitaria,Sí,Media,Soltero/a,5.8,No,Nunca,Público
+29.4,La Serena,67.8,251000.0,Masculino,Media,Sí,Baja,Casado/a,7.3,No,Nunca,Público
+18.9,Puerto Montt,65.7,1200000.0,Masculino,Técnica,No,Baja,Viudo/a,8.9,,Frecuente,Privado
+16.7,Antofagasta,84.2,976000.0,Masculino,Básica,Sí,Media,,7.1,No,Ocasional,Privado
+49.1,La Serena,62.5,933000.0,Masculino,Técnica,Sí,Media,,8.7,No,Frecuente,Público
+,Antofagasta,70.5,841000.0,Masculino,,Sí,Alta,Viudo/a,6.7,Sí,Nunca,Público
+66.3,Santiago,70.6,,Femenino,Básica,No,Baja,Viudo/a,,Sí,Nunca,Bicicleta/Pie
+8.8,Santiago,64.0,679000.0,Masculino,Media,Sí,Alta,Casado/a,7.1,,Nunca,
+65.4,La Serena,53.5,1010000.0,Femenino,Técnica,Sí,Media,Viudo/a,10.6,,Ocasional,Privado
+43.2,Santiago,73.9,,Masculino,Básica,No,Alta,Casado/a,6.8,Sí,Nunca,Bicicleta/Pie
+38.5,Temuco,69.3,167000.0,Femenino,Media,Sí,Media,Separado/a,8.2,No,Nunca,
+31.8,Antofagasta,76.0,743000.0,Femenino,Universitaria,Sí,Baja,Separado/a,7.3,No,Frecuente,Público
+46.0,Antofagasta,63.6,765000.0,Masculino,Básica,,Baja,Casado/a,8.7,No,Ocasional,Público
+39.4,La Serena,84.6,834000.0,Femenino,Básica,No,Media,Viudo/a,,No,Nunca,Público
+56.5,Santiago,59.5,982000.0,Masculino,,No,Baja,Viudo/a,7.5,,Frecuente,Privado
+41.7,Valparaíso,90.5,959000.0,Masculino,Universitaria,Sí,Media,Separado/a,5.3,No,Nunca,Público
+42.3,Valdivia,49.0,865000.0,Masculino,Básica,Sí,Alta,Separado/a,5.4,Sí,Frecuente,Público
+34.5,Puerto Montt,75.2,1099000.0,Masculino,Media,Sí,Media,Viudo/a,6.1,No,Nunca,Público
+39.1,Puerto Montt,75.7,420000.0,Femenino,Básica,Sí,Alta,Viudo/a,6.6,No,Ocasional,
+44.6,Antofagasta,60.5,926000.0,Masculino,Básica,Sí,Media,Viudo/a,7.2,No,,Privado
+14.3,La Serena,,957000.0,Femenino,,,,Viudo/a,6.1,No,Frecuente,Privado
+19.8,La Serena,85.4,490000.0,,Universitaria,No,Media,Casado/a,4.0,No,Nunca,Bicicleta/Pie
+51.1,Temuco,,424000.0,Femenino,Técnica,Sí,Media,,8.5,No,Ocasional,Privado
+42.6,Concepción,76.0,,Masculino,Técnica,Sí,Media,Separado/a,7.7,No,Nunca,Privado
+,Valdivia,40.1,635000.0,Femenino,Universitaria,Sí,Baja,Separado/a,7.1,No,Ocasional,Privado
+40.3,Concepción,58.4,988000.0,Masculino,Universitaria,No,Media,Soltero/a,8.9,No,Frecuente,Bicicleta/Pie
+45.2,Antofagasta,89.5,646000.0,Femenino,Media,Sí,Baja,Viudo/a,5.8,No,Ocasional,Público
+31.9,Puerto Montt,63.0,586000.0,Masculino,Básica,,Media,Casado/a,6.8,No,Nunca,
+28.3,Temuco,55.9,647000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,7.2,No,Nunca,Público
+42.9,Temuco,67.6,1080000.0,Masculino,Media,Sí,Media,Soltero/a,6.4,Sí,Nunca,Privado
+25.3,Temuco,94.8,803000.0,Masculino,Técnica,Sí,Alta,Casado/a,5.8,Sí,Frecuente,Público
+46.1,Antofagasta,48.0,755000.0,Femenino,Técnica,Sí,Baja,Soltero/a,8.3,No,Frecuente,Bicicleta/Pie
+14.5,Concepción,57.4,772000.0,Femenino,Técnica,Sí,Baja,,7.4,Sí,Nunca,Público
+55.4,Puerto Montt,88.0,1123000.0,Masculino,,Sí,Media,Separado/a,7.9,No,Nunca,Público
+47.1,Temuco,92.3,613000.0,Femenino,,No,Baja,Soltero/a,5.8,Sí,Ocasional,Privado
+43.8,Puerto Montt,68.8,1129000.0,Masculino,Básica,Sí,Media,Casado/a,8.2,,Ocasional,Público
+,Santiago,55.1,853000.0,Masculino,Media,Sí,Baja,Viudo/a,6.1,Sí,Ocasional,
+,La Serena,95.2,760000.0,Femenino,Básica,Sí,Alta,Viudo/a,7.4,Sí,Nunca,
+55.2,La Serena,89.1,1425000.0,,Técnica,No,Baja,Viudo/a,10.0,Sí,Ocasional,Bicicleta/Pie
+12.4,Puerto Montt,78.1,536000.0,Masculino,Universitaria,Sí,,Separado/a,8.3,No,Nunca,Privado
+20.8,Valparaíso,60.3,712000.0,Masculino,Universitaria,No,Media,Separado/a,7.5,No,Frecuente,Público
+30.6,Valparaíso,69.4,492000.0,Masculino,Universitaria,Sí,Media,Separado/a,9.0,No,Ocasional,Privado
+40.4,Antofagasta,68.1,1038000.0,Masculino,Básica,Sí,Media,Casado/a,6.1,No,Nunca,Privado
+47.8,Antofagasta,74.0,1222000.0,Femenino,Técnica,No,Alta,Viudo/a,7.7,No,Nunca,Público
+29.1,La Serena,87.4,1217000.0,,Media,No,Media,Casado/a,5.8,No,Frecuente,Bicicleta/Pie
+42.8,Santiago,80.6,1106000.0,Femenino,Universitaria,Sí,Media,Casado/a,6.5,No,Frecuente,Privado
+28.7,Valdivia,57.1,751000.0,Masculino,Básica,No,Alta,Soltero/a,9.4,No,Frecuente,Bicicleta/Pie
+30.8,Concepción,86.5,709000.0,Masculino,,No,Baja,Viudo/a,7.4,Sí,Frecuente,Privado
+18.9,Concepción,73.8,382000.0,Masculino,Media,Sí,Media,Soltero/a,9.1,Sí,Ocasional,Público
+26.2,Antofagasta,78.2,1309000.0,Masculino,Técnica,,Baja,Separado/a,6.8,No,Frecuente,
+19.7,Santiago,87.6,917000.0,Masculino,Media,Sí,Baja,Separado/a,8.8,Sí,Nunca,Privado
+25.4,Antofagasta,56.7,677000.0,Masculino,Técnica,,Media,Casado/a,7.1,No,Nunca,Privado
+55.8,Valdivia,69.6,1132000.0,Femenino,Técnica,Sí,Media,Casado/a,7.2,No,Nunca,Privado
+25.8,Concepción,63.6,557000.0,Masculino,Técnica,Sí,Alta,,7.0,Sí,Nunca,Público
+79.5,Puerto Montt,51.2,902000.0,Femenino,,No,Alta,Soltero/a,7.5,No,Nunca,Privado
+47.4,Antofagasta,,757000.0,Masculino,Media,No,Media,Casado/a,6.6,No,Frecuente,
+,Temuco,,960000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,4.9,No,Nunca,Privado
+27.1,Puerto Montt,47.9,784000.0,Masculino,Media,No,,Casado/a,6.9,No,Frecuente,Público
+50.5,Valdivia,69.6,437000.0,Femenino,Básica,No,Alta,Viudo/a,,Sí,Frecuente,Privado
+31.4,Valdivia,77.7,819000.0,Femenino,Básica,No,Media,Soltero/a,9.5,Sí,Frecuente,Bicicleta/Pie
+,Antofagasta,71.5,1062000.0,Masculino,,Sí,Media,Separado/a,3.6,No,Frecuente,Bicicleta/Pie
+78.4,La Serena,68.6,793000.0,Masculino,Media,Sí,Media,Separado/a,9.4,No,Ocasional,
+38.6,Antofagasta,54.4,994000.0,Femenino,Media,Sí,Media,Soltero/a,8.6,Sí,Ocasional,Privado
+57.2,La Serena,72.8,539000.0,Masculino,Media,No,Alta,Soltero/a,,No,Ocasional,Bicicleta/Pie
+29.5,Valdivia,60.9,793000.0,Masculino,Técnica,Sí,Alta,Separado/a,7.2,No,Ocasional,
+39.5,Santiago,43.7,644000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,5.5,No,Ocasional,Privado
+,Valdivia,84.3,987000.0,Femenino,Técnica,No,Baja,Soltero/a,9.9,No,Nunca,Privado
+30.6,Concepción,81.5,808000.0,Masculino,Universitaria,No,Alta,Viudo/a,8.9,No,Ocasional,Bicicleta/Pie
+,Puerto Montt,70.6,973000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,7.4,No,Nunca,Público
+50.6,Puerto Montt,72.7,1072000.0,Femenino,Universitaria,No,Media,Separado/a,7.4,Sí,Nunca,Bicicleta/Pie
+31.6,Valparaíso,,973000.0,Masculino,Técnica,Sí,Alta,Viudo/a,6.8,No,Frecuente,Público
+49.5,Valparaíso,72.7,868000.0,Femenino,Media,Sí,Alta,Separado/a,7.9,No,Frecuente,Bicicleta/Pie
+54.6,Valdivia,80.8,550000.0,Masculino,Técnica,Sí,Alta,Soltero/a,6.9,Sí,Frecuente,Privado
+49.3,Concepción,66.4,799000.0,Masculino,Técnica,No,Media,Casado/a,7.5,No,Ocasional,Privado
+16.4,Valparaíso,,667000.0,Femenino,Universitaria,No,Alta,Casado/a,,No,Nunca,Privado
+29.1,Puerto Montt,73.8,714000.0,Femenino,Básica,Sí,Alta,Casado/a,10.6,Sí,Ocasional,Bicicleta/Pie
+36.3,Antofagasta,72.3,706000.0,Femenino,Básica,Sí,Baja,Casado/a,5.6,Sí,Frecuente,Bicicleta/Pie
+38.9,Santiago,54.8,555000.0,Femenino,Técnica,Sí,Baja,Casado/a,7.2,Sí,Frecuente,Público
+49.3,Santiago,73.4,311000.0,Femenino,Universitaria,,Baja,Casado/a,8.8,No,Nunca,Bicicleta/Pie
+42.7,Concepción,60.0,633000.0,Masculino,Técnica,No,Baja,Viudo/a,8.2,Sí,Nunca,Público
+20.0,Valdivia,62.3,848000.0,Femenino,Técnica,,Media,Viudo/a,8.0,No,Frecuente,Bicicleta/Pie
+45.7,Valparaíso,60.2,463000.0,Masculino,Media,Sí,Baja,Casado/a,11.5,Sí,Ocasional,Privado
+49.2,Antofagasta,57.2,804000.0,Masculino,Universitaria,,Alta,Soltero/a,8.6,,Ocasional,Bicicleta/Pie
+48.4,Santiago,95.5,1275000.0,Femenino,Básica,Sí,Baja,Soltero/a,6.1,No,Nunca,Privado
+56.2,Santiago,86.0,1056000.0,Femenino,Básica,Sí,,Viudo/a,5.9,No,Frecuente,Bicicleta/Pie
+52.5,Temuco,93.0,1211000.0,Femenino,Básica,Sí,Baja,Viudo/a,6.9,Sí,Ocasional,Público
+46.9,Valdivia,55.3,898000.0,Femenino,Técnica,,Baja,Casado/a,,No,Nunca,
+38.9,Temuco,70.9,1092000.0,Femenino,Universitaria,Sí,Media,Soltero/a,7.1,No,Nunca,Privado
+,Puerto Montt,54.5,619000.0,Masculino,Media,No,,Separado/a,7.5,No,Nunca,Bicicleta/Pie
+46.4,Santiago,61.7,639000.0,Masculino,Básica,No,Media,Casado/a,,No,Ocasional,Público
+43.1,Concepción,59.0,115000.0,Masculino,,No,,Viudo/a,3.3,Sí,Nunca,Público
+44.1,La Serena,84.9,1097000.0,Femenino,Básica,No,Media,Viudo/a,5.9,Sí,Ocasional,Público
+20.8,La Serena,65.2,1185000.0,Femenino,Media,Sí,Media,Viudo/a,8.1,Sí,Nunca,Público
+23.8,Antofagasta,82.8,662000.0,Masculino,Universitaria,No,,Separado/a,9.5,No,Ocasional,Bicicleta/Pie
+55.8,Santiago,77.2,737000.0,Femenino,Técnica,No,Baja,Soltero/a,6.4,No,Frecuente,Público
+39.4,Santiago,97.6,612000.0,Femenino,Técnica,No,Baja,Viudo/a,6.4,No,Ocasional,Bicicleta/Pie
+50.2,Puerto Montt,52.2,896000.0,Femenino,Básica,No,Media,Casado/a,6.9,No,Frecuente,Bicicleta/Pie
+40.4,Santiago,85.1,1081000.0,Masculino,Básica,No,Media,Separado/a,9.6,No,Nunca,
+40.4,Concepción,83.8,364000.0,Femenino,Universitaria,,Alta,Soltero/a,7.1,Sí,Ocasional,Público
+54.1,Temuco,58.3,902000.0,Masculino,Media,No,Alta,Casado/a,3.6,Sí,Nunca,Público
+32.3,Santiago,82.1,731000.0,Femenino,Básica,No,Media,Casado/a,9.7,No,Frecuente,Bicicleta/Pie
+41.4,Santiago,,828000.0,Femenino,Universitaria,,Alta,Separado/a,8.0,No,Nunca,Bicicleta/Pie
+33.1,Puerto Montt,67.3,915000.0,Masculino,Media,No,Alta,Separado/a,5.1,No,,Bicicleta/Pie
+33.5,Valdivia,60.1,753000.0,Femenino,Básica,Sí,Media,Separado/a,6.2,No,Nunca,
+35.4,Valparaíso,61.4,774000.0,Femenino,Básica,No,Media,Viudo/a,5.8,Sí,Frecuente,Privado
+43.3,Valdivia,94.6,,Femenino,Universitaria,No,Media,Soltero/a,6.7,Sí,Frecuente,Público
+32.8,Puerto Montt,70.0,1043000.0,,Básica,No,Media,Viudo/a,9.2,No,Ocasional,Privado
+58.8,Valdivia,79.4,905000.0,Femenino,Técnica,Sí,Baja,Separado/a,4.2,No,Ocasional,Bicicleta/Pie
+26.6,Puerto Montt,60.5,855000.0,Femenino,Media,Sí,Baja,Separado/a,6.5,No,Ocasional,Bicicleta/Pie
+37.2,Concepción,60.6,482000.0,Femenino,Media,No,Media,Separado/a,7.2,No,Ocasional,Público
+33.4,Antofagasta,83.0,705000.0,Femenino,Técnica,Sí,Alta,Viudo/a,6.9,Sí,Nunca,Público
+61.7,Santiago,53.8,1025000.0,Femenino,,No,,Casado/a,5.8,No,Frecuente,Privado
+42.9,Puerto Montt,65.0,809000.0,Masculino,Técnica,Sí,Baja,Separado/a,8.8,No,,Bicicleta/Pie
+55.5,Puerto Montt,70.4,965000.0,Masculino,Técnica,Sí,Alta,Viudo/a,6.8,Sí,Nunca,Público
+17.7,Valparaíso,71.3,1242000.0,Femenino,Media,Sí,Baja,Separado/a,6.6,No,Ocasional,Público
+44.0,Puerto Montt,67.9,,Femenino,Universitaria,No,Media,Viudo/a,7.5,No,Frecuente,Privado
+53.3,La Serena,74.7,,Masculino,Básica,Sí,Baja,Soltero/a,6.6,No,Nunca,Público
+41.2,Antofagasta,78.3,672000.0,Femenino,Técnica,Sí,Baja,Soltero/a,6.2,No,Nunca,Privado
+56.0,Santiago,78.8,162000.0,Femenino,Técnica,No,Baja,Viudo/a,5.6,No,Ocasional,Bicicleta/Pie
+32.2,Santiago,58.2,758000.0,Femenino,Universitaria,Sí,Alta,,10.3,No,Ocasional,Privado
+61.1,Valparaíso,66.6,718000.0,Femenino,Técnica,No,Baja,Viudo/a,8.2,Sí,Frecuente,Público
+74.5,Concepción,84.3,898000.0,Femenino,Universitaria,No,Alta,Soltero/a,6.4,No,Frecuente,Privado
+34.6,Santiago,80.7,762000.0,Femenino,Básica,Sí,Media,Viudo/a,8.9,No,Ocasional,Privado
+33.3,La Serena,53.5,720000.0,Femenino,,No,Media,Soltero/a,7.8,Sí,Frecuente,Bicicleta/Pie
+61.8,Santiago,74.2,355000.0,Femenino,,Sí,Baja,Soltero/a,7.1,No,Ocasional,Privado
+63.7,La Serena,46.3,565000.0,Masculino,Universitaria,Sí,Alta,Casado/a,5.5,No,Nunca,Público
+32.2,Antofagasta,70.6,919000.0,Masculino,Técnica,No,Media,Separado/a,5.8,Sí,Nunca,
+33.7,Antofagasta,92.8,1229000.0,Femenino,Básica,Sí,Alta,Viudo/a,8.5,Sí,Nunca,Bicicleta/Pie
+35.8,Temuco,58.6,776000.0,Femenino,,Sí,Alta,Separado/a,8.1,Sí,Frecuente,Bicicleta/Pie
+19.8,Temuco,60.0,882000.0,Femenino,Básica,No,,Separado/a,4.9,No,Ocasional,Bicicleta/Pie
+26.2,La Serena,79.2,1038000.0,Femenino,,No,Baja,Soltero/a,6.4,No,Nunca,Público
+24.9,Concepción,51.5,597000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,8.0,No,Nunca,Privado
+28.5,Santiago,62.4,892000.0,Masculino,Universitaria,No,Alta,,8.7,Sí,Frecuente,Público
+39.5,Puerto Montt,77.2,615000.0,Masculino,Media,No,Baja,Viudo/a,7.8,Sí,Frecuente,Público
+43.5,Santiago,62.4,1016000.0,Masculino,Media,No,Alta,Viudo/a,6.3,,Nunca,Bicicleta/Pie
+63.3,Temuco,67.2,838000.0,Femenino,Básica,,Baja,Soltero/a,7.4,No,Frecuente,Bicicleta/Pie
+25.0,Valdivia,78.9,875000.0,Femenino,Media,Sí,Alta,Casado/a,6.7,Sí,,Privado
+54.8,Puerto Montt,75.1,604000.0,Femenino,Universitaria,Sí,,Viudo/a,7.6,Sí,Frecuente,Privado
+36.8,La Serena,73.2,977000.0,Masculino,Media,No,Alta,Soltero/a,9.2,Sí,Frecuente,
+39.3,Puerto Montt,65.9,1321000.0,Femenino,Media,Sí,Baja,Casado/a,5.8,No,Ocasional,Privado
+50.1,Valdivia,74.4,548000.0,Femenino,Técnica,,,Separado/a,7.4,No,Frecuente,Público
+23.2,Santiago,68.5,715000.0,Masculino,Básica,No,Media,Soltero/a,,,Frecuente,Privado
+45.7,Santiago,,858000.0,Masculino,Básica,Sí,Media,Viudo/a,,No,Ocasional,Público
+42.5,Concepción,64.0,997000.0,,Básica,Sí,,Viudo/a,6.8,No,,Público
+47.4,Valparaíso,67.8,660000.0,Masculino,Media,Sí,Media,Casado/a,9.0,Sí,Frecuente,Privado
+44.3,Puerto Montt,58.1,92000.0,Masculino,Universitaria,Sí,Alta,Casado/a,,Sí,Nunca,Privado
+76.8,Temuco,69.6,1140000.0,Femenino,Técnica,No,Alta,Soltero/a,6.3,No,Nunca,Público
+30.4,Valdivia,60.3,990000.0,Femenino,Básica,No,Media,Casado/a,8.0,Sí,Nunca,Bicicleta/Pie
+32.0,Valdivia,56.6,364000.0,Masculino,Media,Sí,,Soltero/a,6.2,No,Ocasional,Privado
+30.7,Valdivia,73.1,648000.0,Femenino,Universitaria,No,Baja,Casado/a,4.3,Sí,Frecuente,Bicicleta/Pie
+,Temuco,72.6,1192000.0,Femenino,Técnica,Sí,Alta,Separado/a,3.5,Sí,Ocasional,Público
+30.4,Valparaíso,79.4,1162000.0,Femenino,,Sí,Alta,Viudo/a,,Sí,Ocasional,Bicicleta/Pie
+57.8,Santiago,64.8,1035000.0,Femenino,Básica,Sí,Media,Viudo/a,6.6,No,Frecuente,Público
+61.3,Concepción,74.9,,Masculino,Básica,No,Baja,Separado/a,8.5,No,Frecuente,Bicicleta/Pie
+31.4,Concepción,76.6,821000.0,Femenino,Universitaria,No,Alta,Viudo/a,7.6,Sí,Nunca,Bicicleta/Pie
+27.5,Temuco,75.3,767000.0,Femenino,Media,Sí,,,7.4,Sí,Frecuente,Bicicleta/Pie
+47.1,Concepción,60.1,1082000.0,Femenino,Universitaria,,Alta,Viudo/a,6.3,No,Ocasional,Público
+31.7,Valdivia,71.8,581000.0,Masculino,Básica,Sí,Alta,Viudo/a,7.8,No,,Público
+49.5,Antofagasta,74.4,,Femenino,Universitaria,Sí,Alta,Separado/a,9.3,Sí,Ocasional,
+43.0,Valparaíso,70.1,1053000.0,Masculino,Media,No,Alta,Soltero/a,4.0,No,Frecuente,Privado
+,Santiago,45.0,789000.0,Masculino,Técnica,No,Baja,Viudo/a,6.8,No,Nunca,
+63.2,Antofagasta,71.9,1145000.0,Masculino,Técnica,Sí,Baja,Separado/a,9.0,No,Frecuente,Privado
+66.9,Valparaíso,96.6,632000.0,Masculino,Técnica,Sí,Alta,Viudo/a,5.3,,Nunca,Público
+30.8,La Serena,65.7,786000.0,Femenino,Técnica,No,Alta,Separado/a,7.2,No,Nunca,Privado
+34.2,Puerto Montt,61.3,569000.0,Masculino,Básica,,Media,Separado/a,,No,Nunca,Bicicleta/Pie
+44.3,Temuco,74.5,,Masculino,Básica,No,Baja,Soltero/a,6.6,Sí,Frecuente,Bicicleta/Pie
+45.0,Valdivia,73.7,430000.0,,Media,,Baja,Casado/a,4.3,No,Nunca,Público
+49.9,Concepción,84.3,678000.0,Masculino,Media,Sí,Alta,Soltero/a,8.5,Sí,,Privado
+70.2,La Serena,54.9,441000.0,Masculino,Media,No,,Soltero/a,7.2,No,Frecuente,Bicicleta/Pie
+37.3,Concepción,78.8,973000.0,Femenino,Media,No,Baja,Viudo/a,4.8,Sí,Ocasional,Bicicleta/Pie
+28.0,Antofagasta,77.1,979000.0,Masculino,Universitaria,No,Media,Separado/a,7.6,No,Frecuente,Privado
+19.3,Santiago,68.3,367000.0,Femenino,Media,No,,Casado/a,7.3,Sí,Frecuente,Público
+29.0,Santiago,,,Femenino,Técnica,Sí,Baja,Separado/a,6.0,Sí,Nunca,Bicicleta/Pie
+39.5,Santiago,82.4,1424000.0,Masculino,,No,Baja,,10.0,No,Frecuente,Público
+66.9,Valdivia,80.5,,Femenino,,No,Baja,Separado/a,7.8,No,Frecuente,Público
+32.2,Concepción,56.3,640000.0,Femenino,Universitaria,No,Alta,Viudo/a,8.9,No,Frecuente,Privado
+43.4,La Serena,79.8,1506000.0,Femenino,Media,,Media,,6.8,Sí,Nunca,Privado
+,Santiago,69.2,470000.0,Masculino,Técnica,Sí,Alta,Soltero/a,4.6,No,Frecuente,Bicicleta/Pie
+57.8,La Serena,70.9,,Masculino,Técnica,Sí,Media,Viudo/a,3.5,Sí,Nunca,Privado
+77.9,Concepción,70.9,845000.0,Masculino,Técnica,No,Media,Soltero/a,5.5,No,Frecuente,Bicicleta/Pie
+32.0,Valdivia,68.2,1136000.0,Masculino,Técnica,Sí,Media,Separado/a,9.0,No,Nunca,Bicicleta/Pie
+32.7,Antofagasta,84.3,890000.0,Masculino,Básica,Sí,Baja,Casado/a,6.2,No,Nunca,Bicicleta/Pie
+55.7,Valdivia,69.0,675000.0,Masculino,Media,Sí,,Casado/a,8.6,Sí,Frecuente,Público
+50.2,La Serena,56.6,562000.0,Masculino,,No,Alta,Separado/a,5.3,No,Ocasional,Público
+67.7,Valdivia,65.3,715000.0,Femenino,Universitaria,Sí,Media,Casado/a,6.0,No,Frecuente,Privado
+48.8,Valdivia,72.1,548000.0,,Básica,Sí,Alta,Separado/a,6.2,Sí,Ocasional,Privado
+34.6,Antofagasta,84.8,812000.0,Masculino,Universitaria,Sí,Media,Viudo/a,,No,Nunca,Bicicleta/Pie
+48.9,Concepción,77.2,659000.0,Femenino,Técnica,No,Media,,5.0,Sí,Ocasional,Bicicleta/Pie
+56.6,Concepción,,426000.0,Masculino,Universitaria,No,Baja,Viudo/a,5.8,No,Ocasional,
+52.3,Temuco,99.8,1114000.0,Masculino,Técnica,Sí,Alta,Viudo/a,6.7,No,,Público
+47.6,Valdivia,73.2,676000.0,Masculino,Técnica,Sí,Media,Separado/a,5.0,No,Ocasional,
+56.0,Concepción,85.3,483000.0,Femenino,Media,Sí,Media,,4.4,No,Frecuente,Bicicleta/Pie
+57.5,Concepción,68.2,758000.0,Masculino,Media,No,Alta,Soltero/a,,Sí,Ocasional,Privado
+60.7,Valparaíso,,817000.0,Masculino,Media,No,Media,Soltero/a,5.0,Sí,Nunca,Bicicleta/Pie
+49.7,Santiago,80.1,363000.0,Masculino,Media,Sí,Baja,Soltero/a,8.8,No,Ocasional,Bicicleta/Pie
+37.5,Temuco,84.6,883000.0,Masculino,,No,Alta,,8.9,No,Nunca,Bicicleta/Pie
+42.2,Puerto Montt,82.7,,Femenino,Básica,Sí,Baja,Separado/a,6.1,Sí,Nunca,Público
+58.1,Temuco,80.5,1228000.0,Masculino,Media,No,Alta,Viudo/a,,No,,Público
+27.7,Temuco,66.2,931000.0,Femenino,Universitaria,Sí,Alta,Casado/a,7.1,Sí,Nunca,Privado
+45.5,Puerto Montt,63.1,700000.0,Femenino,Técnica,No,Alta,Separado/a,8.6,,Ocasional,Privado
+34.1,Valparaíso,74.0,614000.0,Masculino,Media,Sí,Media,Soltero/a,6.3,Sí,Frecuente,Privado
+40.4,Valdivia,81.2,774000.0,Masculino,Básica,No,Alta,Casado/a,7.8,No,Frecuente,Bicicleta/Pie
+59.2,Antofagasta,,953000.0,Femenino,Universitaria,Sí,Alta,Separado/a,7.5,Sí,Ocasional,Bicicleta/Pie
+42.9,Concepción,82.8,794000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,,Sí,Ocasional,Público
+40.7,Santiago,87.4,746000.0,Femenino,Técnica,Sí,Baja,Soltero/a,6.1,No,Frecuente,Bicicleta/Pie
+19.6,La Serena,59.0,815000.0,Femenino,Universitaria,Sí,Alta,,,No,Nunca,Bicicleta/Pie
+51.2,Valdivia,60.0,649000.0,Masculino,Universitaria,No,Media,Casado/a,6.4,No,Frecuente,Público
+49.7,Puerto Montt,68.3,714000.0,Femenino,,Sí,Alta,Soltero/a,6.4,Sí,Frecuente,Privado
+72.4,Antofagasta,,279000.0,Femenino,Universitaria,No,Alta,Viudo/a,5.9,No,Frecuente,Bicicleta/Pie
+35.4,Valdivia,63.7,1043000.0,,Básica,No,Baja,Soltero/a,6.0,Sí,Nunca,Público
+43.3,Puerto Montt,86.2,875000.0,Femenino,Técnica,Sí,Media,Viudo/a,6.6,No,Ocasional,Público
+43.7,Concepción,75.1,607000.0,Masculino,,Sí,Media,Casado/a,7.7,No,Ocasional,
+63.7,Valparaíso,70.5,1275000.0,Masculino,Universitaria,Sí,Media,Soltero/a,8.2,,Ocasional,Público
+38.6,Valdivia,,822000.0,,Básica,Sí,Alta,Viudo/a,7.2,Sí,Nunca,Privado
+44.2,Puerto Montt,54.2,541000.0,Femenino,Técnica,No,Alta,Viudo/a,9.1,No,Nunca,Privado
+49.1,Concepción,73.4,,Femenino,,No,Media,Separado/a,7.2,No,Ocasional,Privado
+42.8,Concepción,44.4,900000.0,Masculino,Técnica,No,Media,Viudo/a,4.3,,Ocasional,Privado
+33.3,Valparaíso,82.2,899000.0,Masculino,Básica,No,Baja,Soltero/a,5.3,No,Ocasional,
+,Temuco,68.1,694000.0,Femenino,Básica,Sí,Media,Soltero/a,8.1,No,Ocasional,Público
+56.1,Valdivia,,913000.0,Masculino,Básica,No,Alta,Viudo/a,6.5,No,Nunca,Bicicleta/Pie
+24.6,Valdivia,97.7,735000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,6.4,Sí,,Privado
+42.0,Temuco,67.8,939000.0,Femenino,Básica,Sí,Alta,Casado/a,5.6,No,Frecuente,Privado
+29.5,Santiago,68.7,324000.0,Femenino,Media,No,Baja,Casado/a,6.4,No,Ocasional,
+57.9,Santiago,81.9,,,,No,Media,Soltero/a,6.4,No,Nunca,
+17.2,Temuco,90.4,,Femenino,Técnica,No,Alta,Viudo/a,7.7,No,Frecuente,Privado
+31.6,Antofagasta,,608000.0,Femenino,Media,No,Baja,Casado/a,6.6,No,Frecuente,Bicicleta/Pie
+45.7,La Serena,48.6,649000.0,Masculino,Universitaria,No,Baja,Viudo/a,8.9,No,Frecuente,Privado
+63.5,Concepción,62.5,688000.0,Masculino,Básica,No,Alta,Soltero/a,6.0,No,Nunca,Público
+39.0,La Serena,77.0,496000.0,Masculino,Técnica,Sí,,Separado/a,7.3,Sí,Ocasional,Bicicleta/Pie
+31.7,Concepción,76.0,248000.0,Femenino,Básica,Sí,Baja,Casado/a,4.5,No,Nunca,
+68.2,Temuco,82.8,742000.0,Masculino,Media,Sí,Alta,Soltero/a,8.0,No,Nunca,Público
+18.3,Santiago,55.6,834000.0,Femenino,Media,No,Baja,,4.9,Sí,Frecuente,Bicicleta/Pie
+7.0,Antofagasta,42.2,,Femenino,Universitaria,Sí,Alta,Viudo/a,7.9,No,Frecuente,Público
+46.6,Santiago,80.3,764000.0,Femenino,,Sí,,Separado/a,4.2,No,Nunca,Privado
+32.5,La Serena,60.1,,Femenino,,Sí,Baja,Separado/a,5.4,No,Frecuente,Bicicleta/Pie
+24.7,Santiago,45.8,1056000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,,No,Nunca,Bicicleta/Pie
+50.6,Temuco,71.7,752000.0,Masculino,Técnica,Sí,Alta,Casado/a,9.3,Sí,Frecuente,Público
+43.7,Antofagasta,,656000.0,Masculino,,Sí,Media,Separado/a,3.0,,Ocasional,Privado
+31.5,La Serena,68.5,730000.0,Femenino,Técnica,No,Alta,Casado/a,5.4,No,Ocasional,Privado
+20.8,Antofagasta,64.5,945000.0,Masculino,Técnica,No,Media,Viudo/a,9.7,No,Ocasional,
+53.1,Valdivia,68.1,1153000.0,Masculino,Media,No,Media,Viudo/a,7.2,,Frecuente,Bicicleta/Pie
+49.8,Concepción,65.6,643000.0,Masculino,Básica,Sí,Media,,5.5,Sí,Frecuente,Bicicleta/Pie
+38.5,Santiago,53.8,825000.0,Femenino,Media,,,Separado/a,9.2,No,Ocasional,Público
+67.7,Antofagasta,61.4,885000.0,Masculino,Básica,No,Baja,Separado/a,,No,Nunca,Público
+23.9,Valparaíso,76.3,552000.0,Femenino,Básica,Sí,Baja,Casado/a,7.2,No,Nunca,Público
+17.1,Valdivia,73.9,805000.0,Masculino,Técnica,No,Alta,Viudo/a,4.1,No,Ocasional,Bicicleta/Pie
+29.6,Santiago,72.0,434000.0,Femenino,Media,Sí,Alta,Separado/a,10.1,No,Frecuente,Público
+39.3,Concepción,58.1,358000.0,Masculino,Técnica,No,Alta,Soltero/a,7.4,No,Nunca,Privado
+43.7,Antofagasta,67.8,892000.0,Masculino,Técnica,Sí,Baja,Soltero/a,6.5,No,Nunca,Público
+,La Serena,43.9,704000.0,Masculino,Técnica,Sí,Media,Separado/a,9.2,No,Nunca,Privado
+45.3,Concepción,72.1,851000.0,Femenino,Básica,No,Baja,Soltero/a,5.6,No,Frecuente,Privado
+21.2,Valparaíso,87.1,796000.0,Masculino,Media,Sí,Baja,Separado/a,5.4,No,Nunca,Público
+61.7,Antofagasta,52.3,556000.0,Masculino,Media,No,Alta,Separado/a,5.5,Sí,Nunca,Privado
+38.8,Puerto Montt,63.0,789000.0,Femenino,Técnica,Sí,Alta,Separado/a,6.4,No,Ocasional,Bicicleta/Pie
+56.8,Puerto Montt,73.9,492000.0,Femenino,Básica,No,Alta,Separado/a,7.0,No,Frecuente,
+45.1,Temuco,85.0,1148000.0,Femenino,Media,No,Media,,8.0,No,Ocasional,Bicicleta/Pie
+46.9,Santiago,64.6,461000.0,Femenino,Universitaria,Sí,Media,,5.1,No,Nunca,
+48.5,La Serena,61.7,751000.0,Masculino,Media,No,Baja,Soltero/a,7.5,,Frecuente,Privado
+46.7,Temuco,46.4,539000.0,Masculino,Técnica,No,Media,Viudo/a,6.1,Sí,Frecuente,Bicicleta/Pie
+49.6,Antofagasta,71.2,943000.0,Femenino,Universitaria,No,Alta,Casado/a,6.8,Sí,Ocasional,Bicicleta/Pie
+59.9,Puerto Montt,94.5,717000.0,Masculino,Básica,Sí,Media,Viudo/a,8.8,Sí,Ocasional,
+42.9,Puerto Montt,73.3,670000.0,Femenino,Universitaria,Sí,Media,Viudo/a,7.7,No,Frecuente,Público
+50.6,Puerto Montt,69.7,,Masculino,Universitaria,No,Media,Viudo/a,7.9,Sí,Frecuente,Bicicleta/Pie
+38.7,Antofagasta,73.9,807000.0,Femenino,Técnica,No,Media,Viudo/a,6.1,Sí,Ocasional,Privado
+61.6,Puerto Montt,69.9,929000.0,Masculino,Media,Sí,,Viudo/a,9.9,Sí,Nunca,Privado
+29.9,Concepción,60.2,555000.0,Femenino,Básica,Sí,Alta,Soltero/a,8.0,Sí,Frecuente,Público
+67.0,Valdivia,79.9,449000.0,Femenino,Universitaria,No,,Separado/a,6.4,No,Nunca,Público
+39.4,Antofagasta,72.7,827000.0,Masculino,Técnica,Sí,Baja,Soltero/a,,No,Ocasional,Público
+18.5,La Serena,70.2,720000.0,Masculino,Media,Sí,Baja,,7.9,No,Frecuente,Privado
+41.9,Valdivia,58.3,957000.0,Masculino,Universitaria,No,Media,Soltero/a,5.1,No,,Público
+29.8,Temuco,,780000.0,Femenino,Técnica,,Media,Casado/a,7.3,No,Frecuente,Bicicleta/Pie
+52.6,La Serena,78.0,851000.0,Masculino,Técnica,Sí,,Separado/a,,No,Frecuente,Privado
+30.2,Valdivia,63.4,,Femenino,Técnica,Sí,Baja,,3.9,No,Ocasional,Bicicleta/Pie
+33.3,Valparaíso,82.0,1272000.0,Masculino,Básica,No,Alta,Separado/a,6.4,No,Ocasional,
+11.7,Puerto Montt,64.0,759000.0,Masculino,Media,Sí,Baja,Soltero/a,8.7,No,Nunca,Privado
+33.2,Valparaíso,60.6,974000.0,Femenino,Universitaria,No,Baja,Soltero/a,9.2,No,Ocasional,Público
+3.6,Santiago,60.9,591000.0,Femenino,Media,Sí,Baja,Separado/a,6.2,No,Ocasional,
+16.2,Santiago,48.7,877000.0,Masculino,Media,Sí,Media,Separado/a,6.6,No,Nunca,Público
+51.4,Valdivia,75.7,474000.0,,Universitaria,No,Baja,Soltero/a,9.1,No,Ocasional,Privado
+,Valparaíso,48.0,913000.0,Femenino,Media,No,,Separado/a,8.0,No,Nunca,Privado
+46.4,Antofagasta,55.3,711000.0,,Básica,No,Media,Casado/a,7.7,No,Nunca,Privado
+25.5,La Serena,45.1,807000.0,Femenino,Universitaria,No,Baja,Casado/a,7.2,No,Ocasional,Bicicleta/Pie
+39.3,Valparaíso,69.0,974000.0,Masculino,Universitaria,Sí,Media,Soltero/a,8.1,No,Nunca,Público
+39.9,Santiago,68.2,492000.0,Masculino,,No,Media,Soltero/a,7.0,Sí,Nunca,Público
+22.6,Valparaíso,66.1,629000.0,Femenino,Media,No,Alta,Separado/a,9.3,Sí,Nunca,Privado
+62.6,Antofagasta,57.5,914000.0,Masculino,Universitaria,No,Media,Separado/a,6.8,Sí,Ocasional,Bicicleta/Pie
+53.2,Valparaíso,55.9,1325000.0,Femenino,Universitaria,Sí,Media,Viudo/a,6.8,No,Ocasional,Privado
+36.7,La Serena,75.6,765000.0,Masculino,Básica,Sí,Media,Casado/a,3.9,Sí,Nunca,Público
+40.4,Temuco,63.4,948000.0,Femenino,Técnica,No,Baja,Soltero/a,8.6,Sí,Ocasional,Público
+43.1,Antofagasta,73.8,773000.0,Femenino,Universitaria,No,Alta,Soltero/a,5.6,Sí,Frecuente,Privado
+9.4,Santiago,59.4,1286000.0,Femenino,,No,Baja,Soltero/a,3.4,No,Nunca,Privado
+36.3,La Serena,72.2,363000.0,Femenino,Universitaria,No,Media,Soltero/a,6.7,No,Frecuente,Privado
+29.8,Valparaíso,85.6,824000.0,Femenino,Universitaria,Sí,Media,,6.5,Sí,Ocasional,Público
+25.0,Valparaíso,77.0,394000.0,Masculino,Universitaria,No,Alta,Casado/a,,No,Frecuente,
+35.8,Temuco,65.1,173000.0,Masculino,,Sí,,Viudo/a,8.0,Sí,Ocasional,Privado
+67.0,Santiago,73.1,874000.0,Femenino,Media,,Media,Casado/a,5.8,Sí,Ocasional,Público
+49.6,Santiago,67.1,835000.0,Masculino,Universitaria,No,Media,Soltero/a,11.1,No,Nunca,Privado
+31.4,Concepción,70.1,729000.0,,Universitaria,Sí,Baja,Casado/a,6.7,No,Frecuente,Bicicleta/Pie
+48.6,Santiago,66.1,773000.0,Femenino,Media,No,Media,Soltero/a,4.5,No,Nunca,
+61.0,Temuco,68.0,1575000.0,Masculino,Universitaria,No,Baja,,9.4,No,Frecuente,Privado
+53.9,Puerto Montt,72.5,735000.0,Masculino,Técnica,No,Alta,Casado/a,8.1,No,Ocasional,Privado
+40.9,Concepción,58.1,928000.0,Femenino,Universitaria,No,Baja,Separado/a,,,Ocasional,Público
+30.3,Concepción,57.8,638000.0,Femenino,,Sí,Media,Casado/a,6.3,No,Nunca,Público
+50.5,Valparaíso,53.3,874000.0,Femenino,Media,,Baja,Soltero/a,7.1,No,Frecuente,Bicicleta/Pie
+45.9,Valparaíso,50.8,740000.0,Femenino,Básica,No,Baja,Separado/a,3.7,Sí,Frecuente,Privado
+53.4,Santiago,55.4,697000.0,Femenino,Media,Sí,,Soltero/a,6.6,No,Ocasional,Privado
+49.5,Concepción,71.9,1255000.0,Femenino,Universitaria,No,Baja,Separado/a,10.7,No,,Privado
+55.7,Valdivia,59.3,1094000.0,Masculino,Técnica,Sí,Media,Separado/a,5.6,No,Ocasional,Público
+32.0,Valparaíso,76.2,834000.0,Femenino,Básica,No,Baja,Casado/a,7.3,Sí,Ocasional,Público
+59.8,Temuco,70.4,224000.0,Femenino,Universitaria,,Baja,Casado/a,4.5,No,Nunca,Público
+43.0,Valdivia,46.4,710000.0,Masculino,Básica,No,Baja,Separado/a,6.2,,Frecuente,Privado
+71.1,Valparaíso,77.9,1476000.0,,,Sí,Media,Separado/a,5.1,No,Frecuente,Privado
+29.7,Antofagasta,79.7,,Femenino,,Sí,Baja,Separado/a,7.6,No,Ocasional,Público
+,Antofagasta,58.1,1076000.0,Masculino,Media,No,Media,,7.3,No,Frecuente,Bicicleta/Pie
+43.0,Valparaíso,75.0,1160000.0,Femenino,Universitaria,Sí,Baja,Casado/a,5.0,Sí,Nunca,Privado
+30.2,Concepción,59.7,855000.0,Masculino,Universitaria,No,Alta,Soltero/a,7.1,No,Frecuente,
+32.7,Puerto Montt,71.2,590000.0,Femenino,Media,Sí,,Casado/a,7.2,Sí,Frecuente,Público
+35.2,Puerto Montt,54.8,191000.0,Masculino,Técnica,No,Alta,Viudo/a,,No,Ocasional,
+46.4,Concepción,48.5,971000.0,Masculino,,Sí,Media,Soltero/a,8.3,No,Frecuente,Bicicleta/Pie
+47.8,La Serena,65.4,596000.0,Masculino,Básica,No,Media,Casado/a,9.3,,Nunca,Privado
+31.4,Puerto Montt,68.5,844000.0,Femenino,Universitaria,Sí,Media,Separado/a,6.1,No,Ocasional,Bicicleta/Pie
+39.6,Antofagasta,65.2,488000.0,Femenino,Universitaria,Sí,Baja,Separado/a,6.5,No,Nunca,Privado
+72.1,Temuco,55.8,,Masculino,Básica,Sí,Media,Casado/a,6.7,No,Frecuente,Bicicleta/Pie
+65.9,Concepción,65.2,808000.0,Masculino,,Sí,Media,,5.0,Sí,Frecuente,Bicicleta/Pie
+46.5,Santiago,73.2,867000.0,Femenino,Técnica,No,Media,Separado/a,5.5,No,Ocasional,Público
+40.6,Antofagasta,69.5,521000.0,Femenino,Técnica,No,Media,Viudo/a,7.8,Sí,Nunca,Público
+41.8,Temuco,72.2,1099000.0,Femenino,Básica,Sí,Alta,Viudo/a,9.9,No,,
+49.2,Temuco,62.0,651000.0,Femenino,Media,No,Baja,Viudo/a,,Sí,Frecuente,Privado
+24.7,Concepción,,381000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,10.4,No,Ocasional,Bicicleta/Pie
+36.1,Temuco,55.9,773000.0,Masculino,,No,Baja,Viudo/a,6.2,No,Frecuente,Privado
+15.0,Concepción,75.9,809000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,8.8,No,Frecuente,Privado
+46.0,Puerto Montt,84.2,,Masculino,,,Alta,Viudo/a,7.6,No,Frecuente,Privado
+49.7,Valparaíso,75.8,,Femenino,Universitaria,No,Media,Casado/a,7.3,No,Nunca,Privado
+32.8,Antofagasta,67.6,741000.0,Masculino,Básica,Sí,Alta,Separado/a,6.4,No,Nunca,Público
+63.6,La Serena,63.7,770000.0,Masculino,Universitaria,Sí,Baja,Casado/a,7.0,Sí,Nunca,Bicicleta/Pie
+21.6,Valparaíso,82.4,524000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,5.9,No,Frecuente,
+18.0,Antofagasta,52.9,1005000.0,Masculino,Media,Sí,Media,Soltero/a,8.4,No,Ocasional,Público
+43.4,Concepción,58.4,846000.0,Masculino,Universitaria,Sí,Alta,Casado/a,8.7,No,Ocasional,Privado
+55.7,Antofagasta,65.2,695000.0,Masculino,Técnica,No,Baja,Viudo/a,6.0,Sí,Ocasional,
+65.3,Puerto Montt,84.9,324000.0,Masculino,Básica,Sí,,Soltero/a,4.5,Sí,Nunca,Público
+33.1,Concepción,74.6,1161000.0,Femenino,Básica,No,,Soltero/a,6.5,No,Nunca,Público
+56.2,Valparaíso,58.4,493000.0,Masculino,Básica,Sí,Media,,10.0,No,Nunca,
+39.4,Santiago,66.3,652000.0,Femenino,,No,Baja,Separado/a,,,,Bicicleta/Pie
+37.4,Santiago,62.6,890000.0,Masculino,Universitaria,No,,Soltero/a,8.7,No,Frecuente,Público
+53.3,Valdivia,61.5,,Femenino,Básica,Sí,Baja,Viudo/a,5.6,No,Ocasional,Bicicleta/Pie
+49.8,Valdivia,81.7,427000.0,Femenino,Técnica,,,Casado/a,6.3,No,Ocasional,Privado
+16.4,Antofagasta,53.5,269000.0,Femenino,Media,No,,Casado/a,6.5,Sí,Nunca,Privado
+62.1,Santiago,89.3,980000.0,Masculino,Universitaria,No,Media,,5.2,Sí,Ocasional,Privado
+60.7,Concepción,79.9,664000.0,Femenino,Técnica,Sí,Alta,Separado/a,7.3,Sí,Ocasional,Privado
+30.6,Temuco,83.1,1532000.0,,,No,Alta,Separado/a,5.8,No,,Privado
+45.9,Concepción,,551000.0,Masculino,Media,No,Baja,Soltero/a,8.4,No,Nunca,Privado
+47.4,Temuco,68.2,570000.0,Femenino,Técnica,No,Alta,Viudo/a,,No,Nunca,Bicicleta/Pie
+43.9,Valparaíso,52.8,659000.0,Masculino,Universitaria,No,Baja,Soltero/a,9.2,No,Nunca,Público
+31.7,La Serena,63.7,861000.0,Masculino,Técnica,No,Media,Soltero/a,4.5,No,Frecuente,Privado
+29.9,Temuco,75.9,682000.0,Femenino,Básica,No,Media,Viudo/a,,No,Ocasional,Público
+39.6,Santiago,85.6,953000.0,Masculino,Universitaria,Sí,Alta,Separado/a,6.4,No,Frecuente,
+,Concepción,56.7,555000.0,,Técnica,Sí,,Separado/a,7.7,No,Ocasional,Privado
+48.2,Valparaíso,65.6,455000.0,Masculino,Básica,Sí,Baja,Casado/a,6.4,No,Frecuente,Privado
+34.4,Santiago,68.2,350000.0,,Media,Sí,Alta,Viudo/a,9.6,No,Nunca,Público
+51.6,Valparaíso,53.3,244000.0,Masculino,,No,Baja,Soltero/a,6.7,No,Frecuente,Público
+-2.7,La Serena,77.1,670000.0,Masculino,Universitaria,Sí,Baja,Viudo/a,5.6,,Nunca,Público
+57.2,Puerto Montt,61.3,725000.0,Masculino,Media,No,Media,Soltero/a,,No,Nunca,Privado
+13.9,Concepción,67.7,642000.0,Femenino,Básica,No,Baja,Casado/a,6.5,Sí,Frecuente,Público
+34.6,Antofagasta,64.6,1111000.0,Masculino,Media,Sí,Baja,Casado/a,8.4,No,Ocasional,
+23.2,Concepción,60.5,1107000.0,Femenino,Universitaria,Sí,Baja,Casado/a,6.4,No,Frecuente,
+20.6,Valdivia,69.9,,Masculino,Técnica,No,Alta,Casado/a,4.7,No,Nunca,
+57.4,La Serena,67.4,352000.0,Femenino,Básica,Sí,Alta,Soltero/a,7.3,No,Nunca,Privado
+33.0,Concepción,,658000.0,Femenino,Básica,Sí,Alta,Separado/a,6.0,No,Ocasional,Privado
+45.2,Valdivia,61.3,650000.0,Femenino,Básica,No,Baja,Soltero/a,5.3,No,Ocasional,Público
+39.3,Antofagasta,73.8,636000.0,Masculino,,No,Baja,Casado/a,7.0,No,,Bicicleta/Pie
+47.2,Temuco,89.8,626000.0,Masculino,,,,Separado/a,,No,Nunca,Público
+41.2,Valparaíso,71.7,637000.0,Masculino,,No,Alta,Viudo/a,,,Frecuente,Privado
+20.8,Antofagasta,82.0,703000.0,Femenino,Técnica,No,Baja,Soltero/a,7.4,No,Ocasional,Público
+54.9,Santiago,53.3,641000.0,Masculino,Básica,No,Baja,Viudo/a,6.1,No,Nunca,Privado
+32.6,La Serena,71.9,852000.0,Masculino,Técnica,Sí,Media,Casado/a,7.2,No,Frecuente,
+16.7,Temuco,56.8,890000.0,Femenino,,Sí,Alta,Viudo/a,6.1,No,Ocasional,Público
+33.6,Santiago,,572000.0,Masculino,Técnica,Sí,Baja,Separado/a,8.2,Sí,Frecuente,Privado
+62.5,Santiago,61.1,1118000.0,Masculino,Media,No,Alta,Separado/a,,No,Frecuente,Público
+52.8,La Serena,84.3,555000.0,Femenino,Técnica,No,Alta,,9.6,Sí,Nunca,Privado
+34.8,Temuco,81.4,396000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,6.3,Sí,Nunca,Público
+34.8,Puerto Montt,72.9,895000.0,Masculino,Media,Sí,Media,Viudo/a,7.5,No,Nunca,Público
+35.2,Santiago,51.6,596000.0,,Universitaria,Sí,Baja,Viudo/a,8.7,No,Frecuente,Público
+71.2,Santiago,67.6,880000.0,Masculino,Media,No,Baja,Viudo/a,7.8,,Ocasional,Privado
+45.7,Temuco,73.6,199000.0,Masculino,Técnica,Sí,Alta,Casado/a,7.2,No,Ocasional,Público
+46.5,Concepción,72.1,1148000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,,No,Ocasional,Público
+55.5,Santiago,47.9,968000.0,Masculino,Técnica,Sí,Media,Soltero/a,7.8,Sí,Nunca,Bicicleta/Pie
+43.6,Valparaíso,59.3,,Masculino,Media,No,Alta,Viudo/a,7.4,,Ocasional,Bicicleta/Pie
+36.1,Temuco,69.2,430000.0,Femenino,,Sí,Media,,7.0,Sí,Ocasional,
+37.1,Santiago,,1218000.0,Femenino,Básica,,Media,Viudo/a,8.1,No,Nunca,Privado
+38.9,La Serena,43.6,616000.0,Masculino,Técnica,No,,Viudo/a,6.9,Sí,Ocasional,Privado
+39.4,Antofagasta,68.1,591000.0,Femenino,Media,No,Baja,Viudo/a,5.5,Sí,Ocasional,Privado
+,Valparaíso,,233000.0,Femenino,Universitaria,No,Media,Separado/a,10.1,Sí,Ocasional,Público
+40.8,Valdivia,80.2,712000.0,Masculino,Técnica,No,,Casado/a,8.3,No,Frecuente,Público
+51.0,Valdivia,78.3,743000.0,Femenino,Universitaria,No,Media,Soltero/a,5.6,No,Frecuente,Privado
+38.8,Antofagasta,77.0,979000.0,Femenino,Técnica,Sí,Media,Casado/a,6.6,No,Nunca,Privado
+41.2,Valdivia,60.4,450000.0,Masculino,Técnica,,Alta,Separado/a,6.1,No,Nunca,Bicicleta/Pie
+10.0,Antofagasta,47.1,420000.0,,Técnica,,Media,,,No,Frecuente,Privado
+,Santiago,65.3,913000.0,Masculino,Universitaria,No,Media,Viudo/a,8.3,No,Nunca,Bicicleta/Pie
+45.2,Valparaíso,82.0,1052000.0,Masculino,Universitaria,No,Baja,Casado/a,6.5,No,Nunca,Privado
+55.0,Valparaíso,86.7,407000.0,Masculino,Técnica,No,Alta,Separado/a,9.9,No,Ocasional,Privado
+-3.4,Concepción,78.5,1070000.0,Masculino,Básica,Sí,Baja,Soltero/a,4.3,No,Nunca,Público
+71.3,Antofagasta,75.2,809000.0,Masculino,Básica,Sí,Alta,Soltero/a,7.0,No,Nunca,
+37.9,Valparaíso,74.6,1073000.0,Femenino,Básica,No,Baja,Casado/a,5.0,Sí,Ocasional,Bicicleta/Pie
+,Concepción,63.3,,Masculino,Media,No,Media,Casado/a,7.5,Sí,Ocasional,Público
+24.4,Temuco,68.4,169000.0,Femenino,,No,Alta,Soltero/a,7.7,Sí,Frecuente,
+49.2,Concepción,90.0,762000.0,Femenino,Universitaria,No,Alta,Soltero/a,8.3,No,Nunca,Privado
+24.2,La Serena,58.7,1065000.0,Masculino,Básica,Sí,,Separado/a,5.2,No,Ocasional,Público
+30.6,Puerto Montt,89.4,577000.0,,Universitaria,No,Alta,Viudo/a,7.6,No,Nunca,Bicicleta/Pie
+68.7,Santiago,66.1,703000.0,,Media,No,Baja,Viudo/a,5.7,No,Nunca,Privado
+37.1,Temuco,85.9,756000.0,,Universitaria,Sí,,Separado/a,7.1,No,Frecuente,
+43.3,Puerto Montt,53.1,75000.0,Masculino,Universitaria,No,Alta,Soltero/a,6.3,No,Frecuente,Privado
+53.1,Puerto Montt,77.0,1218000.0,Femenino,Universitaria,Sí,Alta,Casado/a,5.1,Sí,Frecuente,Bicicleta/Pie
+,Temuco,61.2,575000.0,Femenino,Básica,No,Alta,Casado/a,8.1,No,Frecuente,Privado
+42.3,La Serena,53.0,926000.0,Masculino,Técnica,No,Baja,Soltero/a,6.6,No,Frecuente,Bicicleta/Pie
+45.5,Concepción,72.6,778000.0,Femenino,Universitaria,Sí,Alta,Separado/a,8.3,No,Ocasional,Público
+76.1,Santiago,82.1,1114000.0,Femenino,Básica,,Alta,Soltero/a,8.4,No,Frecuente,Privado
+39.1,Concepción,59.9,902000.0,Femenino,Básica,Sí,Alta,Casado/a,9.0,No,Ocasional,Privado
+43.0,Valparaíso,52.0,741000.0,Femenino,Básica,Sí,,Soltero/a,6.2,Sí,Frecuente,Bicicleta/Pie
+55.8,Concepción,68.9,577000.0,Femenino,Técnica,Sí,Media,,5.6,No,Ocasional,Privado
+56.6,Valdivia,69.0,,Masculino,Técnica,,Media,Separado/a,8.8,No,Nunca,Público
+57.8,Temuco,76.6,332000.0,Femenino,Técnica,No,Baja,Viudo/a,7.2,No,Frecuente,Bicicleta/Pie
+49.6,Santiago,81.4,961000.0,Masculino,Técnica,Sí,Media,Casado/a,9.0,Sí,Ocasional,Bicicleta/Pie
+22.9,Concepción,69.3,525000.0,Femenino,,No,Alta,Casado/a,,No,Frecuente,Bicicleta/Pie
+64.5,Santiago,92.3,1113000.0,,Técnica,No,Alta,Soltero/a,8.0,No,Ocasional,Público
+22.8,Santiago,72.7,840000.0,Masculino,Técnica,No,Baja,,7.1,No,Ocasional,Público
+44.5,Valparaíso,65.8,961000.0,Masculino,Técnica,Sí,Baja,,6.9,No,Frecuente,Privado
+,Valparaíso,50.7,820000.0,Femenino,Universitaria,Sí,Media,Viudo/a,6.5,No,Ocasional,Bicicleta/Pie
+39.0,Temuco,66.8,362000.0,Femenino,Universitaria,No,Media,Casado/a,5.3,No,Nunca,Público
+44.9,La Serena,66.0,585000.0,,Técnica,,Alta,Casado/a,8.0,Sí,Frecuente,Privado
+44.8,Valdivia,81.5,968000.0,Femenino,Media,No,Baja,Separado/a,6.4,No,Nunca,Público
+46.3,Puerto Montt,75.5,842000.0,Femenino,Universitaria,No,Media,Separado/a,7.3,No,Ocasional,Público
+,Santiago,55.8,1095000.0,Masculino,Básica,No,Media,Separado/a,9.9,,Ocasional,Público
+46.8,La Serena,72.1,901000.0,Masculino,,Sí,Alta,Separado/a,6.2,No,Frecuente,Privado
+36.3,Puerto Montt,78.1,558000.0,Masculino,Básica,Sí,Alta,Separado/a,6.6,Sí,Nunca,Público
+54.5,Puerto Montt,88.3,601000.0,Femenino,Universitaria,No,Alta,Viudo/a,6.8,,Nunca,Público
+57.8,Valdivia,80.7,826000.0,Femenino,Técnica,Sí,Alta,Casado/a,6.4,Sí,Frecuente,Público
+21.6,Temuco,79.1,221000.0,Masculino,Universitaria,No,Media,Soltero/a,6.5,No,Nunca,Bicicleta/Pie
+49.0,Puerto Montt,70.7,1218000.0,Femenino,Técnica,Sí,Baja,Viudo/a,8.0,No,Frecuente,Público
+50.5,Valdivia,74.7,910000.0,Femenino,Técnica,Sí,Baja,Soltero/a,9.0,No,Frecuente,
+35.5,Puerto Montt,85.0,1107000.0,Masculino,Universitaria,Sí,Alta,Separado/a,7.2,No,Ocasional,Público
+60.6,Santiago,54.0,405000.0,Masculino,Básica,No,Alta,Casado/a,8.1,No,Ocasional,
+37.7,Santiago,65.8,1111000.0,Femenino,Básica,No,,Separado/a,6.7,No,,Público
+,Antofagasta,60.7,1358000.0,Femenino,,,Alta,Viudo/a,6.7,No,Frecuente,Bicicleta/Pie
+37.4,La Serena,74.5,470000.0,Masculino,Técnica,Sí,Baja,Soltero/a,6.4,Sí,Frecuente,Bicicleta/Pie
+40.2,Concepción,84.8,993000.0,Femenino,Básica,No,Alta,Casado/a,5.9,No,Frecuente,Bicicleta/Pie
+23.6,Valdivia,62.8,800000.0,,Media,,,Viudo/a,,Sí,Frecuente,Público
+,Valparaíso,41.3,414000.0,Masculino,Técnica,No,Alta,Viudo/a,6.2,No,Ocasional,Privado
+,Valdivia,65.1,923000.0,Masculino,Universitaria,No,Alta,Casado/a,7.9,No,Nunca,Bicicleta/Pie
+27.3,Concepción,81.0,,Femenino,Técnica,Sí,Baja,Casado/a,,No,Ocasional,Bicicleta/Pie
+25.1,La Serena,76.5,650000.0,Masculino,Media,Sí,Media,Viudo/a,7.1,No,Frecuente,Bicicleta/Pie
+7.7,Valparaíso,75.1,1091000.0,Masculino,Media,No,Media,Soltero/a,,No,Nunca,Bicicleta/Pie
+30.4,Concepción,66.6,383000.0,Femenino,Básica,Sí,Alta,Soltero/a,5.8,No,Nunca,Bicicleta/Pie
+20.2,Antofagasta,54.7,426000.0,Masculino,Media,Sí,Alta,Viudo/a,6.5,Sí,Frecuente,
+64.6,Valparaíso,76.2,834000.0,Femenino,Técnica,Sí,,Viudo/a,5.4,No,Frecuente,Público
+55.1,Santiago,60.0,806000.0,Femenino,Básica,Sí,Baja,Separado/a,7.0,Sí,Ocasional,Privado
+29.7,Concepción,96.2,621000.0,Femenino,Media,Sí,Alta,Separado/a,4.4,No,Ocasional,Público
+73.8,Valdivia,76.8,1002000.0,Masculino,Básica,No,Baja,,6.9,No,Frecuente,
+54.7,Valparaíso,63.0,,Masculino,Básica,Sí,Media,Separado/a,8.0,,Frecuente,Público
+35.1,Antofagasta,62.7,1015000.0,Femenino,Universitaria,No,,Soltero/a,7.0,Sí,Ocasional,Bicicleta/Pie
+2.5,Valdivia,68.9,769000.0,Femenino,Básica,No,,Casado/a,5.9,No,Nunca,Público
+74.4,Puerto Montt,67.1,951000.0,Femenino,Básica,No,Baja,,6.0,No,Nunca,Público
+19.2,Valparaíso,,689000.0,Masculino,Media,Sí,Baja,Soltero/a,8.8,No,Nunca,Bicicleta/Pie
+15.3,Valparaíso,72.2,1313000.0,Femenino,Técnica,Sí,Media,Soltero/a,7.2,No,Ocasional,Bicicleta/Pie
+55.3,Antofagasta,61.2,597000.0,Femenino,Técnica,,,Viudo/a,8.3,No,Frecuente,Público
+76.6,Puerto Montt,92.7,1326000.0,,Media,Sí,Baja,Soltero/a,8.4,Sí,Nunca,Público
+60.8,Concepción,70.6,809000.0,Masculino,Técnica,No,Baja,Separado/a,6.3,No,Frecuente,Bicicleta/Pie
+48.5,Temuco,79.2,456000.0,,Básica,No,Baja,Viudo/a,5.5,No,Ocasional,Privado
+48.9,Concepción,62.7,1142000.0,Masculino,Universitaria,No,,Viudo/a,8.0,Sí,Ocasional,Bicicleta/Pie
+52.8,Puerto Montt,74.4,831000.0,Masculino,Básica,Sí,Baja,Separado/a,5.7,No,Frecuente,Público
+51.4,La Serena,73.7,1013000.0,Femenino,Básica,No,Baja,,,No,Frecuente,Público
+44.2,Valdivia,47.3,1106000.0,Femenino,,No,Media,Separado/a,7.2,,Frecuente,Público
+41.6,Antofagasta,94.2,884000.0,Femenino,Media,No,Baja,Separado/a,6.6,No,Frecuente,Bicicleta/Pie
+39.1,Concepción,85.5,,Masculino,Básica,Sí,Media,Viudo/a,3.5,No,Nunca,Bicicleta/Pie
+28.7,Valparaíso,65.2,1044000.0,Masculino,Básica,No,Alta,Separado/a,5.1,Sí,Frecuente,Privado
+35.8,Antofagasta,56.8,800000.0,Masculino,Media,No,Baja,Casado/a,8.5,No,Nunca,Público
+14.6,Santiago,74.2,971000.0,Femenino,Básica,Sí,Baja,Casado/a,6.9,Sí,Ocasional,
+38.5,Puerto Montt,71.0,262000.0,Masculino,Básica,No,Media,Casado/a,8.1,No,Nunca,Bicicleta/Pie
+25.2,Valdivia,74.3,,Femenino,Técnica,Sí,Alta,Viudo/a,5.8,Sí,Frecuente,Público
+23.4,Concepción,72.3,640000.0,Femenino,Media,,Alta,Separado/a,,No,Nunca,Privado
+42.7,Antofagasta,76.1,1213000.0,Femenino,Básica,Sí,Media,Soltero/a,8.1,Sí,Ocasional,Bicicleta/Pie
+60.9,Valdivia,87.4,956000.0,Masculino,Básica,Sí,Alta,Separado/a,8.9,Sí,Frecuente,Público
+53.8,Concepción,76.8,860000.0,Masculino,Universitaria,Sí,Alta,Casado/a,5.7,No,Ocasional,Bicicleta/Pie
+,Antofagasta,57.4,922000.0,,Universitaria,No,Alta,Separado/a,,Sí,Ocasional,Bicicleta/Pie
+25.2,Valparaíso,86.4,550000.0,Femenino,,No,Alta,Viudo/a,5.5,Sí,Frecuente,
+54.1,Santiago,89.7,1206000.0,Masculino,Básica,Sí,Alta,Separado/a,4.5,No,Nunca,
+25.3,Santiago,107.8,1298000.0,Masculino,Básica,Sí,Alta,Viudo/a,7.9,Sí,Ocasional,
+36.6,La Serena,56.5,898000.0,Femenino,Universitaria,Sí,Alta,Soltero/a,5.6,Sí,Frecuente,Privado
+48.3,Antofagasta,72.9,1198000.0,Femenino,Técnica,Sí,Alta,Soltero/a,5.2,Sí,Ocasional,Bicicleta/Pie
+25.5,Concepción,45.0,658000.0,Masculino,Técnica,Sí,,Viudo/a,5.2,Sí,Nunca,Público
+41.6,Santiago,,601000.0,Femenino,Técnica,Sí,Media,Separado/a,6.5,,,Bicicleta/Pie
+20.0,Puerto Montt,63.4,810000.0,Masculino,Técnica,Sí,Alta,Casado/a,4.4,No,Ocasional,
+31.0,Santiago,93.1,909000.0,Femenino,Media,Sí,,Viudo/a,7.9,No,Ocasional,Privado
+44.8,Temuco,60.7,702000.0,Femenino,Universitaria,Sí,Alta,Separado/a,7.7,Sí,,Privado
+16.1,Temuco,49.7,934000.0,Masculino,,Sí,Alta,Separado/a,7.7,,Nunca,Privado
+46.6,Santiago,64.3,877000.0,Femenino,,Sí,Baja,Separado/a,8.8,No,Frecuente,Privado
+39.7,Antofagasta,46.3,550000.0,Femenino,Técnica,Sí,Media,Casado/a,,,Ocasional,Público
+48.3,La Serena,79.0,930000.0,Femenino,Básica,No,Media,Casado/a,5.6,No,Nunca,Bicicleta/Pie
+43.4,Santiago,45.2,,Masculino,Media,Sí,Baja,Casado/a,8.0,Sí,Ocasional,Privado
+60.5,Valparaíso,70.3,843000.0,Femenino,Universitaria,No,Baja,Viudo/a,8.7,Sí,Ocasional,Público
+41.9,Valdivia,45.1,1088000.0,Femenino,,No,Media,Viudo/a,8.2,No,Ocasional,Privado
+33.6,Concepción,,,Masculino,Básica,No,Alta,Casado/a,8.3,Sí,Nunca,
+41.8,La Serena,89.7,917000.0,,Técnica,Sí,Alta,Viudo/a,6.8,No,Ocasional,Privado
+48.1,Valparaíso,74.3,507000.0,Femenino,Técnica,,Media,Casado/a,,No,Ocasional,Bicicleta/Pie
+40.7,La Serena,59.6,521000.0,Femenino,Universitaria,,Alta,Viudo/a,6.6,No,,Bicicleta/Pie
+40.6,Valparaíso,69.6,642000.0,Femenino,Media,No,Baja,Separado/a,,No,Nunca,Público
+29.5,Concepción,,564000.0,Masculino,Básica,Sí,Baja,Casado/a,8.5,,Frecuente,Privado
+30.1,Concepción,75.7,663000.0,Femenino,Técnica,Sí,Baja,Viudo/a,7.3,No,Frecuente,Privado
+19.0,Temuco,53.6,746000.0,Masculino,Universitaria,No,Media,Separado/a,8.2,Sí,Frecuente,Bicicleta/Pie
+66.2,Antofagasta,77.1,1009000.0,Masculino,Técnica,No,Media,Separado/a,4.8,No,Frecuente,Privado
+21.3,Valparaíso,37.5,720000.0,Femenino,Universitaria,Sí,Media,Viudo/a,6.3,No,Ocasional,Bicicleta/Pie
+29.6,Valdivia,62.4,,Femenino,Técnica,No,Alta,Separado/a,5.5,No,Frecuente,Público
+29.2,Temuco,64.1,1085000.0,Masculino,Media,Sí,Media,Soltero/a,4.6,No,Nunca,Privado
+53.4,Valparaíso,77.6,591000.0,Femenino,Básica,Sí,Media,Casado/a,7.4,Sí,Ocasional,Bicicleta/Pie
+35.6,Temuco,70.3,785000.0,Femenino,Técnica,Sí,Baja,Casado/a,,Sí,Frecuente,Privado
+58.7,Concepción,53.1,912000.0,Masculino,Básica,No,Alta,Separado/a,6.4,No,Frecuente,Privado
+29.9,La Serena,58.2,850000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,5.5,No,Nunca,
+44.2,Puerto Montt,72.4,1074000.0,Masculino,Media,Sí,Baja,Soltero/a,6.4,Sí,Nunca,Bicicleta/Pie
+27.5,Temuco,69.1,920000.0,Femenino,Básica,Sí,Alta,Viudo/a,7.9,No,Frecuente,Público
+,Valparaíso,63.1,585000.0,Masculino,Técnica,Sí,Media,,5.6,,Frecuente,Público
+22.2,Valparaíso,64.2,1345000.0,Masculino,,No,Alta,Separado/a,6.3,No,Frecuente,Público
+44.6,Puerto Montt,78.4,849000.0,Femenino,Básica,No,Baja,Soltero/a,7.8,Sí,Frecuente,Bicicleta/Pie
+49.5,Antofagasta,63.8,763000.0,Masculino,Universitaria,No,Alta,Separado/a,8.0,No,Frecuente,Bicicleta/Pie
+46.2,Valdivia,68.9,1041000.0,Masculino,Media,No,Baja,Soltero/a,6.4,No,,Privado
+37.2,Concepción,96.0,862000.0,Femenino,Media,,Media,Separado/a,7.4,No,Nunca,Bicicleta/Pie
+38.1,Valparaíso,52.9,900000.0,Femenino,Básica,Sí,Media,Viudo/a,8.2,,Ocasional,Público
+40.7,Santiago,47.8,1423000.0,Femenino,,,Baja,Casado/a,5.4,,Ocasional,
+37.8,La Serena,79.4,731000.0,Masculino,,Sí,Media,Separado/a,5.9,No,Nunca,Privado
+54.5,Temuco,61.9,721000.0,Masculino,Básica,Sí,Media,Separado/a,6.4,No,Ocasional,Público
+73.2,Antofagasta,66.2,829000.0,Masculino,Universitaria,Sí,,Soltero/a,7.7,,Frecuente,Privado
+31.6,Valdivia,60.6,1068000.0,Femenino,Media,No,Media,Viudo/a,7.3,Sí,Ocasional,
+19.5,Puerto Montt,66.9,423000.0,Masculino,,Sí,Baja,Viudo/a,,Sí,Frecuente,Privado
+38.7,La Serena,89.2,309000.0,Masculino,Universitaria,Sí,,Soltero/a,5.5,No,Frecuente,Privado
+78.7,Concepción,79.6,,Femenino,Básica,Sí,Alta,,8.3,No,Ocasional,Bicicleta/Pie
+27.9,Antofagasta,,392000.0,,Media,No,,Casado/a,,Sí,Ocasional,Privado
+64.6,Valdivia,53.0,694000.0,Femenino,Técnica,Sí,Media,,6.6,No,Frecuente,Bicicleta/Pie
+65.2,Temuco,56.2,926000.0,Femenino,Universitaria,Sí,Media,Soltero/a,7.3,No,Nunca,Público
+31.7,Temuco,35.9,577000.0,Femenino,Media,Sí,Media,Viudo/a,10.0,No,Ocasional,Privado
+48.5,Puerto Montt,60.3,443000.0,Masculino,Media,No,Baja,Casado/a,,No,Ocasional,
+,Santiago,81.5,817000.0,Masculino,Media,Sí,Alta,Casado/a,6.0,Sí,Nunca,
+,Puerto Montt,76.2,1016000.0,Masculino,Técnica,Sí,Baja,Viudo/a,6.4,Sí,,
+36.9,Concepción,67.3,376000.0,Femenino,Técnica,No,Baja,Viudo/a,8.7,No,Frecuente,Privado
+31.3,Antofagasta,69.7,1005000.0,Femenino,Técnica,Sí,Alta,Soltero/a,7.2,Sí,Nunca,Privado
+24.8,Antofagasta,61.7,1004000.0,Femenino,Básica,,Baja,Viudo/a,7.6,No,Nunca,Bicicleta/Pie
+30.3,Valparaíso,72.5,1039000.0,Masculino,,Sí,Baja,Soltero/a,8.2,No,Frecuente,Bicicleta/Pie
+,Santiago,79.2,1105000.0,Masculino,Básica,No,Media,Separado/a,8.7,No,Frecuente,Público
+40.5,Santiago,50.6,1351000.0,Masculino,Técnica,Sí,Baja,Casado/a,6.0,No,Frecuente,
+,Antofagasta,73.6,711000.0,Masculino,Universitaria,Sí,,Soltero/a,7.8,No,Nunca,Privado
+43.5,Antofagasta,81.2,827000.0,Masculino,Básica,No,Baja,Casado/a,8.7,No,Frecuente,Privado
+16.7,La Serena,65.0,696000.0,Femenino,Básica,Sí,Media,Separado/a,7.3,No,Ocasional,Privado
+45.0,Valdivia,78.4,800000.0,Masculino,Básica,Sí,Media,Viudo/a,,No,Ocasional,Privado
+52.5,La Serena,103.8,1183000.0,Femenino,Técnica,No,Media,Soltero/a,5.5,Sí,Frecuente,Privado
+10.1,La Serena,68.7,464000.0,Femenino,,Sí,Alta,Viudo/a,7.7,No,Ocasional,Privado
+45.6,Santiago,74.7,585000.0,Masculino,Universitaria,No,Baja,Casado/a,5.3,No,Ocasional,Privado
+58.4,Valparaíso,61.1,1144000.0,Femenino,Técnica,Sí,Baja,Soltero/a,5.8,Sí,,Privado
+21.9,Temuco,72.2,1055000.0,Masculino,Universitaria,No,Baja,Separado/a,6.3,No,Frecuente,Público
+65.1,La Serena,75.5,,Masculino,Técnica,Sí,Alta,Separado/a,7.4,No,Ocasional,Bicicleta/Pie
+46.3,Valparaíso,72.3,1014000.0,Femenino,Básica,Sí,Media,Viudo/a,7.9,No,Frecuente,Bicicleta/Pie
+29.4,Puerto Montt,57.8,885000.0,Masculino,Básica,No,Baja,Separado/a,5.9,No,Frecuente,Privado
+39.2,Concepción,72.5,1175000.0,Masculino,,Sí,Alta,Separado/a,5.1,No,Ocasional,Bicicleta/Pie
+48.4,La Serena,87.5,819000.0,Femenino,Media,No,Alta,Viudo/a,8.2,No,Ocasional,Privado
+41.1,Puerto Montt,75.4,1056000.0,Femenino,Universitaria,No,Baja,Viudo/a,8.0,No,Nunca,Público
+48.1,Temuco,81.5,1461000.0,Femenino,Media,No,Media,Soltero/a,7.7,No,Nunca,Privado
+26.2,Concepción,67.2,950000.0,Femenino,Media,Sí,,Soltero/a,7.6,Sí,Nunca,Público
+42.5,Concepción,79.0,812000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,6.4,Sí,Ocasional,Público
+18.8,Temuco,73.4,,,Técnica,Sí,Media,Casado/a,6.7,No,Nunca,Público
+38.3,La Serena,58.6,709000.0,,Media,No,Alta,Casado/a,7.1,No,Frecuente,Privado
+26.4,Santiago,73.8,,Masculino,Técnica,No,Alta,Soltero/a,5.7,Sí,Nunca,Público
+29.0,Temuco,58.1,845000.0,Masculino,Básica,No,Baja,Soltero/a,7.6,No,Nunca,Privado
+58.5,Temuco,62.4,732000.0,Femenino,Media,Sí,Baja,Viudo/a,7.2,No,Nunca,Público
+56.4,Temuco,,591000.0,Masculino,Básica,No,Media,Casado/a,6.8,Sí,Frecuente,
+49.1,Concepción,73.6,1074000.0,Femenino,Básica,Sí,Baja,Viudo/a,8.4,No,,Bicicleta/Pie
+23.6,Valdivia,55.7,1017000.0,Masculino,Técnica,Sí,Baja,Soltero/a,6.8,Sí,Ocasional,Privado
+35.3,Valparaíso,82.6,,Femenino,Universitaria,Sí,,Separado/a,8.0,No,Nunca,Bicicleta/Pie
+58.2,Puerto Montt,,944000.0,,,Sí,Baja,Separado/a,5.2,No,Frecuente,Público
+42.1,Santiago,61.5,,Femenino,,Sí,Media,Separado/a,8.3,No,Frecuente,Bicicleta/Pie
+,La Serena,51.5,846000.0,Femenino,Universitaria,Sí,Media,Viudo/a,7.9,No,Frecuente,Público
+45.9,La Serena,68.3,913000.0,Femenino,Básica,Sí,Media,Casado/a,10.2,No,Ocasional,Bicicleta/Pie
+42.9,Puerto Montt,64.6,1227000.0,Femenino,Media,Sí,Baja,Soltero/a,9.4,No,Ocasional,Bicicleta/Pie
+35.4,Valparaíso,71.4,607000.0,,Básica,No,Media,Casado/a,8.4,Sí,Ocasional,Privado
+42.0,Temuco,65.6,480000.0,Masculino,Básica,Sí,Baja,Casado/a,6.2,Sí,Nunca,Privado
+37.7,Valdivia,45.9,576000.0,Femenino,Media,Sí,Media,Soltero/a,5.7,No,Frecuente,Bicicleta/Pie
+,Santiago,65.3,466000.0,Femenino,Universitaria,No,Baja,Casado/a,5.9,Sí,Ocasional,Bicicleta/Pie
+54.4,La Serena,66.3,1134000.0,Femenino,Universitaria,No,Media,Separado/a,7.8,No,Ocasional,Privado
+28.2,Puerto Montt,77.6,1187000.0,Masculino,Media,No,Alta,Soltero/a,8.9,No,Frecuente,Público
+20.0,Antofagasta,61.6,880000.0,Femenino,,No,Alta,,5.2,,Frecuente,Público
+12.5,Valdivia,90.1,1105000.0,Femenino,Técnica,Sí,Alta,,5.7,No,Nunca,Público
+47.6,Puerto Montt,47.1,833000.0,Masculino,Técnica,No,Media,Separado/a,7.1,No,Nunca,Público
+23.4,Valdivia,85.7,776000.0,Femenino,Básica,No,Baja,Viudo/a,5.3,No,Nunca,Bicicleta/Pie
+7.7,La Serena,,717000.0,Femenino,Media,No,Media,Viudo/a,6.4,No,Ocasional,Público
+45.8,Temuco,,722000.0,Masculino,Universitaria,No,Media,Soltero/a,8.9,No,Ocasional,Bicicleta/Pie
+77.4,Antofagasta,71.0,413000.0,Femenino,Básica,Sí,Media,Separado/a,,No,Frecuente,Bicicleta/Pie
+39.9,Valparaíso,83.7,866000.0,Femenino,Básica,No,Media,Separado/a,8.2,No,Nunca,Público
+52.6,Santiago,65.4,790000.0,Masculino,Básica,No,Baja,Separado/a,5.5,No,Frecuente,Público
+41.2,Valparaíso,56.8,986000.0,,Básica,No,Media,,4.4,No,Nunca,Público
+38.5,Valparaíso,87.0,823000.0,Masculino,Universitaria,No,Alta,Viudo/a,6.4,,Nunca,Privado
+53.8,Puerto Montt,,759000.0,Femenino,Básica,Sí,Alta,Viudo/a,3.5,Sí,Nunca,Bicicleta/Pie
+35.6,Valdivia,72.7,582000.0,Femenino,Media,No,Alta,Viudo/a,7.7,Sí,Nunca,Público
+44.0,Santiago,84.8,818000.0,Femenino,Técnica,No,Media,Soltero/a,8.1,No,Frecuente,Privado
+44.8,Santiago,57.6,985000.0,Femenino,Universitaria,No,Baja,Soltero/a,5.8,No,Frecuente,Bicicleta/Pie
+30.0,La Serena,77.1,514000.0,Femenino,Media,Sí,Baja,Casado/a,7.9,No,Ocasional,Bicicleta/Pie
+54.9,La Serena,62.9,822000.0,Masculino,Media,No,Baja,Separado/a,7.9,No,Nunca,Bicicleta/Pie
+37.4,Santiago,68.4,858000.0,Femenino,Media,No,Media,Viudo/a,5.3,No,Frecuente,Público
+28.7,Antofagasta,70.9,620000.0,Femenino,Técnica,Sí,Baja,Casado/a,6.4,No,Nunca,Público
+,Concepción,52.0,653000.0,Masculino,Técnica,No,Alta,Casado/a,6.3,No,Nunca,
+26.5,La Serena,60.7,858000.0,Masculino,Técnica,Sí,Baja,Separado/a,8.4,No,Ocasional,Bicicleta/Pie
+40.4,Concepción,86.2,517000.0,Femenino,Media,Sí,Media,Soltero/a,8.1,Sí,Ocasional,Privado
+39.9,Puerto Montt,80.6,887000.0,Masculino,Técnica,No,Media,Casado/a,7.9,No,Frecuente,Privado
+56.3,Antofagasta,69.2,576000.0,Femenino,Básica,No,,Soltero/a,6.2,No,Frecuente,Bicicleta/Pie
+,Santiago,72.9,1066000.0,Masculino,Técnica,Sí,,Soltero/a,9.0,No,Ocasional,Privado
+39.6,Antofagasta,66.5,1384000.0,Masculino,Universitaria,Sí,Baja,Separado/a,7.3,No,Frecuente,Bicicleta/Pie
+52.3,La Serena,86.3,585000.0,Femenino,Media,No,Baja,,7.7,No,Frecuente,Privado
+60.9,Valparaíso,67.6,934000.0,Masculino,Media,Sí,Alta,Viudo/a,9.6,No,Ocasional,Bicicleta/Pie
+48.4,Puerto Montt,72.8,618000.0,Femenino,,,Media,Casado/a,8.0,No,,Público
+40.2,Santiago,83.8,1060000.0,Masculino,Técnica,No,Alta,Viudo/a,6.8,No,Nunca,Bicicleta/Pie
+20.3,Temuco,60.7,484000.0,Masculino,Técnica,Sí,Media,Viudo/a,6.3,No,Ocasional,Público
+24.0,Puerto Montt,88.7,920000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,4.4,No,Nunca,Bicicleta/Pie
+35.4,Valdivia,,582000.0,,Básica,,Media,Viudo/a,4.7,No,Nunca,Público
+30.9,Concepción,89.6,748000.0,Femenino,,Sí,Baja,Separado/a,8.3,No,Ocasional,Privado
+37.2,Antofagasta,65.5,542000.0,Masculino,Universitaria,Sí,Media,Casado/a,4.0,No,Frecuente,Público
+40.8,Santiago,67.1,1006000.0,Femenino,Media,Sí,Alta,Soltero/a,8.5,No,Ocasional,
+47.9,Puerto Montt,47.3,591000.0,Femenino,Media,No,Alta,Soltero/a,8.2,No,Ocasional,Bicicleta/Pie
+38.9,Antofagasta,64.5,938000.0,Femenino,Técnica,Sí,Baja,Viudo/a,5.7,No,Nunca,Privado
+47.3,Santiago,57.5,714000.0,Masculino,Técnica,No,Alta,Soltero/a,7.3,Sí,Ocasional,Privado
+41.0,La Serena,62.7,771000.0,Femenino,Universitaria,No,Baja,Separado/a,7.9,No,Nunca,Privado
+10.4,Puerto Montt,68.4,837000.0,Masculino,Técnica,No,Baja,Separado/a,7.1,Sí,Ocasional,Bicicleta/Pie
+25.9,La Serena,81.5,610000.0,Masculino,Universitaria,,Baja,,,No,Frecuente,
+37.8,Puerto Montt,72.5,853000.0,Masculino,,No,Media,Soltero/a,4.9,No,Nunca,Privado
+21.9,La Serena,73.7,1183000.0,Masculino,Técnica,No,Baja,Separado/a,7.8,No,Ocasional,Bicicleta/Pie
+49.0,Valdivia,56.9,605000.0,Masculino,,No,Alta,Viudo/a,6.1,No,Nunca,Privado
+63.0,Antofagasta,59.4,1093000.0,Femenino,Media,No,Media,Soltero/a,4.4,Sí,Ocasional,Público
+58.3,Temuco,91.6,1175000.0,Femenino,,Sí,Alta,,5.3,No,Ocasional,Privado
+36.8,Puerto Montt,61.2,596000.0,Masculino,Media,No,Baja,,6.2,No,Ocasional,
+62.4,Valdivia,89.9,436000.0,Femenino,Básica,No,Baja,Separado/a,7.0,Sí,Nunca,Privado
+42.2,Puerto Montt,67.1,875000.0,Femenino,Media,No,Alta,,5.6,No,Nunca,Público
+34.9,La Serena,70.0,663000.0,Femenino,Básica,Sí,Media,Soltero/a,6.2,No,Frecuente,
+30.8,Santiago,82.8,1267000.0,Femenino,Media,No,Alta,Soltero/a,,Sí,Frecuente,Bicicleta/Pie
+,Puerto Montt,85.3,809000.0,,Técnica,Sí,Baja,Separado/a,5.7,No,Frecuente,Privado
+34.2,Valdivia,68.7,599000.0,Femenino,Universitaria,No,Media,Separado/a,6.2,No,Frecuente,Privado
+42.6,La Serena,65.3,513000.0,Femenino,Técnica,No,Baja,,7.9,No,Ocasional,Privado
+42.4,Valparaíso,69.3,1072000.0,Masculino,Técnica,Sí,,Casado/a,9.5,Sí,Nunca,Privado
+40.0,La Serena,74.1,657000.0,Masculino,Básica,No,Alta,Casado/a,7.3,Sí,Ocasional,Público
+46.6,Antofagasta,80.7,811000.0,,Media,Sí,,Casado/a,7.2,Sí,Nunca,Público
+57.9,Temuco,70.1,1039000.0,Femenino,Universitaria,Sí,,Casado/a,,No,Nunca,
+,Valparaíso,77.4,679000.0,Femenino,Universitaria,No,Media,Separado/a,,No,Ocasional,
+17.7,Antofagasta,89.7,789000.0,Masculino,Media,No,Baja,Soltero/a,7.9,Sí,Ocasional,Privado
+1.7,Antofagasta,74.6,796000.0,Femenino,Básica,Sí,Baja,Separado/a,8.5,No,,Privado
+54.0,Antofagasta,73.7,971000.0,Femenino,Básica,Sí,Media,Casado/a,5.3,No,Frecuente,Bicicleta/Pie
+19.5,Santiago,51.8,948000.0,Masculino,Básica,No,Alta,Viudo/a,8.6,Sí,Frecuente,Bicicleta/Pie
+36.6,Antofagasta,38.4,745000.0,Masculino,Universitaria,No,Baja,Viudo/a,9.4,Sí,Nunca,Privado
+,Santiago,74.7,816000.0,Masculino,Básica,No,Media,Separado/a,5.5,Sí,Ocasional,Privado
+13.0,Antofagasta,68.9,707000.0,Femenino,,Sí,Baja,Soltero/a,8.4,Sí,Ocasional,Privado
+48.1,Concepción,63.8,431000.0,,Universitaria,No,Alta,Casado/a,9.5,,Nunca,Bicicleta/Pie
+51.4,Valdivia,72.9,864000.0,,Universitaria,Sí,Alta,Soltero/a,,No,Ocasional,Público
+31.4,Valparaíso,69.3,1273000.0,Masculino,Técnica,No,Alta,Soltero/a,6.7,No,Nunca,
+1.1,Concepción,83.5,579000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,8.2,No,Nunca,Bicicleta/Pie
+31.8,Antofagasta,71.0,607000.0,Femenino,Media,Sí,Media,Casado/a,5.8,No,Nunca,Privado
+45.9,Valparaíso,61.0,,Masculino,Universitaria,No,Baja,Separado/a,6.5,No,Ocasional,
+17.8,Valparaíso,81.9,981000.0,Masculino,Universitaria,Sí,Media,Casado/a,5.9,No,Frecuente,Público
+42.8,Puerto Montt,67.4,912000.0,Femenino,,Sí,Alta,Casado/a,5.0,No,Nunca,Privado
+39.8,Temuco,76.3,760000.0,Masculino,Técnica,Sí,Alta,Separado/a,7.1,No,Ocasional,Privado
+48.7,Concepción,64.3,570000.0,Masculino,Básica,Sí,Alta,,7.5,No,Frecuente,Público
+41.8,Temuco,62.2,823000.0,Masculino,Técnica,Sí,Alta,,8.0,,Nunca,Privado
+25.4,Valparaíso,,409000.0,Femenino,Básica,No,Baja,Viudo/a,3.0,No,Frecuente,Privado
+57.9,Santiago,70.2,836000.0,Femenino,Media,No,Alta,Viudo/a,7.3,,Ocasional,Privado
+37.6,Valparaíso,75.8,1018000.0,Masculino,Básica,Sí,Baja,,7.1,Sí,Frecuente,Bicicleta/Pie
+39.6,Temuco,66.8,487000.0,Femenino,Básica,No,,Soltero/a,5.4,Sí,Frecuente,Privado
+26.0,Concepción,48.0,,Femenino,Media,Sí,Baja,Viudo/a,6.3,No,Ocasional,Bicicleta/Pie
+33.4,Antofagasta,64.8,1195000.0,Femenino,Media,Sí,Baja,Casado/a,8.1,Sí,Nunca,Privado
+26.7,Puerto Montt,79.5,647000.0,Masculino,,No,Alta,Casado/a,7.1,No,Ocasional,Privado
+37.4,Puerto Montt,66.4,1084000.0,Femenino,Básica,Sí,Media,Viudo/a,7.0,No,Ocasional,Bicicleta/Pie
+65.7,Puerto Montt,67.0,762000.0,Masculino,Media,,Media,Casado/a,8.3,No,Nunca,
+19.4,Antofagasta,,760000.0,Masculino,Media,Sí,Media,Separado/a,10.5,No,Nunca,Privado
+15.8,Puerto Montt,61.5,,Femenino,Universitaria,No,Media,Casado/a,6.6,No,Ocasional,Público
+62.1,Concepción,51.5,,Masculino,Técnica,No,Media,Viudo/a,7.4,No,Nunca,
+36.9,Antofagasta,68.1,833000.0,Femenino,Media,Sí,Alta,Soltero/a,5.7,No,Nunca,Bicicleta/Pie
+30.0,Puerto Montt,64.2,705000.0,Femenino,Media,Sí,Alta,Casado/a,10.2,Sí,Ocasional,Privado
+55.6,Antofagasta,58.4,470000.0,Masculino,Básica,Sí,,Casado/a,6.2,No,Ocasional,
+30.9,Temuco,67.9,884000.0,Masculino,Universitaria,Sí,,,4.3,No,Ocasional,Bicicleta/Pie
+67.4,Valdivia,75.9,734000.0,Femenino,Básica,Sí,Alta,Viudo/a,,No,Ocasional,Público
+50.2,Valdivia,69.9,761000.0,Femenino,Técnica,No,Alta,Soltero/a,4.6,Sí,Frecuente,Público
+,Concepción,73.7,497000.0,Femenino,Universitaria,No,Baja,,8.9,No,Frecuente,Bicicleta/Pie
+72.4,La Serena,,1198000.0,Femenino,Básica,,Baja,Viudo/a,7.9,No,Nunca,Bicicleta/Pie
+30.9,Santiago,65.9,1019000.0,Masculino,,No,Alta,Separado/a,5.5,Sí,Frecuente,
+51.1,Puerto Montt,73.3,1041000.0,Masculino,Media,Sí,Alta,,,No,Frecuente,Bicicleta/Pie
+44.5,Santiago,63.9,724000.0,Masculino,Universitaria,Sí,Baja,Viudo/a,6.5,No,Frecuente,Bicicleta/Pie
+59.5,Antofagasta,59.8,368000.0,Femenino,Media,No,Baja,Separado/a,7.6,No,Nunca,Privado
+63.4,Santiago,63.0,1288000.0,Masculino,Básica,No,Alta,Viudo/a,5.1,Sí,Frecuente,Privado
+40.5,Concepción,64.3,785000.0,Masculino,Universitaria,Sí,Baja,Casado/a,5.0,Sí,Ocasional,Privado
+28.7,Concepción,74.3,613000.0,Masculino,Media,No,Media,Casado/a,7.5,Sí,Ocasional,Público
+46.9,Valparaíso,98.2,904000.0,Masculino,Media,Sí,Media,Casado/a,9.8,Sí,Nunca,Público
+29.8,Valdivia,61.4,1092000.0,Femenino,Técnica,Sí,Media,Casado/a,6.0,No,Nunca,Bicicleta/Pie
+70.2,Puerto Montt,,794000.0,Masculino,Técnica,,Baja,Separado/a,5.9,,Nunca,Privado
+42.0,Valparaíso,69.2,1120000.0,Masculino,Universitaria,No,,Casado/a,,No,Frecuente,Bicicleta/Pie
+34.5,Santiago,74.7,1071000.0,Masculino,Técnica,No,Alta,Viudo/a,5.0,Sí,Nunca,Bicicleta/Pie
+42.8,La Serena,73.2,531000.0,Masculino,Básica,No,Alta,Soltero/a,7.8,Sí,Nunca,
+19.8,Valparaíso,85.4,632000.0,Femenino,Media,No,Baja,Separado/a,8.4,Sí,,Público
+25.4,Valparaíso,40.9,1039000.0,Femenino,Media,No,Baja,Separado/a,7.7,Sí,Ocasional,Bicicleta/Pie
+58.0,Concepción,41.4,122000.0,Masculino,Media,Sí,Media,,6.7,Sí,Nunca,Privado
+30.1,La Serena,64.0,763000.0,Femenino,Universitaria,No,Baja,Casado/a,5.5,No,Ocasional,Público
+24.3,Antofagasta,83.2,442000.0,Femenino,Universitaria,Sí,Media,Casado/a,10.1,No,Ocasional,Público
+,Santiago,51.2,681000.0,Femenino,Técnica,Sí,Media,Viudo/a,5.7,Sí,Nunca,Público
+57.8,Valparaíso,33.9,725000.0,Femenino,,Sí,Alta,Casado/a,,No,Nunca,Bicicleta/Pie
+50.8,La Serena,76.9,710000.0,Masculino,Media,No,Baja,Casado/a,4.3,,Frecuente,Público
+54.9,Valdivia,72.9,662000.0,Femenino,,No,Alta,Viudo/a,4.9,Sí,Nunca,Privado
+28.6,Puerto Montt,,526000.0,Femenino,Media,No,Alta,Casado/a,7.5,No,Nunca,Público
+18.7,La Serena,58.2,1373000.0,Masculino,Media,,Baja,Soltero/a,6.4,No,Nunca,Bicicleta/Pie
+62.5,Valdivia,58.4,1267000.0,Masculino,Básica,No,Baja,Casado/a,5.7,No,Nunca,Bicicleta/Pie
+35.2,Santiago,71.3,509000.0,Masculino,Media,No,,Soltero/a,5.8,,Nunca,Bicicleta/Pie
+,La Serena,62.5,1196000.0,Masculino,Básica,No,Media,Soltero/a,6.2,No,Nunca,Bicicleta/Pie
+59.9,Valdivia,75.9,700000.0,Femenino,Media,No,Media,Soltero/a,,No,Frecuente,Privado
+48.3,La Serena,35.7,832000.0,Masculino,Universitaria,Sí,Media,Casado/a,9.1,No,Frecuente,Bicicleta/Pie
+46.8,La Serena,59.7,784000.0,Femenino,Universitaria,No,Alta,Casado/a,6.4,No,Nunca,Público
+72.5,Puerto Montt,56.5,635000.0,Femenino,Básica,Sí,Alta,Separado/a,7.2,No,Frecuente,Privado
+,Valdivia,66.9,1046000.0,Masculino,Media,Sí,Baja,Viudo/a,7.1,No,Ocasional,Bicicleta/Pie
+53.9,Valdivia,63.5,831000.0,Masculino,Universitaria,Sí,,Viudo/a,7.1,No,Frecuente,Bicicleta/Pie
+40.9,Valparaíso,79.6,681000.0,Femenino,Universitaria,Sí,Media,Separado/a,6.4,No,Ocasional,
+44.0,Santiago,47.7,,Femenino,Media,No,Media,Soltero/a,6.3,No,Nunca,Público
+62.9,Puerto Montt,70.5,577000.0,Masculino,Media,No,Alta,Viudo/a,8.0,Sí,Ocasional,Privado
+47.6,La Serena,76.7,390000.0,Masculino,Universitaria,Sí,Baja,Separado/a,7.3,No,Nunca,Público
+48.1,La Serena,92.3,,Masculino,Media,Sí,Alta,Soltero/a,5.9,No,Frecuente,Público
+,Valparaíso,64.2,501000.0,Femenino,Técnica,Sí,,Separado/a,3.0,No,Ocasional,Bicicleta/Pie
+34.5,Santiago,73.9,734000.0,Femenino,Media,No,Baja,Casado/a,6.1,No,Ocasional,
+,Concepción,48.4,1143000.0,Masculino,Universitaria,Sí,Alta,Casado/a,5.0,No,Ocasional,Privado
+24.3,Puerto Montt,41.3,1100000.0,Femenino,,Sí,Alta,Soltero/a,5.6,No,,Bicicleta/Pie
+10.5,Valparaíso,80.1,792000.0,Masculino,Básica,No,Baja,Soltero/a,5.0,No,Nunca,Bicicleta/Pie
+,Santiago,69.9,778000.0,Femenino,Técnica,Sí,Alta,Casado/a,8.7,No,Frecuente,Público
+23.5,Puerto Montt,84.1,,Femenino,Universitaria,No,Alta,Viudo/a,8.7,Sí,Frecuente,Bicicleta/Pie
+36.7,La Serena,,930000.0,Masculino,Técnica,No,,Viudo/a,8.1,No,Nunca,Privado
+35.8,Santiago,76.2,718000.0,Masculino,,Sí,Baja,Casado/a,6.5,No,Frecuente,Bicicleta/Pie
+44.6,Santiago,92.4,443000.0,Masculino,Universitaria,,Media,Viudo/a,6.0,No,Ocasional,Bicicleta/Pie
+52.2,Antofagasta,75.0,898000.0,Femenino,Básica,Sí,Alta,Casado/a,,No,Ocasional,Bicicleta/Pie
+52.9,Santiago,73.3,,Femenino,Universitaria,No,Baja,Separado/a,8.4,Sí,Ocasional,Bicicleta/Pie
+31.3,Concepción,70.1,642000.0,Masculino,Básica,No,Alta,Separado/a,8.3,Sí,Frecuente,Bicicleta/Pie
+37.5,Santiago,51.1,873000.0,Femenino,Técnica,No,Alta,Separado/a,7.7,No,Ocasional,Público
+,Concepción,86.3,709000.0,Masculino,Básica,Sí,Baja,Viudo/a,,No,Ocasional,Bicicleta/Pie
+36.3,La Serena,62.7,754000.0,,Media,Sí,Media,Separado/a,6.5,No,Nunca,
+64.1,Concepción,76.1,178000.0,Masculino,Media,Sí,Baja,Soltero/a,,Sí,Nunca,Privado
+47.4,Puerto Montt,51.2,745000.0,,Media,Sí,Baja,Soltero/a,4.3,No,Frecuente,Bicicleta/Pie
+51.0,La Serena,55.8,1042000.0,Femenino,Universitaria,Sí,Alta,Separado/a,,No,Nunca,Privado
+49.9,La Serena,87.2,642000.0,Femenino,Media,Sí,Media,Soltero/a,5.0,No,Frecuente,Privado
+57.6,Concepción,65.8,813000.0,Femenino,Media,,Baja,Separado/a,5.8,No,Frecuente,Privado
+42.7,Valdivia,87.4,611000.0,Masculino,Universitaria,No,Alta,Separado/a,4.3,Sí,Nunca,Privado
+20.5,Valparaíso,69.1,890000.0,Femenino,Técnica,No,Baja,Casado/a,6.7,No,Nunca,Público
+46.0,Temuco,47.9,746000.0,Masculino,Media,Sí,Alta,Separado/a,6.6,No,Frecuente,Público
+30.2,Valdivia,80.7,565000.0,Masculino,,No,Baja,Soltero/a,8.5,No,Frecuente,
+32.1,Santiago,62.9,1133000.0,Masculino,Universitaria,,Media,Viudo/a,5.6,No,Frecuente,Público
+48.8,Antofagasta,78.4,1032000.0,Masculino,,No,Baja,Separado/a,5.4,No,Ocasional,Público
+,Temuco,70.3,649000.0,Femenino,,Sí,Alta,Casado/a,7.1,No,Ocasional,Bicicleta/Pie
+,Santiago,51.5,,,Técnica,Sí,,Soltero/a,3.9,No,Nunca,Público
+44.6,Valdivia,72.0,,Femenino,Universitaria,No,Media,Casado/a,9.0,,Ocasional,Privado
+65.5,Valdivia,96.4,961000.0,Femenino,Básica,Sí,Media,Separado/a,5.0,No,Ocasional,Privado
+43.6,Santiago,75.9,376000.0,Femenino,Básica,Sí,Media,Separado/a,9.7,Sí,Frecuente,
+79.0,La Serena,69.3,1052000.0,Femenino,Media,Sí,Media,Separado/a,5.8,Sí,Ocasional,Privado
+48.5,Santiago,82.9,658000.0,Masculino,Media,Sí,Alta,Separado/a,4.9,Sí,Nunca,Bicicleta/Pie
+13.6,Antofagasta,72.5,711000.0,Femenino,Media,No,Baja,,7.9,Sí,Ocasional,Público
+51.3,Valdivia,72.5,1459000.0,Masculino,Básica,Sí,,Viudo/a,7.8,Sí,Ocasional,Privado
+45.7,Santiago,56.9,875000.0,Femenino,Universitaria,No,Baja,Separado/a,7.8,No,Ocasional,Bicicleta/Pie
+59.3,Concepción,72.8,,,Media,No,Alta,Casado/a,7.2,Sí,Nunca,Privado
+50.1,Temuco,82.4,249000.0,,Universitaria,,Baja,Soltero/a,,No,Nunca,Público
+37.9,Concepción,60.0,1147000.0,Femenino,Media,Sí,Baja,Soltero/a,5.0,No,Frecuente,Bicicleta/Pie
+21.6,Antofagasta,87.1,464000.0,Femenino,Universitaria,Sí,Media,Soltero/a,9.0,Sí,Ocasional,Público
+36.9,Santiago,68.9,549000.0,Femenino,Universitaria,No,Media,Casado/a,4.6,No,Frecuente,Bicicleta/Pie
+27.2,Puerto Montt,59.3,717000.0,Femenino,Básica,No,Alta,Viudo/a,9.5,No,,Privado
+31.3,Antofagasta,82.0,1154000.0,Femenino,Universitaria,No,Baja,Casado/a,7.5,No,Nunca,Privado
+48.8,La Serena,66.6,993000.0,Masculino,Técnica,No,Alta,Casado/a,9.3,No,Frecuente,Público
+65.0,Concepción,79.1,761000.0,Femenino,Básica,No,Alta,Casado/a,8.3,No,Ocasional,Público
+45.9,Concepción,66.5,877000.0,Femenino,Media,No,Alta,Separado/a,3.7,No,Frecuente,Bicicleta/Pie
+22.1,Valparaíso,69.3,650000.0,Masculino,Básica,No,Media,Separado/a,6.5,No,Nunca,Público
+46.7,Santiago,75.9,835000.0,Femenino,Técnica,Sí,Media,Casado/a,5.1,No,Nunca,Público
+57.9,La Serena,73.5,818000.0,Masculino,Técnica,No,Baja,Casado/a,9.2,No,Nunca,Privado
+30.9,Puerto Montt,46.1,1042000.0,Femenino,Universitaria,No,Baja,Separado/a,8.2,No,Ocasional,Privado
+38.0,Concepción,56.5,1042000.0,Femenino,,No,Baja,,7.2,,Frecuente,Privado
+40.2,Concepción,81.2,923000.0,,,,Media,Viudo/a,6.4,No,Ocasional,Privado
+28.2,La Serena,68.4,709000.0,Femenino,Técnica,Sí,Media,Casado/a,7.6,Sí,Nunca,
+49.7,Antofagasta,63.7,,Femenino,Técnica,No,Alta,Soltero/a,5.6,No,Ocasional,Privado
+38.2,Antofagasta,53.7,777000.0,Masculino,Media,No,Media,Viudo/a,,No,Nunca,Privado
+46.3,Santiago,57.0,530000.0,Masculino,Media,Sí,,Soltero/a,6.8,No,Ocasional,Bicicleta/Pie
+26.7,Valdivia,45.7,699000.0,Femenino,,Sí,Alta,Viudo/a,5.8,No,Ocasional,Privado
+33.4,Valparaíso,68.8,821000.0,Masculino,Universitaria,No,Media,Casado/a,8.0,No,Frecuente,Privado
+,Concepción,62.8,1028000.0,Femenino,Media,No,Alta,Soltero/a,,No,Frecuente,
+34.4,Valdivia,58.4,754000.0,Masculino,Técnica,,Alta,Separado/a,4.9,No,Nunca,Privado
+65.9,Valdivia,69.2,498000.0,Femenino,Universitaria,No,,Viudo/a,8.4,No,Frecuente,Privado
+34.0,Valparaíso,74.4,814000.0,Masculino,Media,No,Alta,Soltero/a,5.8,No,,Público
+43.4,Valdivia,95.1,828000.0,Masculino,Básica,No,Media,Viudo/a,7.9,Sí,Ocasional,Público
+54.0,Valdivia,,846000.0,Masculino,Técnica,Sí,Media,Casado/a,6.1,No,Nunca,Privado
+18.7,Antofagasta,83.9,,Masculino,Universitaria,Sí,Alta,Soltero/a,6.6,No,Ocasional,Privado
+13.6,Antofagasta,81.7,1055000.0,Masculino,Media,No,Baja,Soltero/a,6.7,Sí,Ocasional,Privado
+17.1,Temuco,60.7,651000.0,Masculino,Universitaria,No,,Soltero/a,9.0,No,Frecuente,Bicicleta/Pie
+,Puerto Montt,,646000.0,Masculino,Media,No,Media,Viudo/a,6.9,Sí,Frecuente,Privado
+31.7,Santiago,64.5,540000.0,Masculino,Básica,Sí,Baja,Separado/a,6.5,No,Nunca,
+78.4,Valdivia,72.2,975000.0,Masculino,Técnica,No,Alta,Separado/a,6.9,Sí,Frecuente,Bicicleta/Pie
+31.5,Temuco,88.1,1162000.0,Femenino,Básica,Sí,Media,Separado/a,9.8,No,Ocasional,Privado
+42.8,Puerto Montt,77.3,721000.0,Masculino,Técnica,Sí,Alta,Casado/a,,Sí,Frecuente,
+63.1,Temuco,76.1,740000.0,Femenino,,No,Alta,Soltero/a,6.1,No,Nunca,Privado
+70.1,Temuco,64.8,1167000.0,Masculino,Universitaria,Sí,,Separado/a,9.2,No,Nunca,Privado
+70.9,Santiago,52.2,926000.0,Femenino,Media,No,Alta,Separado/a,7.3,No,Ocasional,Público
+58.1,Santiago,67.5,909000.0,Femenino,,Sí,Media,Soltero/a,5.7,,Ocasional,Público
+55.4,La Serena,84.5,,,Básica,No,Baja,Casado/a,7.6,No,Frecuente,Privado
+48.9,Valparaíso,51.7,970000.0,Masculino,Básica,No,Media,Viudo/a,6.8,No,,Privado
+51.7,Valparaíso,57.3,568000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,3.0,Sí,Ocasional,Bicicleta/Pie
+,La Serena,71.5,516000.0,Femenino,Universitaria,,Alta,Viudo/a,7.5,Sí,Frecuente,Público
+27.7,La Serena,58.2,713000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,5.4,Sí,Frecuente,Bicicleta/Pie
+39.9,Antofagasta,60.5,654000.0,Masculino,Técnica,No,Alta,Casado/a,5.1,No,Frecuente,Bicicleta/Pie
+37.4,Puerto Montt,64.9,745000.0,Masculino,Básica,Sí,,Soltero/a,4.1,No,Ocasional,
+33.2,Temuco,53.6,440000.0,Femenino,Técnica,Sí,Media,Viudo/a,7.2,No,Ocasional,Bicicleta/Pie
+50.4,Valdivia,58.3,1040000.0,Masculino,Básica,No,Baja,Separado/a,6.8,No,Frecuente,Público
+54.3,La Serena,78.4,1082000.0,Masculino,Básica,No,Alta,Separado/a,8.4,No,Frecuente,Público
+41.3,Concepción,54.3,313000.0,Masculino,Media,Sí,Alta,Separado/a,5.8,Sí,Ocasional,Público
+62.2,Valparaíso,50.8,1045000.0,Masculino,Básica,Sí,,Viudo/a,6.3,Sí,Nunca,Privado
+22.9,La Serena,62.4,597000.0,Masculino,Universitaria,Sí,Alta,,10.0,No,Frecuente,Bicicleta/Pie
+37.1,Concepción,78.8,1014000.0,Femenino,Universitaria,No,Alta,,4.0,Sí,Nunca,Privado
+,Concepción,67.6,783000.0,Femenino,Universitaria,No,,Soltero/a,8.8,No,Nunca,Público
+12.0,Concepción,64.4,807000.0,Masculino,Media,Sí,Media,Casado/a,5.8,Sí,Ocasional,Público
+38.8,Antofagasta,70.5,754000.0,Masculino,Media,No,Media,Separado/a,,No,Ocasional,Privado
+38.2,Antofagasta,49.1,1103000.0,Femenino,Técnica,Sí,Media,Casado/a,8.1,No,Nunca,Bicicleta/Pie
+62.7,Valdivia,75.9,490000.0,Masculino,Básica,Sí,Alta,Casado/a,6.1,No,Ocasional,Público
+49.5,Valdivia,74.6,952000.0,Femenino,Básica,No,Media,Viudo/a,4.9,No,Nunca,Bicicleta/Pie
+24.6,Concepción,,1075000.0,Masculino,Universitaria,,Alta,Casado/a,7.6,No,Nunca,Bicicleta/Pie
+67.8,Puerto Montt,82.1,979000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,4.1,Sí,Ocasional,Público
+58.3,Antofagasta,56.5,1381000.0,Femenino,Universitaria,No,Baja,Soltero/a,8.0,Sí,Ocasional,Privado
+48.7,Temuco,83.5,668000.0,Masculino,Universitaria,Sí,,Casado/a,4.9,Sí,Frecuente,Bicicleta/Pie
+,Concepción,71.9,,Femenino,Universitaria,Sí,Media,Casado/a,5.5,No,Ocasional,Privado
+25.6,Temuco,66.0,773000.0,Masculino,,No,,Casado/a,3.0,No,Frecuente,Bicicleta/Pie
+34.4,Temuco,69.8,1108000.0,Femenino,Básica,Sí,Alta,Separado/a,7.2,Sí,Ocasional,Bicicleta/Pie
+56.3,Concepción,68.7,798000.0,Masculino,Media,Sí,Media,Viudo/a,7.4,No,Ocasional,Público
+68.3,Valparaíso,84.6,703000.0,Masculino,Universitaria,No,Alta,Viudo/a,7.0,No,Ocasional,
+63.1,Puerto Montt,,1127000.0,Masculino,Básica,No,Baja,Separado/a,4.4,No,Ocasional,Bicicleta/Pie
+32.7,Concepción,,677000.0,Femenino,Universitaria,No,Alta,Viudo/a,9.2,No,Nunca,Privado
+23.2,Valdivia,82.4,447000.0,Masculino,Técnica,Sí,Alta,Soltero/a,6.8,No,Ocasional,
+42.1,Concepción,62.9,671000.0,Masculino,Técnica,No,Baja,Separado/a,6.2,No,Nunca,
+13.5,Antofagasta,80.8,955000.0,Masculino,Básica,Sí,,Viudo/a,8.2,No,Ocasional,Privado
+44.8,Concepción,90.4,1148000.0,Femenino,Media,No,Baja,Soltero/a,6.3,No,Ocasional,Público
+,Valparaíso,65.2,828000.0,Masculino,Técnica,Sí,Baja,Viudo/a,7.7,Sí,Nunca,Bicicleta/Pie
+33.0,Antofagasta,78.2,1130000.0,Femenino,Técnica,Sí,Alta,Separado/a,5.8,Sí,Ocasional,Bicicleta/Pie
+16.1,Valdivia,56.2,460000.0,Femenino,Media,No,,Viudo/a,,No,,Bicicleta/Pie
+47.7,Santiago,79.1,689000.0,Femenino,Técnica,Sí,Baja,Soltero/a,8.2,Sí,Frecuente,Bicicleta/Pie
+32.0,Santiago,72.4,728000.0,Masculino,Universitaria,Sí,Media,Soltero/a,6.3,No,Ocasional,Público
+22.5,Temuco,75.7,771000.0,Masculino,Media,No,Baja,Soltero/a,7.2,No,Frecuente,Público
+-3.1,Puerto Montt,62.3,821000.0,Femenino,Técnica,Sí,Media,Viudo/a,7.0,No,Frecuente,Bicicleta/Pie
+39.6,Temuco,50.1,,Masculino,Media,Sí,Baja,Separado/a,6.8,Sí,,Privado
+66.6,Valparaíso,76.0,689000.0,Masculino,,Sí,Baja,Viudo/a,5.2,No,Frecuente,Público
+64.9,La Serena,45.2,835000.0,Femenino,Técnica,No,,Casado/a,5.4,No,Nunca,Privado
+33.1,Valdivia,66.2,789000.0,Femenino,Básica,,Baja,Separado/a,6.4,Sí,Nunca,Privado
+31.0,Puerto Montt,81.3,569000.0,Masculino,Técnica,No,Alta,Casado/a,7.1,No,Nunca,Privado
+47.0,Valdivia,,772000.0,Femenino,Técnica,No,Baja,Viudo/a,5.7,Sí,Frecuente,Bicicleta/Pie
+25.0,Santiago,,,Masculino,Universitaria,No,Alta,Separado/a,7.0,No,Frecuente,Público
+44.5,Temuco,82.3,759000.0,Femenino,Básica,No,,Casado/a,3.6,Sí,Nunca,Bicicleta/Pie
+51.5,Valdivia,62.2,808000.0,Masculino,Básica,No,Media,Viudo/a,7.0,No,Frecuente,Privado
+58.4,Santiago,70.3,819000.0,Masculino,Básica,No,Alta,Separado/a,7.1,No,Nunca,Bicicleta/Pie
+38.5,Valparaíso,69.4,692000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,8.2,No,Nunca,Privado
+36.9,Valparaíso,51.0,1118000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,9.1,No,Nunca,Bicicleta/Pie
+,La Serena,58.7,508000.0,,,Sí,,Soltero/a,8.0,No,Frecuente,Bicicleta/Pie
+27.6,Valdivia,63.3,620000.0,Femenino,Universitaria,Sí,Media,Casado/a,9.7,Sí,Nunca,Público
+36.6,La Serena,,1495000.0,Masculino,Universitaria,No,Alta,Casado/a,7.0,No,Ocasional,Público
+45.5,Antofagasta,70.6,541000.0,Masculino,Básica,Sí,Baja,Viudo/a,7.1,Sí,Nunca,Privado
+53.7,Puerto Montt,67.0,462000.0,Masculino,Media,Sí,Alta,Soltero/a,8.2,No,Nunca,Privado
+28.0,Valdivia,49.9,984000.0,Femenino,Universitaria,Sí,Media,Casado/a,6.8,No,Ocasional,Privado
+62.4,Valparaíso,74.9,281000.0,Femenino,Media,Sí,Baja,Soltero/a,6.5,No,Frecuente,Bicicleta/Pie
+35.9,Temuco,78.6,741000.0,Femenino,Técnica,Sí,Media,Viudo/a,9.1,Sí,Nunca,Privado
+39.7,Santiago,72.7,1336000.0,Femenino,Técnica,,Alta,Separado/a,8.1,Sí,,Público
+28.8,Concepción,66.1,414000.0,Femenino,Universitaria,No,Alta,Casado/a,8.0,No,Frecuente,Privado
+3.6,La Serena,77.1,305000.0,Masculino,Técnica,Sí,Media,Casado/a,5.7,No,Ocasional,
+53.3,Concepción,78.2,425000.0,Masculino,Media,Sí,Media,Separado/a,8.4,No,Nunca,Bicicleta/Pie
+51.1,Valdivia,73.7,1025000.0,Masculino,Técnica,Sí,Baja,Casado/a,7.1,No,Ocasional,Público
+35.8,Temuco,60.1,1081000.0,Femenino,Técnica,Sí,,Viudo/a,5.5,Sí,Frecuente,Privado
+41.0,La Serena,73.3,672000.0,Masculino,Media,No,Media,Casado/a,8.0,No,Nunca,Público
+47.7,Concepción,84.3,971000.0,Femenino,Técnica,Sí,Alta,Casado/a,5.2,Sí,,Privado
+16.6,Puerto Montt,62.8,1148000.0,Masculino,Universitaria,No,Alta,Separado/a,3.4,Sí,Frecuente,
+32.1,Temuco,95.2,1247000.0,Femenino,Media,Sí,Media,Viudo/a,4.3,Sí,,Privado
+51.9,Santiago,63.7,738000.0,Masculino,Media,No,Media,Soltero/a,,No,Nunca,Privado
+21.2,Puerto Montt,,225000.0,Masculino,Básica,No,Alta,Soltero/a,9.3,Sí,Nunca,Bicicleta/Pie
+44.4,Temuco,61.9,595000.0,Femenino,Básica,No,Baja,Separado/a,7.5,No,Nunca,Bicicleta/Pie
+19.7,Antofagasta,,693000.0,Masculino,Media,Sí,Baja,Viudo/a,6.8,Sí,Nunca,Público
+47.0,La Serena,49.1,735000.0,Masculino,Media,Sí,Baja,Separado/a,9.0,Sí,Ocasional,Público
+39.5,Valparaíso,63.4,753000.0,Femenino,Básica,No,Baja,Separado/a,7.8,No,,Público
+15.8,Santiago,56.9,1080000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,8.5,No,Nunca,Público
+57.5,Valdivia,71.6,1119000.0,Masculino,Técnica,Sí,Media,Viudo/a,8.5,No,Nunca,Bicicleta/Pie
+29.0,Puerto Montt,81.9,757000.0,Femenino,,No,Baja,Viudo/a,6.5,No,Nunca,Público
+,Puerto Montt,77.8,1075000.0,Femenino,Técnica,Sí,Alta,Separado/a,6.7,Sí,Ocasional,Privado
+,Concepción,41.5,,Femenino,Media,No,Media,Soltero/a,5.7,No,Frecuente,Privado
+57.2,La Serena,94.5,816000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,8.2,No,Frecuente,Privado
+24.8,Valdivia,73.5,1027000.0,Femenino,Básica,Sí,Media,Separado/a,5.2,No,Nunca,Bicicleta/Pie
+40.9,Valparaíso,60.7,818000.0,Masculino,,No,Baja,Casado/a,5.7,No,Frecuente,Público
+46.4,Temuco,71.9,1314000.0,Femenino,Universitaria,No,,Soltero/a,6.9,No,Ocasional,Privado
+50.4,Valparaíso,72.1,440000.0,Femenino,Técnica,No,Baja,Viudo/a,7.2,Sí,Frecuente,Privado
+42.6,La Serena,62.0,671000.0,Masculino,Básica,No,Baja,Viudo/a,,Sí,Nunca,Bicicleta/Pie
+34.5,La Serena,72.4,768000.0,Masculino,Universitaria,Sí,Media,Viudo/a,6.9,No,Frecuente,Bicicleta/Pie
+,Antofagasta,62.7,910000.0,Masculino,Básica,Sí,Media,Soltero/a,6.5,Sí,Ocasional,Bicicleta/Pie
+41.3,Antofagasta,65.1,1117000.0,Masculino,Media,Sí,Media,Separado/a,8.1,No,Ocasional,Privado
+23.9,Valparaíso,61.8,794000.0,Masculino,Técnica,No,Alta,,8.4,No,Frecuente,Bicicleta/Pie
+,Temuco,52.8,444000.0,,Básica,Sí,Alta,Viudo/a,4.5,No,Frecuente,Privado
+46.5,Valparaíso,71.8,1011000.0,Masculino,Media,Sí,Media,Soltero/a,8.6,No,Nunca,Público
+53.6,La Serena,77.0,989000.0,Femenino,Media,Sí,Alta,Viudo/a,6.5,Sí,Nunca,Privado
+4.6,La Serena,76.2,315000.0,Masculino,Media,No,Baja,Separado/a,9.4,,Nunca,Público
+24.9,Concepción,79.8,799000.0,Femenino,Universitaria,No,Media,Casado/a,6.0,No,Frecuente,Privado
+49.3,Antofagasta,73.9,402000.0,Masculino,Universitaria,Sí,Alta,Viudo/a,5.5,No,Ocasional,Público
+70.9,Valdivia,63.6,634000.0,Femenino,Técnica,Sí,Media,Soltero/a,,No,Ocasional,Privado
+40.3,Valdivia,80.1,574000.0,Femenino,Técnica,,Baja,Separado/a,10.2,No,Frecuente,Privado
+29.1,Valdivia,53.7,1002000.0,Femenino,Media,No,Baja,Casado/a,4.6,No,Ocasional,Privado
+37.3,Concepción,59.2,829000.0,Femenino,Técnica,No,Alta,Soltero/a,,No,Ocasional,Privado
+60.6,Santiago,58.4,479000.0,Femenino,Universitaria,No,Baja,Viudo/a,7.8,Sí,Frecuente,Bicicleta/Pie
+30.3,Valdivia,83.0,1020000.0,Femenino,Técnica,Sí,Media,Soltero/a,7.0,No,Ocasional,Privado
+28.0,La Serena,81.3,442000.0,Femenino,Básica,No,Alta,Casado/a,10.1,No,Frecuente,
+32.8,Concepción,,883000.0,Femenino,Universitaria,Sí,Media,Separado/a,4.1,Sí,Nunca,Bicicleta/Pie
+25.7,Valparaíso,82.9,596000.0,Femenino,Media,No,Media,,8.7,Sí,Ocasional,Bicicleta/Pie
+41.8,Antofagasta,59.4,709000.0,Femenino,Media,Sí,Media,Viudo/a,8.5,No,Frecuente,Bicicleta/Pie
+64.4,Antofagasta,74.2,926000.0,Masculino,,Sí,Baja,Viudo/a,8.8,Sí,Ocasional,Bicicleta/Pie
+44.8,Temuco,68.5,930000.0,Femenino,,,Media,Viudo/a,8.6,Sí,Ocasional,Bicicleta/Pie
+,Valparaíso,80.2,1134000.0,Femenino,Media,Sí,,,7.4,No,Nunca,Bicicleta/Pie
+35.6,Temuco,68.6,779000.0,Masculino,Media,Sí,Media,Casado/a,6.5,Sí,Frecuente,
+16.6,Concepción,65.4,877000.0,Femenino,Universitaria,Sí,Baja,Viudo/a,6.1,Sí,Nunca,Bicicleta/Pie
+,Puerto Montt,76.5,691000.0,Femenino,Universitaria,No,Baja,Soltero/a,7.9,No,Ocasional,Bicicleta/Pie
+,Valdivia,,845000.0,Masculino,Media,No,Baja,,7.0,No,Ocasional,Bicicleta/Pie
+37.3,Santiago,62.0,910000.0,Masculino,,No,Media,Casado/a,6.7,No,Ocasional,Bicicleta/Pie
+87.9,Valparaíso,69.3,775000.0,Femenino,Técnica,Sí,Media,Viudo/a,6.2,No,Frecuente,Público
+44.5,Valparaíso,57.3,349000.0,Masculino,Técnica,Sí,Baja,Casado/a,,No,Nunca,Privado
+28.7,Valparaíso,,883000.0,,Básica,Sí,Media,Soltero/a,8.2,No,Frecuente,Privado
+33.6,Temuco,72.4,891000.0,Femenino,Universitaria,Sí,Baja,Casado/a,7.0,Sí,Ocasional,Bicicleta/Pie
+57.2,Concepción,77.3,630000.0,Femenino,Media,No,Media,Casado/a,8.8,Sí,Nunca,Bicicleta/Pie
+,Valparaíso,73.1,,Masculino,Básica,Sí,Baja,Soltero/a,5.0,No,Ocasional,Público
+18.4,Puerto Montt,46.6,1169000.0,Femenino,Técnica,,Baja,Soltero/a,,No,Nunca,Bicicleta/Pie
+53.8,Valparaíso,65.8,923000.0,Femenino,Básica,Sí,Alta,Casado/a,5.5,No,,Público
+,Antofagasta,43.4,743000.0,Masculino,Media,No,Media,Separado/a,8.8,No,Frecuente,Privado
+68.1,Valdivia,86.4,,Femenino,,Sí,Media,Casado/a,8.9,No,Frecuente,Privado
+56.2,Santiago,57.0,595000.0,Femenino,,No,Alta,Soltero/a,4.9,Sí,Frecuente,Bicicleta/Pie
+33.3,Valdivia,85.1,1126000.0,Femenino,Técnica,No,Baja,Soltero/a,5.9,,Frecuente,
+59.2,Antofagasta,81.4,834000.0,Femenino,Técnica,Sí,Baja,Soltero/a,5.9,No,Nunca,Público
+41.0,Antofagasta,59.2,662000.0,Femenino,Básica,,Alta,Separado/a,8.9,No,Nunca,Privado
+52.8,Santiago,56.4,927000.0,Femenino,Técnica,Sí,Alta,Soltero/a,6.1,Sí,,Privado
+47.3,Puerto Montt,74.2,596000.0,Masculino,Básica,Sí,Baja,Viudo/a,8.0,No,Nunca,Público
+27.3,Concepción,59.9,1175000.0,Femenino,Media,,Media,Viudo/a,6.0,,Ocasional,Público
+,Antofagasta,71.2,1138000.0,Femenino,Media,No,Alta,Separado/a,8.6,Sí,Frecuente,Privado
+55.4,Concepción,64.2,683000.0,Masculino,Media,No,Alta,Soltero/a,8.8,No,Nunca,Público
+35.0,Antofagasta,48.6,643000.0,Femenino,Media,No,Alta,Soltero/a,,No,Nunca,Privado
+33.9,La Serena,43.2,145000.0,Femenino,Media,,Alta,Viudo/a,6.7,No,Frecuente,Público
+,Santiago,72.7,,Masculino,Básica,No,Alta,Viudo/a,7.0,Sí,Frecuente,Bicicleta/Pie
+46.4,Antofagasta,63.3,465000.0,Masculino,Media,No,Alta,Casado/a,6.8,Sí,Frecuente,
+70.9,La Serena,63.4,834000.0,,Básica,No,,Separado/a,7.0,No,Ocasional,Público
+24.0,Valdivia,78.4,718000.0,Masculino,Media,No,Baja,Casado/a,6.4,No,Ocasional,Privado
+40.4,Temuco,84.1,464000.0,Masculino,Básica,No,Alta,Separado/a,8.6,No,Nunca,Público
+61.2,La Serena,,730000.0,Masculino,Básica,,Baja,,5.9,No,Frecuente,Bicicleta/Pie
+38.8,Valparaíso,65.9,926000.0,Masculino,Básica,Sí,Media,Soltero/a,6.8,Sí,Nunca,Bicicleta/Pie
+46.8,Antofagasta,76.0,932000.0,,Técnica,,Media,Separado/a,7.3,No,Frecuente,
+24.1,La Serena,53.7,325000.0,Femenino,Básica,No,Alta,Casado/a,7.7,No,Frecuente,Privado
+46.4,Concepción,72.7,768000.0,,Básica,Sí,Media,Viudo/a,5.2,No,Frecuente,Bicicleta/Pie
+37.2,Temuco,76.6,454000.0,Masculino,Media,No,Media,Separado/a,6.6,,Frecuente,Privado
+54.8,Puerto Montt,78.2,1025000.0,Femenino,Básica,No,Baja,Separado/a,7.0,No,Frecuente,Bicicleta/Pie
+,Antofagasta,46.8,996000.0,,Básica,Sí,,Separado/a,8.2,No,Ocasional,Privado
+78.8,Valparaíso,60.9,575000.0,Femenino,Universitaria,No,Baja,Soltero/a,6.7,Sí,Nunca,Bicicleta/Pie
+48.7,Puerto Montt,59.5,608000.0,Femenino,Técnica,Sí,,Separado/a,6.8,Sí,Frecuente,
+44.9,La Serena,71.2,685000.0,Femenino,Universitaria,No,,Soltero/a,7.2,Sí,Ocasional,
+42.9,Puerto Montt,75.8,237000.0,Femenino,Media,No,Alta,Viudo/a,8.6,No,Ocasional,Privado
+34.7,Puerto Montt,88.0,884000.0,Masculino,Técnica,Sí,Baja,Viudo/a,3.9,No,Frecuente,Bicicleta/Pie
+45.1,Temuco,64.1,732000.0,Masculino,Técnica,Sí,Media,Casado/a,7.2,No,Frecuente,
+35.6,Valdivia,64.0,1043000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,8.8,No,Ocasional,Público
+42.5,Puerto Montt,83.8,525000.0,Masculino,,Sí,Media,Viudo/a,5.8,No,Frecuente,Bicicleta/Pie
+59.8,Puerto Montt,73.6,645000.0,Masculino,Universitaria,Sí,Baja,Viudo/a,5.9,Sí,Ocasional,Bicicleta/Pie
+24.9,Antofagasta,85.2,423000.0,,Básica,Sí,Alta,Casado/a,,No,Frecuente,Privado
+57.1,Valdivia,73.5,549000.0,Masculino,,No,Baja,Casado/a,6.5,No,Ocasional,Público
+59.8,Temuco,56.1,505000.0,Masculino,Técnica,No,Alta,Casado/a,6.5,,Frecuente,Bicicleta/Pie
+38.2,Valparaíso,54.0,1049000.0,Masculino,Técnica,No,Baja,Soltero/a,7.4,No,Ocasional,Bicicleta/Pie
+8.2,La Serena,51.4,625000.0,Masculino,Media,No,Baja,Separado/a,3.0,No,Nunca,Privado
+30.9,Temuco,77.9,831000.0,Femenino,Media,Sí,Baja,Soltero/a,4.3,No,Frecuente,Privado
+59.5,Temuco,84.3,705000.0,Femenino,Media,No,Media,Casado/a,7.9,No,Frecuente,Privado
+39.7,Santiago,92.2,483000.0,Masculino,Media,No,,Separado/a,6.6,No,Ocasional,Privado
+25.0,Temuco,80.1,758000.0,Femenino,Técnica,Sí,Alta,Viudo/a,6.8,No,,
+32.4,Valdivia,84.0,950000.0,Femenino,Media,No,Alta,Soltero/a,6.0,No,Nunca,Bicicleta/Pie
+52.6,Santiago,63.0,498000.0,Femenino,Universitaria,Sí,Media,Casado/a,6.6,No,,Bicicleta/Pie
+48.2,La Serena,56.1,1002000.0,Masculino,,Sí,Alta,Casado/a,8.8,No,Ocasional,Privado
+36.4,Puerto Montt,80.2,588000.0,Masculino,Técnica,Sí,Alta,Separado/a,7.2,No,Ocasional,Bicicleta/Pie
+34.5,Antofagasta,75.0,679000.0,Femenino,Media,No,Media,Soltero/a,8.6,Sí,Frecuente,Público
+34.1,Antofagasta,71.3,933000.0,Femenino,Técnica,Sí,Media,,6.8,No,Ocasional,Público
+26.2,La Serena,74.6,634000.0,Masculino,Media,No,Media,Viudo/a,7.0,No,Nunca,Bicicleta/Pie
+64.2,La Serena,73.9,809000.0,Femenino,Técnica,No,,Separado/a,7.5,No,Nunca,Privado
+35.2,Valdivia,85.4,721000.0,Masculino,Media,No,Baja,Separado/a,7.8,No,Frecuente,Público
+58.3,Concepción,85.5,832000.0,Femenino,Básica,Sí,Media,Viudo/a,5.7,No,Nunca,Bicicleta/Pie
+62.8,Puerto Montt,76.5,205000.0,,Media,Sí,Alta,Separado/a,7.0,No,Ocasional,Público
+,La Serena,80.1,343000.0,Masculino,Universitaria,Sí,Baja,Separado/a,6.0,No,Frecuente,Público
+33.5,Temuco,76.2,954000.0,Masculino,Técnica,No,Baja,Soltero/a,9.3,,Frecuente,Público
+46.1,Valdivia,64.5,1059000.0,Masculino,Técnica,No,Alta,Separado/a,4.4,No,Frecuente,Público
+39.6,Antofagasta,79.1,572000.0,Femenino,,Sí,Baja,Casado/a,7.9,No,Ocasional,Bicicleta/Pie
+26.4,Valparaíso,53.3,739000.0,Masculino,Universitaria,No,Alta,Casado/a,5.8,No,Frecuente,Público
+44.9,Valdivia,82.6,874000.0,Femenino,Básica,,Baja,Casado/a,5.3,No,Frecuente,Bicicleta/Pie
+22.3,Antofagasta,55.7,973000.0,,Técnica,Sí,Baja,Separado/a,6.5,No,Nunca,Público
+57.8,Santiago,73.4,,Masculino,Básica,No,Alta,Viudo/a,8.9,No,Nunca,Público
+33.0,Valdivia,59.9,578000.0,Femenino,Técnica,No,Alta,Casado/a,6.0,Sí,Frecuente,Público
+43.0,Antofagasta,76.6,717000.0,Femenino,Técnica,Sí,Alta,Soltero/a,4.3,No,Ocasional,Bicicleta/Pie
+44.2,Concepción,,976000.0,Femenino,Básica,No,,Separado/a,5.6,Sí,Ocasional,
+36.1,Valdivia,50.9,1425000.0,Masculino,Técnica,Sí,,Viudo/a,7.2,No,Ocasional,
+48.8,Valdivia,,743000.0,Masculino,Técnica,Sí,Media,Viudo/a,,,Ocasional,Privado
+32.9,Puerto Montt,63.1,448000.0,,Básica,No,Alta,Separado/a,8.1,,Nunca,
+53.1,La Serena,80.6,901000.0,Masculino,Media,Sí,Media,,4.6,No,Ocasional,Privado
+19.8,Puerto Montt,70.0,1130000.0,Femenino,Básica,No,Alta,Soltero/a,,No,Ocasional,Bicicleta/Pie
+41.9,Valdivia,74.7,827000.0,,Técnica,Sí,,Separado/a,8.2,No,Frecuente,Público
+69.1,La Serena,58.5,573000.0,Masculino,Universitaria,No,Baja,Separado/a,6.2,No,Ocasional,Público
+25.0,Antofagasta,62.9,1039000.0,Masculino,Media,,Alta,Viudo/a,5.0,No,Ocasional,Privado
+29.8,Valparaíso,64.5,966000.0,Femenino,Universitaria,Sí,Alta,Casado/a,6.9,Sí,Ocasional,Privado
+47.7,Valparaíso,80.3,543000.0,Masculino,Media,No,Alta,Casado/a,6.3,No,Ocasional,Público
+42.7,Valdivia,90.1,895000.0,Femenino,Universitaria,,Alta,Viudo/a,8.8,Sí,Nunca,Bicicleta/Pie
+45.3,Concepción,60.3,1049000.0,Femenino,Media,Sí,Baja,Separado/a,8.2,No,Frecuente,Privado
+47.3,Santiago,82.9,1095000.0,Masculino,Básica,No,Alta,Soltero/a,7.8,No,Nunca,Público
+49.5,Antofagasta,44.0,783000.0,Femenino,Media,Sí,,Casado/a,,Sí,,Privado
+56.6,La Serena,55.7,710000.0,Femenino,Media,No,Alta,Separado/a,6.7,Sí,Frecuente,Bicicleta/Pie
+46.1,Valdivia,58.5,1107000.0,Masculino,Media,,Baja,Casado/a,6.7,Sí,Frecuente,Privado
+36.4,Antofagasta,53.8,497000.0,Femenino,Técnica,Sí,Media,Viudo/a,4.4,No,Frecuente,Público
+,Valdivia,51.0,910000.0,Femenino,,Sí,Baja,Casado/a,,No,Nunca,Privado
+68.5,Concepción,75.0,457000.0,,Básica,Sí,Baja,Viudo/a,5.8,No,Frecuente,Bicicleta/Pie
+38.0,Temuco,67.4,1066000.0,Masculino,Universitaria,No,Alta,Viudo/a,6.9,No,Ocasional,Público
+,Temuco,74.6,735000.0,,Universitaria,Sí,Baja,Viudo/a,7.1,,Ocasional,Público
+56.6,Concepción,78.3,1117000.0,Femenino,Básica,No,Baja,Soltero/a,6.3,No,Frecuente,Público
+38.2,La Serena,73.2,923000.0,Femenino,Técnica,Sí,Alta,Separado/a,8.4,Sí,Ocasional,Público
+7.4,Puerto Montt,77.9,494000.0,Masculino,Media,No,Media,Viudo/a,,No,Ocasional,Bicicleta/Pie
+52.7,Concepción,69.2,1156000.0,Femenino,Técnica,Sí,Media,Viudo/a,6.3,No,Frecuente,Público
+32.0,Valdivia,55.8,1188000.0,Masculino,Técnica,No,Media,,6.5,No,Frecuente,Bicicleta/Pie
+38.6,La Serena,82.7,1021000.0,Masculino,Media,No,Baja,,8.7,Sí,Frecuente,Bicicleta/Pie
+45.0,Valparaíso,62.9,610000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,,Sí,Nunca,Privado
+42.9,Concepción,58.8,723000.0,Femenino,Media,Sí,Media,Soltero/a,7.0,No,Frecuente,Privado
+,La Serena,,836000.0,Femenino,Básica,Sí,Media,Casado/a,8.3,,Frecuente,Público
+33.5,Concepción,59.0,624000.0,Masculino,Media,,Media,Soltero/a,6.2,No,Nunca,Público
+47.7,Concepción,65.0,1223000.0,Masculino,Universitaria,No,Media,Casado/a,8.3,No,Ocasional,Bicicleta/Pie
+36.1,Puerto Montt,74.1,836000.0,Femenino,Técnica,No,Alta,Separado/a,7.6,No,Nunca,Privado
+51.1,Puerto Montt,74.2,124000.0,Masculino,Técnica,No,,Casado/a,8.9,No,Ocasional,Público
+49.2,Valdivia,59.2,885000.0,Femenino,Media,Sí,Baja,Casado/a,6.4,,Nunca,Público
+26.0,La Serena,64.1,713000.0,Masculino,Básica,Sí,Baja,Viudo/a,6.6,No,Frecuente,Bicicleta/Pie
+56.3,La Serena,82.9,781000.0,Masculino,Universitaria,Sí,Alta,Soltero/a,7.2,Sí,Nunca,Privado
+32.0,Santiago,76.0,708000.0,Femenino,Técnica,Sí,Media,Separado/a,6.9,No,Frecuente,Público
+52.1,Concepción,94.9,1002000.0,,Media,No,Media,Separado/a,8.2,No,Ocasional,Público
+45.5,Temuco,84.2,1080000.0,Femenino,,No,,,6.7,No,Frecuente,Público
+67.6,Concepción,83.7,871000.0,,Básica,Sí,Alta,,5.4,Sí,Nunca,Público
+36.6,Concepción,53.3,,Femenino,Técnica,No,,,,No,Nunca,Público
+34.8,La Serena,79.2,790000.0,Masculino,Técnica,Sí,Alta,Separado/a,9.9,No,Ocasional,Público
+39.7,Concepción,69.4,805000.0,Masculino,Universitaria,No,Alta,Casado/a,4.6,No,Frecuente,Privado
+35.5,Antofagasta,63.4,599000.0,Femenino,Básica,No,Alta,Casado/a,7.7,No,Ocasional,
+52.0,Concepción,72.0,,Femenino,Universitaria,No,Baja,Separado/a,8.1,Sí,Frecuente,Bicicleta/Pie
+15.8,Antofagasta,81.3,915000.0,Masculino,Básica,No,Alta,Casado/a,7.4,No,Frecuente,Bicicleta/Pie
+24.2,Puerto Montt,76.0,1185000.0,,Básica,No,Baja,Soltero/a,9.4,,Ocasional,Público
+24.0,Temuco,59.5,1114000.0,Femenino,Media,No,Baja,Separado/a,5.0,No,Ocasional,Bicicleta/Pie
+,Valdivia,78.9,629000.0,Femenino,Técnica,Sí,Media,Casado/a,6.2,Sí,Frecuente,Privado
+65.7,La Serena,62.3,1005000.0,Masculino,Básica,No,Baja,Separado/a,7.2,No,,Público
+38.4,Concepción,72.6,562000.0,Femenino,Universitaria,Sí,Baja,Separado/a,8.4,No,Frecuente,Privado
+37.5,Antofagasta,66.4,974000.0,,Técnica,Sí,Media,Viudo/a,8.8,Sí,Ocasional,Público
+41.1,Antofagasta,67.4,671000.0,Masculino,Universitaria,Sí,Media,Soltero/a,5.2,No,Ocasional,Público
+57.4,Puerto Montt,79.2,544000.0,Femenino,Técnica,Sí,Media,Soltero/a,4.3,No,Ocasional,Bicicleta/Pie
+26.1,Antofagasta,57.5,870000.0,Masculino,Técnica,Sí,Alta,Viudo/a,8.2,No,Nunca,Privado
+43.6,Valdivia,93.3,131000.0,Masculino,Básica,Sí,Alta,Viudo/a,7.2,No,Ocasional,Bicicleta/Pie
+54.6,Valparaíso,48.1,362000.0,Masculino,,No,Media,Separado/a,7.2,No,Nunca,Público
+47.5,Santiago,62.8,756000.0,Femenino,Básica,No,Alta,Soltero/a,8.2,Sí,Frecuente,Privado
+42.8,Valdivia,74.4,821000.0,Masculino,Técnica,No,Media,Viudo/a,5.8,,Frecuente,Privado
+55.0,Temuco,77.0,708000.0,Femenino,Básica,Sí,Alta,Casado/a,6.6,No,Ocasional,Público
+-0.5,Valdivia,68.8,405000.0,Masculino,Básica,Sí,Baja,Separado/a,7.8,No,Nunca,Bicicleta/Pie
+50.2,Puerto Montt,69.3,596000.0,Masculino,Técnica,Sí,Alta,,5.6,Sí,Frecuente,Público
+30.2,Puerto Montt,74.9,898000.0,Masculino,Técnica,No,Alta,Separado/a,6.2,No,Nunca,Privado
+12.5,Valdivia,67.2,945000.0,Masculino,Básica,No,Baja,Separado/a,7.2,No,Nunca,Privado
+47.7,Concepción,86.7,796000.0,Masculino,Básica,No,Media,Casado/a,7.8,Sí,Frecuente,Privado
+60.6,Valparaíso,80.1,1089000.0,Femenino,Básica,Sí,Alta,Casado/a,4.8,Sí,Nunca,
+37.9,Concepción,80.5,899000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,8.0,Sí,Nunca,Privado
+54.3,Concepción,58.4,613000.0,Masculino,Básica,,Baja,,7.7,No,,Privado
+64.2,Valdivia,69.0,730000.0,Femenino,Universitaria,No,Baja,Soltero/a,5.7,No,Ocasional,Bicicleta/Pie
+59.7,La Serena,66.4,449000.0,Femenino,Media,Sí,Baja,Viudo/a,10.4,Sí,Ocasional,Bicicleta/Pie
+64.6,La Serena,57.9,773000.0,Masculino,Universitaria,Sí,Baja,Soltero/a,5.6,Sí,Nunca,Privado
+51.1,La Serena,74.3,1078000.0,Femenino,Básica,Sí,Media,Soltero/a,8.1,No,Ocasional,Bicicleta/Pie
+41.1,Valparaíso,63.5,971000.0,,Media,Sí,Alta,Viudo/a,7.4,Sí,Frecuente,
+16.0,Concepción,77.9,1151000.0,Femenino,Universitaria,,Alta,Casado/a,6.4,No,Frecuente,Bicicleta/Pie
+36.3,Santiago,57.2,,Femenino,Universitaria,No,Alta,Separado/a,7.1,No,Frecuente,Bicicleta/Pie
+27.4,Temuco,90.6,1137000.0,Masculino,Técnica,Sí,Alta,,7.8,No,Nunca,Bicicleta/Pie
+72.6,La Serena,59.2,752000.0,Femenino,Media,Sí,Media,Soltero/a,,No,Frecuente,
+37.4,La Serena,72.6,1168000.0,Masculino,,No,Alta,Soltero/a,4.8,No,Nunca,Público
+41.8,Puerto Montt,79.5,795000.0,Masculino,Media,No,Media,Viudo/a,3.0,Sí,Nunca,Bicicleta/Pie
+48.3,Concepción,63.2,977000.0,Femenino,Universitaria,Sí,Media,Soltero/a,5.5,No,Frecuente,Privado
+,Concepción,80.2,1169000.0,Masculino,Técnica,No,Baja,Viudo/a,7.0,No,Frecuente,Bicicleta/Pie
+65.4,Valparaíso,55.2,752000.0,Femenino,Básica,No,Baja,Viudo/a,8.0,,Nunca,
+30.7,Valparaíso,87.4,855000.0,Masculino,Universitaria,Sí,Alta,Casado/a,,No,Frecuente,
+42.9,La Serena,70.2,1122000.0,Femenino,Media,No,Media,Soltero/a,6.8,No,Ocasional,
+28.9,Concepción,62.8,767000.0,Femenino,Media,,Baja,Casado/a,9.3,No,Nunca,Privado
+20.2,Santiago,66.4,470000.0,Masculino,Técnica,No,,Separado/a,5.8,No,Nunca,Privado
+30.8,Temuco,79.7,,Femenino,Técnica,No,Baja,Casado/a,9.5,No,Frecuente,Privado
+39.4,Valdivia,,683000.0,Femenino,Media,,Media,Soltero/a,7.9,No,Frecuente,Privado
+33.6,Concepción,61.0,840000.0,Femenino,Universitaria,No,Alta,Separado/a,9.2,No,Nunca,Bicicleta/Pie
+29.6,Puerto Montt,,1089000.0,Femenino,Técnica,No,Alta,Soltero/a,,No,Nunca,Bicicleta/Pie
+18.9,Valdivia,55.9,648000.0,Masculino,Básica,Sí,Media,Separado/a,6.5,No,,Bicicleta/Pie
+38.8,Concepción,91.8,548000.0,Masculino,Media,No,Baja,Soltero/a,4.8,No,Frecuente,Bicicleta/Pie
+17.4,Antofagasta,63.2,863000.0,Masculino,Básica,Sí,Baja,Casado/a,7.5,No,Nunca,Público
+51.4,Valparaíso,80.0,352000.0,Femenino,Media,Sí,Alta,Soltero/a,7.5,No,Ocasional,Bicicleta/Pie
+41.2,Puerto Montt,72.5,728000.0,Masculino,Básica,No,Alta,,10.0,,Ocasional,Bicicleta/Pie
+18.1,Temuco,58.2,861000.0,Femenino,Universitaria,No,Alta,Viudo/a,7.1,Sí,Frecuente,Público
+35.4,La Serena,69.9,733000.0,Femenino,Media,No,Baja,Casado/a,,No,Nunca,Privado
+28.7,Puerto Montt,79.4,414000.0,Femenino,Universitaria,,Baja,Casado/a,8.4,No,Nunca,Bicicleta/Pie
+44.8,Concepción,67.7,1199000.0,Masculino,Técnica,No,Alta,Separado/a,5.6,Sí,,Bicicleta/Pie
+60.1,La Serena,84.3,826000.0,,,Sí,Media,Casado/a,5.1,No,Nunca,Privado
+11.9,Concepción,82.3,1158000.0,Masculino,Universitaria,No,Baja,Viudo/a,8.1,Sí,Frecuente,Bicicleta/Pie
+41.7,La Serena,81.0,735000.0,,Básica,Sí,Alta,Casado/a,,Sí,Frecuente,Privado
+37.6,Temuco,64.5,580000.0,Femenino,Universitaria,No,Media,Viudo/a,6.1,No,Frecuente,Privado
+50.1,Valparaíso,57.0,867000.0,Masculino,Media,Sí,Baja,Casado/a,9.1,No,Nunca,Privado
+43.2,Temuco,62.6,746000.0,Masculino,Universitaria,No,Media,Viudo/a,7.8,No,,Bicicleta/Pie
+,Antofagasta,72.4,506000.0,,Básica,No,Media,Separado/a,7.9,Sí,,
+35.2,Santiago,76.5,1167000.0,Masculino,Básica,No,Baja,Soltero/a,4.9,Sí,Ocasional,Bicicleta/Pie
+28.1,Valparaíso,43.9,,Femenino,,No,Alta,Soltero/a,8.1,No,Frecuente,
+56.1,Temuco,69.9,340000.0,Masculino,Técnica,No,Media,Viudo/a,6.6,No,Nunca,Privado
+40.3,Antofagasta,71.9,1132000.0,Masculino,Media,Sí,Alta,Casado/a,6.3,Sí,Nunca,Bicicleta/Pie
+68.5,Santiago,66.7,674000.0,Masculino,Básica,No,Baja,Casado/a,7.6,No,Frecuente,Privado
+39.1,Antofagasta,85.5,648000.0,Femenino,Técnica,No,Media,Soltero/a,7.0,No,Frecuente,Bicicleta/Pie
+29.4,Concepción,,,Masculino,Básica,,Media,Viudo/a,4.8,No,Ocasional,Bicicleta/Pie
+17.3,Valdivia,85.7,1235000.0,Masculino,,Sí,Media,Casado/a,8.4,No,Ocasional,Público
+13.0,Concepción,67.4,,Masculino,Media,No,Media,Soltero/a,8.6,Sí,Frecuente,
+,La Serena,81.2,815000.0,Femenino,Universitaria,Sí,Media,Viudo/a,6.1,No,Nunca,Bicicleta/Pie
+44.0,Valparaíso,89.6,1028000.0,,Técnica,No,Baja,Separado/a,7.9,No,,Público
+47.6,Concepción,85.7,905000.0,Masculino,Universitaria,,Media,Casado/a,8.4,Sí,Frecuente,Bicicleta/Pie
+16.3,Puerto Montt,56.9,785000.0,Masculino,,No,Baja,Casado/a,4.2,No,Nunca,Bicicleta/Pie
+53.4,Antofagasta,,375000.0,,Básica,No,Alta,Viudo/a,6.2,No,Frecuente,Público
+32.8,Valparaíso,65.9,598000.0,Femenino,Universitaria,Sí,Baja,Soltero/a,3.7,No,Nunca,Privado
+42.2,Valdivia,75.9,847000.0,Femenino,,No,Media,Viudo/a,8.0,Sí,Ocasional,
+64.2,Puerto Montt,78.2,603000.0,,Básica,Sí,Alta,Soltero/a,,No,Nunca,Privado
+53.5,Concepción,59.9,851000.0,Femenino,Media,No,Baja,Viudo/a,6.0,No,Nunca,Bicicleta/Pie
+36.0,La Serena,70.8,970000.0,Masculino,Técnica,No,Baja,Separado/a,6.8,Sí,Frecuente,
+26.6,Temuco,,1041000.0,Masculino,Técnica,Sí,,Casado/a,6.4,No,Nunca,Público
+7.7,La Serena,87.3,493000.0,Masculino,,No,,Soltero/a,3.9,No,Ocasional,Público
+29.2,Puerto Montt,63.9,1349000.0,Masculino,Básica,Sí,Media,Separado/a,9.0,,Frecuente,Público
+36.8,Santiago,70.7,992000.0,Femenino,Técnica,Sí,Baja,Viudo/a,7.4,No,Frecuente,Bicicleta/Pie
+,Concepción,66.3,800000.0,Femenino,Básica,No,Baja,Soltero/a,,Sí,Frecuente,Privado
+,Puerto Montt,83.8,1072000.0,Femenino,Media,No,Alta,Soltero/a,6.8,Sí,Frecuente,Público
+41.2,Santiago,35.9,1391000.0,Femenino,Técnica,No,Media,Separado/a,8.1,Sí,Frecuente,Privado
+36.6,Santiago,69.8,440000.0,,Básica,Sí,Media,Viudo/a,4.6,No,Frecuente,Público
+30.2,Antofagasta,68.7,744000.0,Masculino,Técnica,Sí,Alta,Separado/a,5.7,,Frecuente,Público
+42.5,Valparaíso,64.6,205000.0,,Técnica,No,Baja,Viudo/a,7.3,No,Ocasional,Público
+46.6,Antofagasta,90.7,,Masculino,Media,,Baja,Separado/a,8.7,Sí,Ocasional,Público
+23.6,Concepción,59.4,891000.0,Masculino,Universitaria,,Alta,Separado/a,3.4,No,Frecuente,Bicicleta/Pie
+61.2,Santiago,79.3,790000.0,Masculino,Técnica,Sí,Baja,Separado/a,8.5,Sí,Nunca,
+38.5,Valdivia,74.3,636000.0,Femenino,Media,Sí,Baja,Separado/a,5.9,No,Frecuente,Público
+40.3,Puerto Montt,85.1,288000.0,Femenino,Técnica,No,Alta,Viudo/a,6.6,Sí,Frecuente,Bicicleta/Pie
+50.6,Temuco,62.0,893000.0,Femenino,Técnica,No,Alta,Casado/a,7.1,No,Frecuente,Bicicleta/Pie
+,Santiago,61.2,1164000.0,Femenino,Técnica,No,Alta,Separado/a,5.3,No,Nunca,Bicicleta/Pie
+54.3,Puerto Montt,83.2,652000.0,Femenino,Técnica,Sí,,Viudo/a,5.1,Sí,Ocasional,Bicicleta/Pie
+44.3,Valdivia,75.1,910000.0,Masculino,Universitaria,Sí,,Casado/a,,No,Nunca,Privado
+30.8,Temuco,51.5,408000.0,Masculino,Universitaria,Sí,,Soltero/a,9.8,No,Nunca,Privado
+45.4,Antofagasta,63.5,,Masculino,Técnica,Sí,Media,Soltero/a,5.6,No,Nunca,Bicicleta/Pie
+22.8,Antofagasta,74.6,702000.0,Femenino,Técnica,No,Media,Separado/a,5.6,No,,Privado
+41.6,Valparaíso,80.1,609000.0,Femenino,Media,Sí,Alta,,,No,Frecuente,Público
+39.5,Puerto Montt,61.8,,Femenino,Media,Sí,Baja,Separado/a,6.7,No,Ocasional,Privado
+36.9,Santiago,35.0,702000.0,,Básica,No,,Separado/a,5.5,No,Nunca,Público
+38.1,La Serena,76.3,896000.0,Masculino,Universitaria,No,Baja,Casado/a,5.6,No,Ocasional,Privado
+11.8,Antofagasta,55.4,472000.0,Femenino,Técnica,No,Alta,Soltero/a,7.3,No,Frecuente,Privado
+31.8,Antofagasta,45.8,701000.0,Masculino,Universitaria,Sí,,Separado/a,,,Frecuente,Público
+41.4,Valparaíso,36.0,790000.0,Femenino,Media,Sí,Baja,Soltero/a,9.4,Sí,Ocasional,Público
+42.4,Temuco,79.8,525000.0,,,Sí,Baja,Casado/a,5.2,Sí,Frecuente,Bicicleta/Pie
+,Valparaíso,71.5,1249000.0,Femenino,Universitaria,Sí,Media,Soltero/a,8.7,No,Ocasional,
+59.0,Valdivia,67.3,587000.0,Femenino,Técnica,Sí,Baja,Casado/a,10.0,No,Nunca,Público
+27.0,Santiago,86.7,633000.0,Masculino,Técnica,Sí,,Casado/a,8.8,No,Frecuente,Bicicleta/Pie
+54.5,Puerto Montt,,555000.0,Masculino,Media,No,Baja,Casado/a,8.6,Sí,Frecuente,Público
+46.4,Concepción,89.4,1250000.0,Femenino,Técnica,Sí,Baja,Separado/a,,No,Ocasional,Bicicleta/Pie
+30.3,Concepción,53.3,938000.0,Masculino,Media,No,Baja,Viudo/a,7.3,Sí,Frecuente,
+66.6,Puerto Montt,69.6,566000.0,Femenino,Media,No,Media,Separado/a,8.8,No,Nunca,Público
+22.1,Temuco,50.6,1077000.0,Femenino,Básica,No,Baja,Soltero/a,,Sí,Frecuente,Público
+53.8,Valdivia,67.2,850000.0,Masculino,Básica,Sí,Alta,Separado/a,8.3,No,Frecuente,Privado
+55.0,Antofagasta,67.0,,Femenino,Básica,Sí,Baja,Separado/a,8.7,No,Frecuente,Privado
+29.9,Temuco,77.5,,Femenino,,No,Media,Viudo/a,7.8,No,Ocasional,Bicicleta/Pie
+60.9,Antofagasta,70.5,613000.0,Masculino,Básica,Sí,Media,,6.6,No,Nunca,Público
+,Antofagasta,77.5,884000.0,Femenino,Técnica,Sí,Alta,Casado/a,7.7,No,Nunca,Privado
+44.3,Concepción,78.4,664000.0,Femenino,Técnica,No,Alta,Casado/a,6.4,No,Frecuente,Bicicleta/Pie
+43.9,Temuco,95.9,1254000.0,Femenino,Básica,Sí,Alta,Soltero/a,6.2,No,Frecuente,Privado
+38.0,Valdivia,,483000.0,Femenino,Universitaria,Sí,Media,Separado/a,8.2,No,Ocasional,Bicicleta/Pie
+52.2,Valparaíso,58.7,1184000.0,Masculino,Media,Sí,Baja,,7.2,Sí,Nunca,Privado
+51.9,Antofagasta,73.0,772000.0,Masculino,Universitaria,Sí,,Viudo/a,8.2,No,Frecuente,Público
+13.8,La Serena,60.4,875000.0,Masculino,Universitaria,No,Alta,,7.2,No,Nunca,Bicicleta/Pie
+59.6,La Serena,87.8,1008000.0,Femenino,Media,No,Alta,Soltero/a,7.8,Sí,Frecuente,
+15.1,Valparaíso,66.6,642000.0,Masculino,Media,Sí,Baja,Separado/a,9.1,Sí,Frecuente,Privado
+55.5,La Serena,63.2,1016000.0,Masculino,Media,Sí,Alta,Viudo/a,6.8,Sí,Ocasional,Privado
+56.9,Santiago,64.3,123000.0,Masculino,Técnica,Sí,Baja,Soltero/a,6.4,No,Nunca,Privado
+23.6,Antofagasta,78.6,620000.0,Femenino,Media,No,Baja,Separado/a,7.6,Sí,Nunca,Público
+33.8,Valparaíso,68.1,569000.0,Masculino,Media,,Baja,Separado/a,3.1,Sí,Frecuente,Privado
+23.4,Temuco,62.3,487000.0,,Universitaria,Sí,,Soltero/a,,Sí,Frecuente,Privado
+36.8,Antofagasta,90.0,746000.0,Femenino,Universitaria,No,Media,Viudo/a,5.7,Sí,Ocasional,Público
+35.4,Valparaíso,59.7,,Femenino,Básica,Sí,Baja,Casado/a,9.5,No,Frecuente,Privado
+51.7,Concepción,,,Femenino,Universitaria,No,,Separado/a,8.2,No,Nunca,Público
+59.7,Valdivia,77.8,860000.0,Femenino,,Sí,,Casado/a,8.4,No,Ocasional,Público
+60.9,Temuco,50.4,634000.0,Femenino,Técnica,No,Alta,Separado/a,8.4,Sí,Nunca,Privado
+31.6,Valdivia,75.8,892000.0,Femenino,Universitaria,Sí,Alta,Viudo/a,6.3,No,Ocasional,Público
+36.9,Concepción,57.3,831000.0,Masculino,Universitaria,Sí,Media,Casado/a,6.6,No,Nunca,Privado
+14.7,Antofagasta,,1034000.0,Masculino,Media,No,Baja,Soltero/a,4.5,No,Frecuente,Público
+27.9,Temuco,58.4,994000.0,Femenino,Universitaria,No,Baja,Separado/a,9.2,Sí,Nunca,Bicicleta/Pie
+,Valdivia,78.3,,Femenino,Universitaria,,Alta,Soltero/a,,No,Nunca,Privado
+64.2,La Serena,83.3,576000.0,Masculino,Media,No,Alta,Soltero/a,7.0,No,Ocasional,Bicicleta/Pie
+21.5,Valdivia,80.3,637000.0,Femenino,Universitaria,No,Alta,Viudo/a,8.8,No,Nunca,Bicicleta/Pie
+31.1,Valparaíso,73.0,663000.0,Femenino,Técnica,Sí,Baja,Soltero/a,9.3,No,Frecuente,Bicicleta/Pie
+39.6,Antofagasta,,721000.0,Masculino,Básica,No,Media,Separado/a,6.6,No,Ocasional,Bicicleta/Pie
+44.2,Santiago,63.1,867000.0,Femenino,Universitaria,No,Media,Soltero/a,4.4,No,Ocasional,Privado
+27.9,Valdivia,87.7,979000.0,Femenino,Técnica,No,Media,Soltero/a,7.3,No,Nunca,Público
+,Temuco,61.6,787000.0,Masculino,Universitaria,No,Media,Separado/a,,No,Ocasional,Privado
+32.9,Temuco,57.6,804000.0,Masculino,Básica,Sí,Alta,Soltero/a,7.6,Sí,Frecuente,Privado
+39.8,Puerto Montt,78.0,836000.0,Masculino,Media,Sí,Baja,Viudo/a,6.5,No,Nunca,Público
+48.2,Valdivia,60.4,671000.0,Masculino,Básica,Sí,Alta,Separado/a,6.8,,,Bicicleta/Pie
+40.1,Antofagasta,58.6,569000.0,Masculino,,,Media,Viudo/a,,No,Nunca,Público
+33.5,Antofagasta,52.7,361000.0,Femenino,,Sí,Alta,Soltero/a,7.2,No,Nunca,
+,Concepción,64.2,626000.0,Femenino,Básica,No,Media,Casado/a,8.2,No,Ocasional,Privado
+38.7,Puerto Montt,69.0,918000.0,Femenino,Media,Sí,Baja,Viudo/a,,No,Ocasional,Público
+34.4,Valdivia,72.9,624000.0,Femenino,,Sí,Media,,6.9,Sí,Ocasional,
+36.1,La Serena,81.4,741000.0,Femenino,,No,Alta,,8.7,Sí,Nunca,Bicicleta/Pie
+64.0,Concepción,76.3,917000.0,Masculino,Básica,No,Baja,Casado/a,7.4,,Ocasional,Público
+48.4,Puerto Montt,67.7,,Femenino,Media,Sí,Media,Separado/a,7.0,No,Frecuente,Privado
+35.6,Valdivia,67.6,530000.0,Femenino,Técnica,Sí,Media,Casado/a,7.1,No,Ocasional,Público
+50.5,Valdivia,76.1,1049000.0,Femenino,Universitaria,No,Baja,Separado/a,5.2,No,Frecuente,Público
+35.0,Concepción,85.3,1082000.0,Femenino,Técnica,Sí,Alta,Soltero/a,5.4,No,Ocasional,Privado
+57.6,La Serena,71.5,518000.0,Femenino,Técnica,No,Baja,Casado/a,6.8,No,Nunca,Bicicleta/Pie
+45.5,Puerto Montt,64.4,594000.0,Masculino,Media,No,Alta,Soltero/a,5.9,No,Ocasional,Público
+38.4,Valdivia,58.1,1098000.0,Femenino,Media,Sí,Media,Viudo/a,6.9,No,Frecuente,Bicicleta/Pie
+46.7,Valdivia,52.7,763000.0,Femenino,Universitaria,Sí,Media,Casado/a,8.3,Sí,Frecuente,Público
+16.4,Puerto Montt,78.0,245000.0,,Técnica,Sí,Baja,Separado/a,8.1,Sí,Ocasional,Privado
+23.1,Santiago,76.9,450000.0,Femenino,Básica,No,Media,Viudo/a,7.6,,Frecuente,Bicicleta/Pie
+22.1,Concepción,76.9,738000.0,Femenino,Técnica,No,Baja,Separado/a,8.3,No,Nunca,Público
+42.1,Concepción,68.5,509000.0,Femenino,Media,Sí,Media,Viudo/a,8.5,No,Ocasional,Bicicleta/Pie
+,Temuco,,697000.0,Masculino,Básica,Sí,,Separado/a,8.5,No,Frecuente,
+73.5,La Serena,64.2,808000.0,Femenino,Básica,Sí,Alta,Separado/a,8.5,No,Ocasional,Privado
+49.6,Valparaíso,81.5,1166000.0,,Media,No,Baja,Soltero/a,5.2,No,Ocasional,
+47.5,Santiago,69.5,,Masculino,Básica,No,Baja,Viudo/a,4.2,,Ocasional,Público
+13.0,Puerto Montt,62.7,1068000.0,Femenino,Técnica,No,Media,Soltero/a,,No,Ocasional,Público
+31.9,Puerto Montt,77.1,1157000.0,Femenino,,Sí,Alta,Soltero/a,6.3,Sí,,
+28.2,Puerto Montt,74.9,1159000.0,Femenino,,No,Alta,Soltero/a,8.4,Sí,Nunca,Público
+30.7,Santiago,74.3,871000.0,Masculino,Media,No,Baja,Soltero/a,6.9,No,Ocasional,Bicicleta/Pie
+37.5,Valdivia,71.0,309000.0,Femenino,Universitaria,Sí,Baja,Separado/a,6.3,No,,Público
+32.9,Puerto Montt,69.5,915000.0,Femenino,Universitaria,No,Media,Soltero/a,7.2,No,Ocasional,
+10.3,Puerto Montt,98.7,,Femenino,Media,Sí,Baja,Soltero/a,7.8,Sí,Frecuente,Bicicleta/Pie
+51.2,La Serena,84.2,780000.0,Masculino,Media,,Media,Soltero/a,8.2,No,Ocasional,Bicicleta/Pie
+23.9,Antofagasta,78.7,1236000.0,Masculino,Universitaria,,Alta,Separado/a,6.4,No,Ocasional,Privado
+43.6,Antofagasta,71.3,1015000.0,Femenino,Universitaria,,Baja,Viudo/a,,No,Frecuente,Bicicleta/Pie
+71.1,Temuco,82.1,942000.0,Masculino,Básica,No,Alta,Separado/a,5.8,No,Nunca,Privado
+26.2,Temuco,76.2,1072000.0,Femenino,Media,Sí,Alta,Separado/a,7.2,Sí,Nunca,Privado
+2.0,Puerto Montt,70.3,883000.0,Masculino,Media,,Media,Separado/a,5.4,Sí,Nunca,Privado
+35.7,La Serena,66.4,177000.0,Femenino,Básica,Sí,Alta,Viudo/a,8.4,Sí,Nunca,Público
+56.5,Puerto Montt,69.0,675000.0,Masculino,Media,,Media,Soltero/a,5.4,Sí,Frecuente,Privado
+69.4,Temuco,32.0,1099000.0,Femenino,Básica,,Media,Soltero/a,4.7,No,Nunca,Bicicleta/Pie
+21.6,Santiago,72.5,598000.0,Femenino,Básica,No,Alta,Viudo/a,7.2,Sí,Nunca,Público
+47.5,Santiago,64.1,744000.0,Masculino,Media,,Alta,Viudo/a,6.6,,Nunca,Privado
+33.0,Valdivia,89.1,539000.0,Masculino,Técnica,Sí,Media,,7.7,Sí,Nunca,Privado
+38.4,Valparaíso,70.2,1246000.0,Masculino,Universitaria,No,Media,Soltero/a,6.3,Sí,Nunca,Privado
+79.7,Antofagasta,55.7,,Masculino,Media,Sí,Alta,Separado/a,7.6,No,Ocasional,Bicicleta/Pie
+,La Serena,69.4,579000.0,Masculino,,Sí,Media,Separado/a,8.5,No,Ocasional,Público
+43.8,Concepción,57.4,837000.0,Femenino,Básica,Sí,Media,Soltero/a,6.1,No,Nunca,Público
+47.0,Antofagasta,75.7,630000.0,Femenino,,Sí,Baja,Viudo/a,7.8,No,Frecuente,Público
+56.3,Concepción,73.5,954000.0,Masculino,Media,No,Baja,Casado/a,9.7,Sí,Frecuente,Bicicleta/Pie
+41.5,Valparaíso,81.5,927000.0,Femenino,,Sí,Baja,Separado/a,8.2,No,Ocasional,Privado
+44.6,Valparaíso,60.5,1003000.0,Femenino,Técnica,Sí,Baja,Casado/a,,No,Frecuente,Público
+34.1,Puerto Montt,70.4,883000.0,,,No,Baja,Separado/a,7.5,,Ocasional,Privado
+44.0,Temuco,53.6,1534000.0,Femenino,Universitaria,Sí,,,5.0,No,Nunca,Bicicleta/Pie
+34.9,Valparaíso,78.4,543000.0,Femenino,,Sí,Media,Soltero/a,5.3,No,Nunca,Público
+49.3,Valparaíso,76.2,372000.0,Masculino,Básica,No,Baja,Separado/a,9.2,Sí,Frecuente,Bicicleta/Pie
+,Concepción,75.9,702000.0,,Técnica,No,Alta,Casado/a,7.6,No,Frecuente,Público
+45.7,Temuco,70.0,408000.0,Femenino,Técnica,,Baja,Casado/a,9.3,Sí,Frecuente,Público
+,Valparaíso,75.0,427000.0,Masculino,Técnica,No,Alta,,7.6,No,Nunca,Privado
+56.9,Antofagasta,89.3,550000.0,Femenino,Técnica,Sí,Media,Separado/a,6.2,No,Nunca,Bicicleta/Pie
+39.2,Valdivia,66.6,569000.0,Masculino,,No,Alta,Casado/a,7.1,Sí,Frecuente,Público
+13.4,Valparaíso,71.7,561000.0,Masculino,Básica,Sí,Media,Viudo/a,7.4,No,Frecuente,Público
+58.9,Valdivia,57.0,930000.0,Masculino,Básica,,Alta,Soltero/a,10.3,No,Frecuente,Bicicleta/Pie
+26.4,Temuco,59.6,673000.0,Masculino,Técnica,Sí,Media,Viudo/a,8.1,Sí,Frecuente,Privado
+30.2,Puerto Montt,71.2,755000.0,Femenino,Universitaria,No,Media,Casado/a,5.9,No,Ocasional,Bicicleta/Pie
+31.1,La Serena,83.2,1024000.0,Masculino,Universitaria,No,Baja,Viudo/a,6.7,No,Frecuente,Público
+60.6,Temuco,66.9,608000.0,Masculino,Básica,Sí,Media,Soltero/a,,No,Frecuente,Bicicleta/Pie
+8.0,Concepción,67.2,734000.0,Femenino,Universitaria,No,Baja,Viudo/a,5.4,Sí,Ocasional,Privado
+87.1,La Serena,65.1,891000.0,Femenino,,No,Baja,Casado/a,7.0,No,Ocasional,Privado
+55.8,Antofagasta,63.6,315000.0,Femenino,Universitaria,No,,Viudo/a,6.7,Sí,Ocasional,Privado
+43.3,Santiago,73.5,204000.0,Femenino,Universitaria,Sí,,Viudo/a,7.7,No,Ocasional,Privado
+39.2,Valdivia,,887000.0,Masculino,Universitaria,No,Alta,Viudo/a,6.9,No,Frecuente,Privado
+44.3,Valdivia,85.4,923000.0,Femenino,Media,No,Media,Separado/a,4.9,No,Nunca,Privado
+47.8,Valdivia,62.0,1316000.0,Masculino,Básica,Sí,Baja,Casado/a,6.9,No,Nunca,Privado
+49.7,Temuco,78.7,840000.0,Femenino,Técnica,Sí,Baja,Viudo/a,8.2,No,Nunca,Público
+48.3,Valdivia,54.8,1005000.0,Masculino,Universitaria,No,Media,Casado/a,,,Nunca,Bicicleta/Pie
+41.3,Puerto Montt,78.0,751000.0,Femenino,Media,Sí,Baja,Viudo/a,8.4,No,Nunca,Privado
+37.0,Valdivia,78.1,874000.0,Masculino,Técnica,Sí,,Soltero/a,4.6,No,Nunca,Bicicleta/Pie
+37.7,Concepción,74.6,,Masculino,,Sí,Baja,Soltero/a,5.0,No,,Bicicleta/Pie
+37.1,Antofagasta,58.1,,Femenino,,No,Alta,Soltero/a,5.4,Sí,Ocasional,Público
+57.0,Valdivia,73.0,903000.0,Masculino,Universitaria,No,Media,Viudo/a,9.3,No,Nunca,Bicicleta/Pie
+,Valdivia,55.8,1334000.0,,Universitaria,Sí,Media,Casado/a,,No,Frecuente,Bicicleta/Pie
+-4.1,La Serena,67.0,871000.0,Masculino,,No,Alta,,,No,Frecuente,Privado
+49.8,Antofagasta,82.4,,Masculino,,Sí,Media,Separado/a,8.9,Sí,Nunca,Privado
+42.9,Valdivia,79.6,643000.0,Femenino,Técnica,No,Alta,Soltero/a,7.1,No,Frecuente,Bicicleta/Pie
+39.7,Temuco,70.2,792000.0,Masculino,Media,Sí,,,6.3,No,Ocasional,Privado
+34.2,Valparaíso,58.3,808000.0,Masculino,Básica,No,Alta,Separado/a,7.6,No,Ocasional,Público
+56.9,Puerto Montt,77.7,246000.0,Femenino,Universitaria,Sí,Alta,,8.3,No,Frecuente,Bicicleta/Pie
+54.2,Temuco,70.2,508000.0,,Media,No,Media,Viudo/a,8.8,No,Nunca,Bicicleta/Pie
+28.4,Santiago,42.2,526000.0,Femenino,Media,No,Baja,Viudo/a,6.6,No,Ocasional,Público
+46.1,Temuco,79.4,1006000.0,Masculino,Media,Sí,Alta,Soltero/a,10.3,Sí,Frecuente,Público
+25.4,La Serena,69.7,1018000.0,Masculino,Universitaria,No,Baja,Casado/a,6.9,Sí,Frecuente,Público
+19.3,La Serena,84.4,881000.0,Femenino,Universitaria,No,Alta,Casado/a,8.8,No,Ocasional,Público
+30.6,Valdivia,56.9,1006000.0,Masculino,Media,No,Media,Soltero/a,,No,,Bicicleta/Pie
+52.9,Temuco,31.9,759000.0,Femenino,Universitaria,No,Alta,Separado/a,6.5,No,Nunca,Privado
+54.3,La Serena,,1100000.0,Masculino,,No,Alta,,4.1,No,Frecuente,Privado
+47.7,Valparaíso,,802000.0,Femenino,Técnica,,Baja,Viudo/a,5.1,Sí,Nunca,Privado
+50.9,Antofagasta,49.7,814000.0,Masculino,Universitaria,No,Alta,Viudo/a,8.8,No,Ocasional,Privado
+,Temuco,58.3,734000.0,Femenino,Técnica,No,Media,Soltero/a,8.1,Sí,Frecuente,Público
+30.4,Puerto Montt,103.1,971000.0,Masculino,Básica,Sí,Media,Viudo/a,7.9,No,Ocasional,Privado
+46.5,Valparaíso,66.3,,Femenino,Universitaria,No,Alta,Soltero/a,9.3,No,,Privado
+52.0,Valdivia,78.8,,Masculino,Básica,Sí,Alta,Soltero/a,,No,Ocasional,Bicicleta/Pie
+51.3,Antofagasta,62.2,,Masculino,Media,No,Baja,Casado/a,,,Nunca,Bicicleta/Pie
+57.8,Puerto Montt,44.9,525000.0,Masculino,Universitaria,Sí,Baja,Separado/a,6.4,No,Ocasional,Privado
+50.6,Valdivia,68.0,972000.0,Femenino,Universitaria,No,Media,,5.0,No,Nunca,Público
+45.3,Puerto Montt,66.8,778000.0,Masculino,Universitaria,Sí,Baja,Separado/a,5.8,No,Ocasional,Privado
+56.1,Valdivia,65.2,687000.0,Masculino,Básica,Sí,Alta,Viudo/a,5.4,No,Ocasional,Público
+39.6,Puerto Montt,,1023000.0,Masculino,Básica,No,Media,Casado/a,4.6,No,Frecuente,Bicicleta/Pie
+26.8,Antofagasta,73.2,648000.0,Femenino,Media,Sí,Baja,Casado/a,5.7,No,Ocasional,Público
+37.6,Valparaíso,68.2,750000.0,Masculino,,No,Media,Soltero/a,6.9,No,Frecuente,
+28.8,Puerto Montt,54.8,1150000.0,Femenino,Técnica,No,,Casado/a,9.7,No,,Bicicleta/Pie
